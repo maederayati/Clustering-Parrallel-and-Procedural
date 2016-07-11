@@ -4,14 +4,14 @@ Clustering is the task of assigning a set of objects into groups (called cluster
 
 ##Basic  k-means algorithm (Serial)
 
-Input: K, set of points $x<sub>1</sub>,…,x<sub>n</sub><br>
-Place centroid c1,…ck at random places 
+**Input**: K, set of points $x<sub>1</sub>,…,x<sub>n</sub><br>
+Place centroid c<sub>1</sub>,…,c<sub>k</sub> at random places 
 Repeat until convergence 
-	For each point xi
-		Find nearest centroid cj
-		Assign point xi to cluster j
+	For each point x<sub>i</sub>
+		Find nearest centroid c<sub>j</sub>
+		Assign point x<sub>i</sub> to cluster j
 	For each cluster j= 1,…,k
-		New centroid cj=mean of all points xi assigned to cluster j in the previous step
+		New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step
 
 ##Test Set 
 
