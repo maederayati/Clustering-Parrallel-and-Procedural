@@ -4,23 +4,27 @@ Clustering is the task of assigning a set of objects into groups (called cluster
 
 ##Basic  k-means algorithm (Serial)
 
-**Input**: K, set of points $x<sub>1</sub>,…,x<sub>n</sub><br>
-Place centroid c<sub>1</sub>,…,c<sub>k</sub> at random places 
-Repeat until convergence 
-	For each point x<sub>i</sub>
-		Find nearest centroid c<sub>j</sub>
-		Assign point x<sub>i</sub> to cluster j
-	For each cluster j= 1,…,k
-		New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step
+The folowin is the pseudocode for the basic K-measn Algorithm:
+
+**Input**: K, set of points $x<sub>1</sub>,...,x<sub>n</sub><br>
+**Output**: A map from points to clusters 1,...,K<br>
+Place centroid c<sub>1</sub>,…,c<sub>k</sub> at random places <br>
+Repeat until convergence <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	For each point x<sub>i</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Find nearest centroid c<sub>j</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Assign point x<sub>i</sub> to cluster j<br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;For each cluster j= 1,…,k<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step<br>
 
 ##Test Set 
 
-/*we initialized the (two-dimentional) data array inside our main function as follows:
-(0,0), (1,1),(2,2),(3,3)(4,4),(5,5),(6,6),(7,7),(8,8),(9,9),(10,10),(11,11)
+We initialized the (two-dimentional) data array inside our main function as follows:<br>
+(0,0), (1,1),(2,2),(3,3)(4,4),(5,5),(6,6),(7,7),(8,8),(9,9),(10,10),(11,11)<br>
 
 
 ##Result
 The following figure shows the process of updating the centroids.
+
 
 Also the next figure shows that each data point belongs to which cluster at the end. 
 
