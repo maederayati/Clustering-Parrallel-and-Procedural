@@ -20,8 +20,14 @@ Repeat until convergence <br>
 
 ##3. Test Set<br>
 
-###3.1. Test1: We initialized the (two-dimentional) data array inside our main function as follows:<br>
+### Test1: 
+
+We initialized the (two-dimentional) data array inside our main function as follows:<br>
 (0,0), (1,1),(2,2),(3,3)(4,4),(5,5),(6,6),(7,7),(8,8),(9,9),(10,10),(11,11)<br>
+
+We also initialized the two centroid points as:<br>
+(0,0), (5,5)<br><br>  
+
 
 
 ##Result<br>
