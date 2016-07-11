@@ -34,10 +34,10 @@ We also initialized the two centroid points as:<br>
 
 ###Test 1 Result:<br>
 
-The following figure shows the process of updating the centroids.<br><br>
+The following figure shows the process of updating the centroids:<br><br>
 
 ![Test 1 Result 1](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result1.jpg) <br><br>
 
-Also the next figure shows that each data point belongs to which cluster at the end. <br><br>
+The result below shows that each data point belongs to which cluster in the end: <br><br>
 
 ![Test 1 Result 2](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result2.jpg) <br><br>
