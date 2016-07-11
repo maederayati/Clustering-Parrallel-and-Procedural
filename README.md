@@ -4,7 +4,7 @@ Clustering is the task of assigning a set of objects into groups (called cluster
 
 ##Basic  k-means algorithm (Serial)
 
-Input: K, set of points x_1,…,x_n<br>
+Input: K, set of points $x<sub>1</sub>,…,x<sub>n</sub><br>
 Place centroid c1,…ck at random places 
 Repeat until convergence 
 	For each point xi
