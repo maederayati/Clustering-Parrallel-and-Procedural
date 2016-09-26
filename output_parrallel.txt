@@ -1,0 +1,3233 @@
+For 2 number of clusters and 1 number of processors:
+	 SSE = 73395.668342
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.511955
+	 cluster center of cluster 0 and dimention 1 is 0.485785
+	 cluster center of cluster 0 and dimention 2 is 0.390846
+	 cluster center of cluster 0 and dimention 3 is 0.469485
+	 cluster center of cluster 0 and dimention 4 is 0.359898
+	 cluster center of cluster 0 and dimention 5 is 0.381713
+	 cluster center of cluster 0 and dimention 6 is 0.540787
+	 cluster center of cluster 0 and dimention 7 is 0.526880
+	 cluster center of cluster 1 and dimention 0 is 0.487002
+	 cluster center of cluster 1 and dimention 1 is 0.515378
+	 cluster center of cluster 1 and dimention 2 is 0.621994
+	 cluster center of cluster 1 and dimention 3 is 0.533654
+	 cluster center of cluster 1 and dimention 4 is 0.656272
+	 cluster center of cluster 1 and dimention 5 is 0.630758
+	 cluster center of cluster 1 and dimention 6 is 0.456023
+	 cluster center of cluster 1 and dimention 7 is 0.471157
+	 ----------------------
+	 cluster size of cluster 0 is 63308
+	 cluster size of cluster 1 is 56692
+
+****************************************************************************
+For 2 number of clusters and 2 number of processors:
+	 SSE = 38189.301441
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.569115
+	 cluster center of cluster 0 and dimention 1 is 0.511361
+	 cluster center of cluster 0 and dimention 2 is 0.496630
+	 cluster center of cluster 0 and dimention 3 is 0.572200
+	 cluster center of cluster 0 and dimention 4 is 0.424934
+	 cluster center of cluster 0 and dimention 5 is 0.476014
+	 cluster center of cluster 0 and dimention 6 is 0.566716
+	 cluster center of cluster 0 and dimention 7 is 0.354343
+	 cluster center of cluster 1 and dimention 0 is 0.451415
+	 cluster center of cluster 1 and dimention 1 is 0.492013
+	 cluster center of cluster 1 and dimention 2 is 0.501900
+	 cluster center of cluster 1 and dimention 3 is 0.449542
+	 cluster center of cluster 1 and dimention 4 is 0.554412
+	 cluster center of cluster 1 and dimention 5 is 0.517230
+	 cluster center of cluster 1 and dimention 6 is 0.454477
+	 cluster center of cluster 1 and dimention 7 is 0.600303
+	 ----------------------
+	 cluster size of cluster 0 is 49051
+	 cluster size of cluster 1 is 70949
+
+****************************************************************************
+For 2 number of clusters and 4 number of processors:
+	 SSE = 19352.018837
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.572644
+	 cluster center of cluster 0 and dimention 1 is 0.505992
+	 cluster center of cluster 0 and dimention 2 is 0.518422
+	 cluster center of cluster 0 and dimention 3 is 0.493769
+	 cluster center of cluster 0 and dimention 4 is 0.533065
+	 cluster center of cluster 0 and dimention 5 is 0.518433
+	 cluster center of cluster 0 and dimention 6 is 0.511923
+	 cluster center of cluster 0 and dimention 7 is 0.515411
+	 cluster center of cluster 1 and dimention 0 is 0.424187
+	 cluster center of cluster 1 and dimention 1 is 0.494082
+	 cluster center of cluster 1 and dimention 2 is 0.482440
+	 cluster center of cluster 1 and dimention 3 is 0.507120
+	 cluster center of cluster 1 and dimention 4 is 0.466317
+	 cluster center of cluster 1 and dimention 5 is 0.477695
+	 cluster center of cluster 1 and dimention 6 is 0.485803
+	 cluster center of cluster 1 and dimention 7 is 0.485702
+	 ----------------------
+	 cluster size of cluster 0 is 60937
+	 cluster size of cluster 1 is 59063
+
+****************************************************************************
+For 2 number of clusters and 8 number of processors:
+	 SSE = 9952.795659
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.488199
+	 cluster center of cluster 0 and dimention 1 is 0.497165
+	 cluster center of cluster 0 and dimention 2 is 0.476128
+	 cluster center of cluster 0 and dimention 3 is 0.502336
+	 cluster center of cluster 0 and dimention 4 is 0.478247
+	 cluster center of cluster 0 and dimention 5 is 0.470506
+	 cluster center of cluster 0 and dimention 6 is 0.512656
+	 cluster center of cluster 0 and dimention 7 is 0.495103
+	 cluster center of cluster 1 and dimention 0 is 0.510937
+	 cluster center of cluster 1 and dimention 1 is 0.500027
+	 cluster center of cluster 1 and dimention 2 is 0.524979
+	 cluster center of cluster 1 and dimention 3 is 0.498384
+	 cluster center of cluster 1 and dimention 4 is 0.520227
+	 cluster center of cluster 1 and dimention 5 is 0.526476
+	 cluster center of cluster 1 and dimention 6 is 0.487066
+	 cluster center of cluster 1 and dimention 7 is 0.504739
+	 ----------------------
+	 cluster size of cluster 0 is 58860
+	 cluster size of cluster 1 is 61140
+
+****************************************************************************
+For 2 number of clusters and 12 number of processors:
+	 SSE = 6619.991755
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.531040
+	 cluster center of cluster 0 and dimention 1 is 0.494306
+	 cluster center of cluster 0 and dimention 2 is 0.512713
+	 cluster center of cluster 0 and dimention 3 is 0.515013
+	 cluster center of cluster 0 and dimention 4 is 0.487223
+	 cluster center of cluster 0 and dimention 5 is 0.482394
+	 cluster center of cluster 0 and dimention 6 is 0.512101
+	 cluster center of cluster 0 and dimention 7 is 0.493899
+	 cluster center of cluster 1 and dimention 0 is 0.472641
+	 cluster center of cluster 1 and dimention 1 is 0.503823
+	 cluster center of cluster 1 and dimention 2 is 0.491578
+	 cluster center of cluster 1 and dimention 3 is 0.484726
+	 cluster center of cluster 1 and dimention 4 is 0.512382
+	 cluster center of cluster 1 and dimention 5 is 0.516537
+	 cluster center of cluster 1 and dimention 6 is 0.487531
+	 cluster center of cluster 1 and dimention 7 is 0.504778
+	 ----------------------
+	 cluster size of cluster 0 is 56354
+	 cluster size of cluster 1 is 63646
+
+****************************************************************************
+For 2 number of clusters and 16 number of processors:
+	 SSE = 4897.368182
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.536846
+	 cluster center of cluster 0 and dimention 1 is 0.477194
+	 cluster center of cluster 0 and dimention 2 is 0.497018
+	 cluster center of cluster 0 and dimention 3 is 0.471436
+	 cluster center of cluster 0 and dimention 4 is 0.510067
+	 cluster center of cluster 0 and dimention 5 is 0.513041
+	 cluster center of cluster 0 and dimention 6 is 0.485284
+	 cluster center of cluster 0 and dimention 7 is 0.487236
+	 cluster center of cluster 1 and dimention 0 is 0.470968
+	 cluster center of cluster 1 and dimention 1 is 0.519483
+	 cluster center of cluster 1 and dimention 2 is 0.503249
+	 cluster center of cluster 1 and dimention 3 is 0.523434
+	 cluster center of cluster 1 and dimention 4 is 0.491332
+	 cluster center of cluster 1 and dimention 5 is 0.489185
+	 cluster center of cluster 1 and dimention 6 is 0.511307
+	 cluster center of cluster 1 and dimention 7 is 0.508204
+	 ----------------------
+	 cluster size of cluster 0 is 53038
+	 cluster size of cluster 1 is 66962
+
+****************************************************************************
+For 4 number of clusters and 1 number of processors:
+	 SSE = 66571.609184
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.404419
+	 cluster center of cluster 0 and dimention 1 is 0.628726
+	 cluster center of cluster 0 and dimention 2 is 0.509184
+	 cluster center of cluster 0 and dimention 3 is 0.608243
+	 cluster center of cluster 0 and dimention 4 is 0.407407
+	 cluster center of cluster 0 and dimention 5 is 0.617036
+	 cluster center of cluster 0 and dimention 6 is 0.460072
+	 cluster center of cluster 0 and dimention 7 is 0.347836
+	 cluster center of cluster 1 and dimention 0 is 0.724380
+	 cluster center of cluster 1 and dimention 1 is 0.352563
+	 cluster center of cluster 1 and dimention 2 is 0.522125
+	 cluster center of cluster 1 and dimention 3 is 0.447703
+	 cluster center of cluster 1 and dimention 4 is 0.498663
+	 cluster center of cluster 1 and dimention 5 is 0.511032
+	 cluster center of cluster 1 and dimention 6 is 0.550890
+	 cluster center of cluster 1 and dimention 7 is 0.523121
+	 cluster center of cluster 2 and dimention 0 is 0.296039
+	 cluster center of cluster 2 and dimention 1 is 0.474672
+	 cluster center of cluster 2 and dimention 2 is 0.345940
+	 cluster center of cluster 2 and dimention 3 is 0.251299
+	 cluster center of cluster 2 and dimention 4 is 0.569362
+	 cluster center of cluster 2 and dimention 5 is 0.347414
+	 cluster center of cluster 2 and dimention 6 is 0.465309
+	 cluster center of cluster 2 and dimention 7 is 0.606500
+	 cluster center of cluster 3 and dimention 0 is 0.338258
+	 cluster center of cluster 3 and dimention 1 is 0.643815
+	 cluster center of cluster 3 and dimention 2 is 0.615012
+	 cluster center of cluster 3 and dimention 3 is 0.729487
+	 cluster center of cluster 3 and dimention 4 is 0.691829
+	 cluster center of cluster 3 and dimention 5 is 0.341107
+	 cluster center of cluster 3 and dimention 6 is 0.504555
+	 cluster center of cluster 3 and dimention 7 is 0.717025
+	 ----------------------
+	 cluster size of cluster 0 is 40273
+	 cluster size of cluster 1 is 45949
+	 cluster size of cluster 2 is 20417
+	 cluster size of cluster 3 is 13361
+
+****************************************************************************
+For 4 number of clusters and 2 number of processors:
+	 SSE = 37508.588853
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.524123
+	 cluster center of cluster 0 and dimention 1 is 0.456513
+	 cluster center of cluster 0 and dimention 2 is 0.618241
+	 cluster center of cluster 0 and dimention 3 is 0.462849
+	 cluster center of cluster 0 and dimention 4 is 0.604704
+	 cluster center of cluster 0 and dimention 5 is 0.433249
+	 cluster center of cluster 0 and dimention 6 is 0.564934
+	 cluster center of cluster 0 and dimention 7 is 0.595061
+	 cluster center of cluster 1 and dimention 0 is 0.533288
+	 cluster center of cluster 1 and dimention 1 is 0.456454
+	 cluster center of cluster 1 and dimention 2 is 0.516994
+	 cluster center of cluster 1 and dimention 3 is 0.585894
+	 cluster center of cluster 1 and dimention 4 is 0.351247
+	 cluster center of cluster 1 and dimention 5 is 0.395093
+	 cluster center of cluster 1 and dimention 6 is 0.545770
+	 cluster center of cluster 1 and dimention 7 is 0.471347
+	 cluster center of cluster 2 and dimention 0 is 0.422279
+	 cluster center of cluster 2 and dimention 1 is 0.580206
+	 cluster center of cluster 2 and dimention 2 is 0.469245
+	 cluster center of cluster 2 and dimention 3 is 0.504438
+	 cluster center of cluster 2 and dimention 4 is 0.604933
+	 cluster center of cluster 2 and dimention 5 is 0.561282
+	 cluster center of cluster 2 and dimention 6 is 0.465510
+	 cluster center of cluster 2 and dimention 7 is 0.405587
+	 cluster center of cluster 3 and dimention 0 is 0.562953
+	 cluster center of cluster 3 and dimention 1 is 0.461992
+	 cluster center of cluster 3 and dimention 2 is 0.398969
+	 cluster center of cluster 3 and dimention 3 is 0.446315
+	 cluster center of cluster 3 and dimention 4 is 0.355395
+	 cluster center of cluster 3 and dimention 5 is 0.577578
+	 cluster center of cluster 3 and dimention 6 is 0.437130
+	 cluster center of cluster 3 and dimention 7 is 0.580672
+	 ----------------------
+	 cluster size of cluster 0 is 28416
+	 cluster size of cluster 1 is 25172
+	 cluster size of cluster 2 is 41488
+	 cluster size of cluster 3 is 24924
+
+****************************************************************************
+For 4 number of clusters and 4 number of processors:
+	 SSE = 19532.964628
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.457099
+	 cluster center of cluster 0 and dimention 1 is 0.407299
+	 cluster center of cluster 0 and dimention 2 is 0.432015
+	 cluster center of cluster 0 and dimention 3 is 0.544845
+	 cluster center of cluster 0 and dimention 4 is 0.387399
+	 cluster center of cluster 0 and dimention 5 is 0.498059
+	 cluster center of cluster 0 and dimention 6 is 0.479282
+	 cluster center of cluster 0 and dimention 7 is 0.463801
+	 cluster center of cluster 1 and dimention 0 is 0.502330
+	 cluster center of cluster 1 and dimention 1 is 0.570430
+	 cluster center of cluster 1 and dimention 2 is 0.574714
+	 cluster center of cluster 1 and dimention 3 is 0.426264
+	 cluster center of cluster 1 and dimention 4 is 0.526944
+	 cluster center of cluster 1 and dimention 5 is 0.493889
+	 cluster center of cluster 1 and dimention 6 is 0.514058
+	 cluster center of cluster 1 and dimention 7 is 0.576864
+	 cluster center of cluster 2 and dimention 0 is 0.524871
+	 cluster center of cluster 2 and dimention 1 is 0.525321
+	 cluster center of cluster 2 and dimention 2 is 0.434424
+	 cluster center of cluster 2 and dimention 3 is 0.587647
+	 cluster center of cluster 2 and dimention 4 is 0.587688
+	 cluster center of cluster 2 and dimention 5 is 0.438340
+	 cluster center of cluster 2 and dimention 6 is 0.555406
+	 cluster center of cluster 2 and dimention 7 is 0.483143
+	 cluster center of cluster 3 and dimention 0 is 0.534953
+	 cluster center of cluster 3 and dimention 1 is 0.513291
+	 cluster center of cluster 3 and dimention 2 is 0.566277
+	 cluster center of cluster 3 and dimention 3 is 0.432233
+	 cluster center of cluster 3 and dimention 4 is 0.543340
+	 cluster center of cluster 3 and dimention 5 is 0.583412
+	 cluster center of cluster 3 and dimention 6 is 0.452363
+	 cluster center of cluster 3 and dimention 7 is 0.464304
+	 ----------------------
+	 cluster size of cluster 0 is 37042
+	 cluster size of cluster 1 is 34316
+	 cluster size of cluster 2 is 25779
+	 cluster size of cluster 3 is 22863
+
+****************************************************************************
+For 4 number of clusters and 8 number of processors:
+	 SSE = 10015.907569
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.482148
+	 cluster center of cluster 0 and dimention 1 is 0.508532
+	 cluster center of cluster 0 and dimention 2 is 0.447029
+	 cluster center of cluster 0 and dimention 3 is 0.395655
+	 cluster center of cluster 0 and dimention 4 is 0.490273
+	 cluster center of cluster 0 and dimention 5 is 0.490562
+	 cluster center of cluster 0 and dimention 6 is 0.530284
+	 cluster center of cluster 0 and dimention 7 is 0.551642
+	 cluster center of cluster 1 and dimention 0 is 0.557018
+	 cluster center of cluster 1 and dimention 1 is 0.480979
+	 cluster center of cluster 1 and dimention 2 is 0.562954
+	 cluster center of cluster 1 and dimention 3 is 0.507843
+	 cluster center of cluster 1 and dimention 4 is 0.577711
+	 cluster center of cluster 1 and dimention 5 is 0.554829
+	 cluster center of cluster 1 and dimention 6 is 0.475836
+	 cluster center of cluster 1 and dimention 7 is 0.435041
+	 cluster center of cluster 2 and dimention 0 is 0.438007
+	 cluster center of cluster 2 and dimention 1 is 0.528640
+	 cluster center of cluster 2 and dimention 2 is 0.468093
+	 cluster center of cluster 2 and dimention 3 is 0.555760
+	 cluster center of cluster 2 and dimention 4 is 0.459252
+	 cluster center of cluster 2 and dimention 5 is 0.462359
+	 cluster center of cluster 2 and dimention 6 is 0.469370
+	 cluster center of cluster 2 and dimention 7 is 0.469792
+	 cluster center of cluster 3 and dimention 0 is 0.528134
+	 cluster center of cluster 3 and dimention 1 is 0.473450
+	 cluster center of cluster 3 and dimention 2 is 0.527940
+	 cluster center of cluster 3 and dimention 3 is 0.529828
+	 cluster center of cluster 3 and dimention 4 is 0.486431
+	 cluster center of cluster 3 and dimention 5 is 0.495476
+	 cluster center of cluster 3 and dimention 6 is 0.524268
+	 cluster center of cluster 3 and dimention 7 is 0.543548
+	 ----------------------
+	 cluster size of cluster 0 is 28701
+	 cluster size of cluster 1 is 28711
+	 cluster size of cluster 2 is 33578
+	 cluster size of cluster 3 is 29010
+
+****************************************************************************
+For 4 number of clusters and 12 number of processors:
+	 SSE = 6738.222001
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.543208
+	 cluster center of cluster 0 and dimention 1 is 0.499274
+	 cluster center of cluster 0 and dimention 2 is 0.527035
+	 cluster center of cluster 0 and dimention 3 is 0.473853
+	 cluster center of cluster 0 and dimention 4 is 0.520461
+	 cluster center of cluster 0 and dimention 5 is 0.500107
+	 cluster center of cluster 0 and dimention 6 is 0.463864
+	 cluster center of cluster 0 and dimention 7 is 0.487610
+	 cluster center of cluster 1 and dimention 0 is 0.466710
+	 cluster center of cluster 1 and dimention 1 is 0.488422
+	 cluster center of cluster 1 and dimention 2 is 0.455585
+	 cluster center of cluster 1 and dimention 3 is 0.520292
+	 cluster center of cluster 1 and dimention 4 is 0.493435
+	 cluster center of cluster 1 and dimention 5 is 0.514384
+	 cluster center of cluster 1 and dimention 6 is 0.520959
+	 cluster center of cluster 1 and dimention 7 is 0.499848
+	 cluster center of cluster 2 and dimention 0 is 0.494128
+	 cluster center of cluster 2 and dimention 1 is 0.524967
+	 cluster center of cluster 2 and dimention 2 is 0.532906
+	 cluster center of cluster 2 and dimention 3 is 0.451068
+	 cluster center of cluster 2 and dimention 4 is 0.492319
+	 cluster center of cluster 2 and dimention 5 is 0.485212
+	 cluster center of cluster 2 and dimention 6 is 0.520317
+	 cluster center of cluster 2 and dimention 7 is 0.448417
+	 cluster center of cluster 3 and dimention 0 is 0.498686
+	 cluster center of cluster 3 and dimention 1 is 0.487688
+	 cluster center of cluster 3 and dimention 2 is 0.488654
+	 cluster center of cluster 3 and dimention 3 is 0.549039
+	 cluster center of cluster 3 and dimention 4 is 0.495434
+	 cluster center of cluster 3 and dimention 5 is 0.498529
+	 cluster center of cluster 3 and dimention 6 is 0.492876
+	 cluster center of cluster 3 and dimention 7 is 0.551865
+	 ----------------------
+	 cluster size of cluster 0 is 28368
+	 cluster size of cluster 1 is 30428
+	 cluster size of cluster 2 is 28995
+	 cluster size of cluster 3 is 32209
+
+****************************************************************************
+For 4 number of clusters and 16 number of processors:
+	 SSE = 4913.571065
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.542884
+	 cluster center of cluster 0 and dimention 1 is 0.496734
+	 cluster center of cluster 0 and dimention 2 is 0.515483
+	 cluster center of cluster 0 and dimention 3 is 0.546711
+	 cluster center of cluster 0 and dimention 4 is 0.503867
+	 cluster center of cluster 0 and dimention 5 is 0.478648
+	 cluster center of cluster 0 and dimention 6 is 0.469365
+	 cluster center of cluster 0 and dimention 7 is 0.511303
+	 cluster center of cluster 1 and dimention 0 is 0.512270
+	 cluster center of cluster 1 and dimention 1 is 0.526982
+	 cluster center of cluster 1 and dimention 2 is 0.486177
+	 cluster center of cluster 1 and dimention 3 is 0.505012
+	 cluster center of cluster 1 and dimention 4 is 0.492621
+	 cluster center of cluster 1 and dimention 5 is 0.481221
+	 cluster center of cluster 1 and dimention 6 is 0.517427
+	 cluster center of cluster 1 and dimention 7 is 0.453865
+	 cluster center of cluster 2 and dimention 0 is 0.500810
+	 cluster center of cluster 2 and dimention 1 is 0.486066
+	 cluster center of cluster 2 and dimention 2 is 0.445734
+	 cluster center of cluster 2 and dimention 3 is 0.490834
+	 cluster center of cluster 2 and dimention 4 is 0.447753
+	 cluster center of cluster 2 and dimention 5 is 0.533524
+	 cluster center of cluster 2 and dimention 6 is 0.470529
+	 cluster center of cluster 2 and dimention 7 is 0.484167
+	 cluster center of cluster 3 and dimention 0 is 0.443532
+	 cluster center of cluster 3 and dimention 1 is 0.493119
+	 cluster center of cluster 3 and dimention 2 is 0.531060
+	 cluster center of cluster 3 and dimention 3 is 0.451639
+	 cluster center of cluster 3 and dimention 4 is 0.539929
+	 cluster center of cluster 3 and dimention 5 is 0.510862
+	 cluster center of cluster 3 and dimention 6 is 0.543354
+	 cluster center of cluster 3 and dimention 7 is 0.532291
+	 ----------------------
+	 cluster size of cluster 0 is 37875
+	 cluster size of cluster 1 is 24005
+	 cluster size of cluster 2 is 24779
+	 cluster size of cluster 3 is 33341
+
+****************************************************************************
+For 8 number of clusters and 1 number of processors:
+	 SSE = 58761.257638
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.463302
+	 cluster center of cluster 0 and dimention 1 is 0.709692
+	 cluster center of cluster 0 and dimention 2 is 0.678526
+	 cluster center of cluster 0 and dimention 3 is 0.362291
+	 cluster center of cluster 0 and dimention 4 is 0.300972
+	 cluster center of cluster 0 and dimention 5 is 0.645933
+	 cluster center of cluster 0 and dimention 6 is 0.669571
+	 cluster center of cluster 0 and dimention 7 is 0.316908
+	 cluster center of cluster 1 and dimention 0 is 0.383271
+	 cluster center of cluster 1 and dimention 1 is 0.751633
+	 cluster center of cluster 1 and dimention 2 is 0.496537
+	 cluster center of cluster 1 and dimention 3 is 0.779863
+	 cluster center of cluster 1 and dimention 4 is 0.619728
+	 cluster center of cluster 1 and dimention 5 is 0.551930
+	 cluster center of cluster 1 and dimention 6 is 0.419269
+	 cluster center of cluster 1 and dimention 7 is 0.646324
+	 cluster center of cluster 2 and dimention 0 is 0.723984
+	 cluster center of cluster 2 and dimention 1 is 0.457132
+	 cluster center of cluster 2 and dimention 2 is 0.516856
+	 cluster center of cluster 2 and dimention 3 is 0.589906
+	 cluster center of cluster 2 and dimention 4 is 0.625800
+	 cluster center of cluster 2 and dimention 5 is 0.403074
+	 cluster center of cluster 2 and dimention 6 is 0.422176
+	 cluster center of cluster 2 and dimention 7 is 0.430298
+	 cluster center of cluster 3 and dimention 0 is 0.534193
+	 cluster center of cluster 3 and dimention 1 is 0.565876
+	 cluster center of cluster 3 and dimention 2 is 0.445270
+	 cluster center of cluster 3 and dimention 3 is 0.432114
+	 cluster center of cluster 3 and dimention 4 is 0.216378
+	 cluster center of cluster 3 and dimention 5 is 0.420198
+	 cluster center of cluster 3 and dimention 6 is 0.342698
+	 cluster center of cluster 3 and dimention 7 is 0.618607
+	 cluster center of cluster 4 and dimention 0 is 0.251662
+	 cluster center of cluster 4 and dimention 1 is 0.264980
+	 cluster center of cluster 4 and dimention 2 is 0.679112
+	 cluster center of cluster 4 and dimention 3 is 0.458412
+	 cluster center of cluster 4 and dimention 4 is 0.651061
+	 cluster center of cluster 4 and dimention 5 is 0.487777
+	 cluster center of cluster 4 and dimention 6 is 0.461401
+	 cluster center of cluster 4 and dimention 7 is 0.351591
+	 cluster center of cluster 5 and dimention 0 is 0.424523
+	 cluster center of cluster 5 and dimention 1 is 0.244305
+	 cluster center of cluster 5 and dimention 2 is 0.265192
+	 cluster center of cluster 5 and dimention 3 is 0.307909
+	 cluster center of cluster 5 and dimention 4 is 0.481316
+	 cluster center of cluster 5 and dimention 5 is 0.524207
+	 cluster center of cluster 5 and dimention 6 is 0.704725
+	 cluster center of cluster 5 and dimention 7 is 0.487692
+	 cluster center of cluster 6 and dimention 0 is 0.752529
+	 cluster center of cluster 6 and dimention 1 is 0.443702
+	 cluster center of cluster 6 and dimention 2 is 0.186907
+	 cluster center of cluster 6 and dimention 3 is 0.640315
+	 cluster center of cluster 6 and dimention 4 is 0.568244
+	 cluster center of cluster 6 and dimention 5 is 0.486886
+	 cluster center of cluster 6 and dimention 6 is 0.842698
+	 cluster center of cluster 6 and dimention 7 is 0.399833
+	 cluster center of cluster 7 and dimention 0 is 0.266137
+	 cluster center of cluster 7 and dimention 1 is 0.509402
+	 cluster center of cluster 7 and dimention 2 is 0.586248
+	 cluster center of cluster 7 and dimention 3 is 0.333941
+	 cluster center of cluster 7 and dimention 4 is 0.664278
+	 cluster center of cluster 7 and dimention 5 is 0.761921
+	 cluster center of cluster 7 and dimention 6 is 0.615815
+	 cluster center of cluster 7 and dimention 7 is 0.795569
+	 ----------------------
+	 cluster size of cluster 0 is 12985
+	 cluster size of cluster 1 is 15469
+	 cluster size of cluster 2 is 28467
+	 cluster size of cluster 3 is 22783
+	 cluster size of cluster 4 is 14736
+	 cluster size of cluster 5 is 12636
+	 cluster size of cluster 6 is 5583
+	 cluster size of cluster 7 is 7341
+
+****************************************************************************
+For 8 number of clusters and 2 number of processors:
+	 SSE = 35644.185867
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.401059
+	 cluster center of cluster 0 and dimention 1 is 0.536036
+	 cluster center of cluster 0 and dimention 2 is 0.506921
+	 cluster center of cluster 0 and dimention 3 is 0.461050
+	 cluster center of cluster 0 and dimention 4 is 0.483789
+	 cluster center of cluster 0 and dimention 5 is 0.419142
+	 cluster center of cluster 0 and dimention 6 is 0.479466
+	 cluster center of cluster 0 and dimention 7 is 0.354574
+	 cluster center of cluster 1 and dimention 0 is 0.655352
+	 cluster center of cluster 1 and dimention 1 is 0.549900
+	 cluster center of cluster 1 and dimention 2 is 0.724048
+	 cluster center of cluster 1 and dimention 3 is 0.503018
+	 cluster center of cluster 1 and dimention 4 is 0.536647
+	 cluster center of cluster 1 and dimention 5 is 0.662771
+	 cluster center of cluster 1 and dimention 6 is 0.634959
+	 cluster center of cluster 1 and dimention 7 is 0.652836
+	 cluster center of cluster 2 and dimention 0 is 0.586344
+	 cluster center of cluster 2 and dimention 1 is 0.489317
+	 cluster center of cluster 2 and dimention 2 is 0.378941
+	 cluster center of cluster 2 and dimention 3 is 0.572024
+	 cluster center of cluster 2 and dimention 4 is 0.482675
+	 cluster center of cluster 2 and dimention 5 is 0.433451
+	 cluster center of cluster 2 and dimention 6 is 0.451374
+	 cluster center of cluster 2 and dimention 7 is 0.566513
+	 cluster center of cluster 3 and dimention 0 is 0.497157
+	 cluster center of cluster 3 and dimention 1 is 0.484732
+	 cluster center of cluster 3 and dimention 2 is 0.405243
+	 cluster center of cluster 3 and dimention 3 is 0.556522
+	 cluster center of cluster 3 and dimention 4 is 0.429244
+	 cluster center of cluster 3 and dimention 5 is 0.374905
+	 cluster center of cluster 3 and dimention 6 is 0.511286
+	 cluster center of cluster 3 and dimention 7 is 0.598673
+	 cluster center of cluster 4 and dimention 0 is 0.409102
+	 cluster center of cluster 4 and dimention 1 is 0.432562
+	 cluster center of cluster 4 and dimention 2 is 0.633458
+	 cluster center of cluster 4 and dimention 3 is 0.454520
+	 cluster center of cluster 4 and dimention 4 is 0.392766
+	 cluster center of cluster 4 and dimention 5 is 0.470113
+	 cluster center of cluster 4 and dimention 6 is 0.354696
+	 cluster center of cluster 4 and dimention 7 is 0.227510
+	 cluster center of cluster 5 and dimention 0 is 0.627542
+	 cluster center of cluster 5 and dimention 1 is 0.611338
+	 cluster center of cluster 5 and dimention 2 is 0.662743
+	 cluster center of cluster 5 and dimention 3 is 0.487695
+	 cluster center of cluster 5 and dimention 4 is 0.673276
+	 cluster center of cluster 5 and dimention 5 is 0.612127
+	 cluster center of cluster 5 and dimention 6 is 0.408763
+	 cluster center of cluster 5 and dimention 7 is 0.402168
+	 cluster center of cluster 6 and dimention 0 is 0.576473
+	 cluster center of cluster 6 and dimention 1 is 0.450939
+	 cluster center of cluster 6 and dimention 2 is 0.484082
+	 cluster center of cluster 6 and dimention 3 is 0.584282
+	 cluster center of cluster 6 and dimention 4 is 0.455938
+	 cluster center of cluster 6 and dimention 5 is 0.686472
+	 cluster center of cluster 6 and dimention 6 is 0.434994
+	 cluster center of cluster 6 and dimention 7 is 0.585160
+	 cluster center of cluster 7 and dimention 0 is 0.358157
+	 cluster center of cluster 7 and dimention 1 is 0.532645
+	 cluster center of cluster 7 and dimention 2 is 0.492083
+	 cluster center of cluster 7 and dimention 3 is 0.328140
+	 cluster center of cluster 7 and dimention 4 is 0.643437
+	 cluster center of cluster 7 and dimention 5 is 0.426408
+	 cluster center of cluster 7 and dimention 6 is 0.710610
+	 cluster center of cluster 7 and dimention 7 is 0.515119
+	 ----------------------
+	 cluster size of cluster 0 is 19120
+	 cluster size of cluster 1 is 7993
+	 cluster size of cluster 2 is 22453
+	 cluster size of cluster 3 is 13099
+	 cluster size of cluster 4 is 11222
+	 cluster size of cluster 5 is 5670
+	 cluster size of cluster 6 is 22482
+	 cluster size of cluster 7 is 17961
+
+****************************************************************************
+For 8 number of clusters and 4 number of processors:
+	 SSE = 18379.799575
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.409591
+	 cluster center of cluster 0 and dimention 1 is 0.407014
+	 cluster center of cluster 0 and dimention 2 is 0.541769
+	 cluster center of cluster 0 and dimention 3 is 0.502538
+	 cluster center of cluster 0 and dimention 4 is 0.474117
+	 cluster center of cluster 0 and dimention 5 is 0.405771
+	 cluster center of cluster 0 and dimention 6 is 0.507899
+	 cluster center of cluster 0 and dimention 7 is 0.520418
+	 cluster center of cluster 1 and dimention 0 is 0.413114
+	 cluster center of cluster 1 and dimention 1 is 0.486448
+	 cluster center of cluster 1 and dimention 2 is 0.644715
+	 cluster center of cluster 1 and dimention 3 is 0.391423
+	 cluster center of cluster 1 and dimention 4 is 0.363516
+	 cluster center of cluster 1 and dimention 5 is 0.431491
+	 cluster center of cluster 1 and dimention 6 is 0.412210
+	 cluster center of cluster 1 and dimention 7 is 0.376688
+	 cluster center of cluster 2 and dimention 0 is 0.352377
+	 cluster center of cluster 2 and dimention 1 is 0.445020
+	 cluster center of cluster 2 and dimention 2 is 0.512795
+	 cluster center of cluster 2 and dimention 3 is 0.482004
+	 cluster center of cluster 2 and dimention 4 is 0.536587
+	 cluster center of cluster 2 and dimention 5 is 0.578002
+	 cluster center of cluster 2 and dimention 6 is 0.596085
+	 cluster center of cluster 2 and dimention 7 is 0.599891
+	 cluster center of cluster 3 and dimention 0 is 0.377979
+	 cluster center of cluster 3 and dimention 1 is 0.544763
+	 cluster center of cluster 3 and dimention 2 is 0.533879
+	 cluster center of cluster 3 and dimention 3 is 0.509242
+	 cluster center of cluster 3 and dimention 4 is 0.481851
+	 cluster center of cluster 3 and dimention 5 is 0.543530
+	 cluster center of cluster 3 and dimention 6 is 0.466582
+	 cluster center of cluster 3 and dimention 7 is 0.305504
+	 cluster center of cluster 4 and dimention 0 is 0.597980
+	 cluster center of cluster 4 and dimention 1 is 0.456645
+	 cluster center of cluster 4 and dimention 2 is 0.531868
+	 cluster center of cluster 4 and dimention 3 is 0.441177
+	 cluster center of cluster 4 and dimention 4 is 0.528607
+	 cluster center of cluster 4 and dimention 5 is 0.589201
+	 cluster center of cluster 4 and dimention 6 is 0.521176
+	 cluster center of cluster 4 and dimention 7 is 0.670562
+	 cluster center of cluster 5 and dimention 0 is 0.557856
+	 cluster center of cluster 5 and dimention 1 is 0.638093
+	 cluster center of cluster 5 and dimention 2 is 0.438310
+	 cluster center of cluster 5 and dimention 3 is 0.604253
+	 cluster center of cluster 5 and dimention 4 is 0.606462
+	 cluster center of cluster 5 and dimention 5 is 0.492355
+	 cluster center of cluster 5 and dimention 6 is 0.481559
+	 cluster center of cluster 5 and dimention 7 is 0.454368
+	 cluster center of cluster 6 and dimention 0 is 0.589726
+	 cluster center of cluster 6 and dimention 1 is 0.402444
+	 cluster center of cluster 6 and dimention 2 is 0.536107
+	 cluster center of cluster 6 and dimention 3 is 0.654604
+	 cluster center of cluster 6 and dimention 4 is 0.410452
+	 cluster center of cluster 6 and dimention 5 is 0.486502
+	 cluster center of cluster 6 and dimention 6 is 0.588381
+	 cluster center of cluster 6 and dimention 7 is 0.511828
+	 cluster center of cluster 7 and dimention 0 is 0.612603
+	 cluster center of cluster 7 and dimention 1 is 0.596771
+	 cluster center of cluster 7 and dimention 2 is 0.316265
+	 cluster center of cluster 7 and dimention 3 is 0.434919
+	 cluster center of cluster 7 and dimention 4 is 0.514970
+	 cluster center of cluster 7 and dimention 5 is 0.447494
+	 cluster center of cluster 7 and dimention 6 is 0.433902
+	 cluster center of cluster 7 and dimention 7 is 0.470272
+	 ----------------------
+	 cluster size of cluster 0 is 19755
+	 cluster size of cluster 1 is 8687
+	 cluster size of cluster 2 is 9916
+	 cluster size of cluster 3 is 16535
+	 cluster size of cluster 4 is 22909
+	 cluster size of cluster 5 is 16079
+	 cluster size of cluster 6 is 10528
+	 cluster size of cluster 7 is 15591
+
+****************************************************************************
+For 8 number of clusters and 8 number of processors:
+	 SSE = 9723.958265
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.510541
+	 cluster center of cluster 0 and dimention 1 is 0.556713
+	 cluster center of cluster 0 and dimention 2 is 0.454014
+	 cluster center of cluster 0 and dimention 3 is 0.534537
+	 cluster center of cluster 0 and dimention 4 is 0.551732
+	 cluster center of cluster 0 and dimention 5 is 0.484886
+	 cluster center of cluster 0 and dimention 6 is 0.534630
+	 cluster center of cluster 0 and dimention 7 is 0.478542
+	 cluster center of cluster 1 and dimention 0 is 0.490301
+	 cluster center of cluster 1 and dimention 1 is 0.415839
+	 cluster center of cluster 1 and dimention 2 is 0.538368
+	 cluster center of cluster 1 and dimention 3 is 0.561687
+	 cluster center of cluster 1 and dimention 4 is 0.535865
+	 cluster center of cluster 1 and dimention 5 is 0.495536
+	 cluster center of cluster 1 and dimention 6 is 0.498454
+	 cluster center of cluster 1 and dimention 7 is 0.455371
+	 cluster center of cluster 2 and dimention 0 is 0.569027
+	 cluster center of cluster 2 and dimention 1 is 0.532348
+	 cluster center of cluster 2 and dimention 2 is 0.429807
+	 cluster center of cluster 2 and dimention 3 is 0.449321
+	 cluster center of cluster 2 and dimention 4 is 0.524973
+	 cluster center of cluster 2 and dimention 5 is 0.493863
+	 cluster center of cluster 2 and dimention 6 is 0.440253
+	 cluster center of cluster 2 and dimention 7 is 0.443831
+	 cluster center of cluster 3 and dimention 0 is 0.460622
+	 cluster center of cluster 3 and dimention 1 is 0.501403
+	 cluster center of cluster 3 and dimention 2 is 0.531322
+	 cluster center of cluster 3 and dimention 3 is 0.585420
+	 cluster center of cluster 3 and dimention 4 is 0.434051
+	 cluster center of cluster 3 and dimention 5 is 0.492613
+	 cluster center of cluster 3 and dimention 6 is 0.507177
+	 cluster center of cluster 3 and dimention 7 is 0.626713
+	 cluster center of cluster 4 and dimention 0 is 0.526142
+	 cluster center of cluster 4 and dimention 1 is 0.450821
+	 cluster center of cluster 4 and dimention 2 is 0.637847
+	 cluster center of cluster 4 and dimention 3 is 0.409992
+	 cluster center of cluster 4 and dimention 4 is 0.446226
+	 cluster center of cluster 4 and dimention 5 is 0.556266
+	 cluster center of cluster 4 and dimention 6 is 0.401793
+	 cluster center of cluster 4 and dimention 7 is 0.482215
+	 cluster center of cluster 5 and dimention 0 is 0.436757
+	 cluster center of cluster 5 and dimention 1 is 0.493682
+	 cluster center of cluster 5 and dimention 2 is 0.477869
+	 cluster center of cluster 5 and dimention 3 is 0.488737
+	 cluster center of cluster 5 and dimention 4 is 0.470910
+	 cluster center of cluster 5 and dimention 5 is 0.528172
+	 cluster center of cluster 5 and dimention 6 is 0.504890
+	 cluster center of cluster 5 and dimention 7 is 0.559347
+	 cluster center of cluster 6 and dimention 0 is 0.467690
+	 cluster center of cluster 6 and dimention 1 is 0.510044
+	 cluster center of cluster 6 and dimention 2 is 0.409556
+	 cluster center of cluster 6 and dimention 3 is 0.518161
+	 cluster center of cluster 6 and dimention 4 is 0.534616
+	 cluster center of cluster 6 and dimention 5 is 0.419521
+	 cluster center of cluster 6 and dimention 6 is 0.557320
+	 cluster center of cluster 6 and dimention 7 is 0.373764
+	 cluster center of cluster 7 and dimention 0 is 0.519488
+	 cluster center of cluster 7 and dimention 1 is 0.548994
+	 cluster center of cluster 7 and dimention 2 is 0.543502
+	 cluster center of cluster 7 and dimention 3 is 0.442019
+	 cluster center of cluster 7 and dimention 4 is 0.507635
+	 cluster center of cluster 7 and dimention 5 is 0.553820
+	 cluster center of cluster 7 and dimention 6 is 0.570271
+	 cluster center of cluster 7 and dimention 7 is 0.591200
+	 ----------------------
+	 cluster size of cluster 0 is 15066
+	 cluster size of cluster 1 is 16002
+	 cluster size of cluster 2 is 17479
+	 cluster size of cluster 3 is 16507
+	 cluster size of cluster 4 is 14242
+	 cluster size of cluster 5 is 13097
+	 cluster size of cluster 6 is 14843
+	 cluster size of cluster 7 is 12764
+
+****************************************************************************
+hrothgar.hpcc.ttu.edu.18660ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18646ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18647ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18649ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18641ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18651ipath_userinit: assign_context command failed: Cannot allocate memory
+hrothgar.hpcc.ttu.edu.18651hrothgar.hpcc.ttu.edu.18659ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.18661ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+Driver initialization failure on /dev/ipath (err=23)
+hrothgar.hpcc.ttu.edu.18662ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+--------------------------------------------------------------------------
+PSM was unable to open an endpoint. Please make sure that the network link is
+active on the node and the hardware is functioning. 
+
+  Error: Failure in initializing endpoint
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+It looks like MPI_INIT failed for some reason; your parallel process is
+likely to abort.  There are many reasons that a parallel process can
+fail during MPI_INIT; some of which are due to configuration or environment
+problems.  This failure appears to be an internal failure; here's some
+additional information (which may only be relevant to an Open MPI
+developer):
+
+  PML add procs failed
+  --> Returned "Error" (-1) instead of "Success" (0)
+--------------------------------------------------------------------------
+[hrothgar.hpcc.ttu.edu:18658] *** An error occurred in MPI_Init
+[hrothgar.hpcc.ttu.edu:18658] *** on a NULL communicator
+[hrothgar.hpcc.ttu.edu:18658] *** Unknown error
+[hrothgar.hpcc.ttu.edu:18658] *** MPI_ERRORS_ARE_FATAL: your MPI job will now abort
+--------------------------------------------------------------------------
+An MPI process is aborting at a time when it cannot guarantee that all
+of its peer processes in the job will be killed properly.  You should
+double check that everything has shut down cleanly.
+
+  Reason:     Before MPI_INIT completed
+  Local host: hrothgar.hpcc.ttu.edu
+  PID:        18651
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun has exited due to process rank 4 with PID 18651 on
+node hrothgar.hpcc.ttu.edu exiting improperly. There are two reasons this could occur:
+
+1. this process did not call "init" before exiting, but others in
+the job did. This can cause a job to hang indefinitely while it waits
+for all processes to call "init". By rule, if one process calls "init",
+then ALL processes must call "init" prior to termination.
+
+2. this process called "init", but exited without calling "finalize".
+By rule, all processes that call "init" MUST call "finalize" prior to
+exiting or it will be considered an "abnormal termination"
+
+This may have caused other processes in the application to be
+terminated by signals sent by mpirun (as reported here).
+--------------------------------------------------------------------------
+[hrothgar.hpcc.ttu.edu:18575] 1 more process has sent help message help-mtl-psm.txt / unable to open endpoint
+[hrothgar.hpcc.ttu.edu:18575] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[hrothgar.hpcc.ttu.edu:18575] 11 more processes have sent help message help-mpi-runtime / mpi_init:startup:internal-failure
+[hrothgar.hpcc.ttu.edu:18575] 11 more processes have sent help message help-mpi-errors.txt / mpi_errors_are_fatal unknown handle
+[hrothgar.hpcc.ttu.edu:18575] 10 more processes have sent help message help-mpi-runtime.txt / ompi mpi abort:cannot guarantee all killed
+hrothgar.hpcc.ttu.edu.23147ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23153ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23162ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23171ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23157ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23151ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23159ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23149ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23158ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23170ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23172ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23166ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23175ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23161ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23164ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+hrothgar.hpcc.ttu.edu.23174ipath_userinit: Mismatched user minor version (12) and driver minor version (13) while context sharing. Ensure that driver and library are from the same release.
+For 8 number of clusters and 16 number of processors:
+	 SSE = 4766.210738
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.443018
+	 cluster center of cluster 0 and dimention 1 is 0.462294
+	 cluster center of cluster 0 and dimention 2 is 0.532959
+	 cluster center of cluster 0 and dimention 3 is 0.493284
+	 cluster center of cluster 0 and dimention 4 is 0.460404
+	 cluster center of cluster 0 and dimention 5 is 0.498322
+	 cluster center of cluster 0 and dimention 6 is 0.509817
+	 cluster center of cluster 0 and dimention 7 is 0.528779
+	 cluster center of cluster 1 and dimention 0 is 0.472134
+	 cluster center of cluster 1 and dimention 1 is 0.476280
+	 cluster center of cluster 1 and dimention 2 is 0.483525
+	 cluster center of cluster 1 and dimention 3 is 0.582548
+	 cluster center of cluster 1 and dimention 4 is 0.509457
+	 cluster center of cluster 1 and dimention 5 is 0.544736
+	 cluster center of cluster 1 and dimention 6 is 0.520992
+	 cluster center of cluster 1 and dimention 7 is 0.558086
+	 cluster center of cluster 2 and dimention 0 is 0.514521
+	 cluster center of cluster 2 and dimention 1 is 0.460558
+	 cluster center of cluster 2 and dimention 2 is 0.538385
+	 cluster center of cluster 2 and dimention 3 is 0.514513
+	 cluster center of cluster 2 and dimention 4 is 0.540227
+	 cluster center of cluster 2 and dimention 5 is 0.489905
+	 cluster center of cluster 2 and dimention 6 is 0.470913
+	 cluster center of cluster 2 and dimention 7 is 0.448921
+	 cluster center of cluster 3 and dimention 0 is 0.585590
+	 cluster center of cluster 3 and dimention 1 is 0.446896
+	 cluster center of cluster 3 and dimention 2 is 0.439845
+	 cluster center of cluster 3 and dimention 3 is 0.535945
+	 cluster center of cluster 3 and dimention 4 is 0.541609
+	 cluster center of cluster 3 and dimention 5 is 0.506048
+	 cluster center of cluster 3 and dimention 6 is 0.484446
+	 cluster center of cluster 3 and dimention 7 is 0.574532
+	 cluster center of cluster 4 and dimention 0 is 0.404022
+	 cluster center of cluster 4 and dimention 1 is 0.517606
+	 cluster center of cluster 4 and dimention 2 is 0.500136
+	 cluster center of cluster 4 and dimention 3 is 0.489813
+	 cluster center of cluster 4 and dimention 4 is 0.442333
+	 cluster center of cluster 4 and dimention 5 is 0.446940
+	 cluster center of cluster 4 and dimention 6 is 0.443867
+	 cluster center of cluster 4 and dimention 7 is 0.458093
+	 cluster center of cluster 5 and dimention 0 is 0.445850
+	 cluster center of cluster 5 and dimention 1 is 0.601385
+	 cluster center of cluster 5 and dimention 2 is 0.566574
+	 cluster center of cluster 5 and dimention 3 is 0.439658
+	 cluster center of cluster 5 and dimention 4 is 0.560009
+	 cluster center of cluster 5 and dimention 5 is 0.454313
+	 cluster center of cluster 5 and dimention 6 is 0.518425
+	 cluster center of cluster 5 and dimention 7 is 0.484614
+	 cluster center of cluster 6 and dimention 0 is 0.498820
+	 cluster center of cluster 6 and dimention 1 is 0.535267
+	 cluster center of cluster 6 and dimention 2 is 0.481975
+	 cluster center of cluster 6 and dimention 3 is 0.472887
+	 cluster center of cluster 6 and dimention 4 is 0.501822
+	 cluster center of cluster 6 and dimention 5 is 0.503048
+	 cluster center of cluster 6 and dimention 6 is 0.477589
+	 cluster center of cluster 6 and dimention 7 is 0.492512
+	 cluster center of cluster 7 and dimention 0 is 0.622437
+	 cluster center of cluster 7 and dimention 1 is 0.523744
+	 cluster center of cluster 7 and dimention 2 is 0.449785
+	 cluster center of cluster 7 and dimention 3 is 0.476733
+	 cluster center of cluster 7 and dimention 4 is 0.438123
+	 cluster center of cluster 7 and dimention 5 is 0.534341
+	 cluster center of cluster 7 and dimention 6 is 0.562252
+	 cluster center of cluster 7 and dimention 7 is 0.473358
+	 ----------------------
+	 cluster size of cluster 0 is 14880
+	 cluster size of cluster 1 is 15029
+	 cluster size of cluster 2 is 19116
+	 cluster size of cluster 3 is 12093
+	 cluster size of cluster 4 is 12832
+	 cluster size of cluster 5 is 11979
+	 cluster size of cluster 6 is 18284
+	 cluster size of cluster 7 is 15787
+
+****************************************************************************
+For 16 number of clusters and 1 number of processors:
+	 SSE = 49978.877197
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.301367
+	 cluster center of cluster 0 and dimention 1 is 0.305558
+	 cluster center of cluster 0 and dimention 2 is 0.314476
+	 cluster center of cluster 0 and dimention 3 is 0.608131
+	 cluster center of cluster 0 and dimention 4 is 0.312242
+	 cluster center of cluster 0 and dimention 5 is 0.396935
+	 cluster center of cluster 0 and dimention 6 is 0.183906
+	 cluster center of cluster 0 and dimention 7 is 0.567973
+	 cluster center of cluster 1 and dimention 0 is 0.736031
+	 cluster center of cluster 1 and dimention 1 is 0.265023
+	 cluster center of cluster 1 and dimention 2 is 0.208917
+	 cluster center of cluster 1 and dimention 3 is 0.230878
+	 cluster center of cluster 1 and dimention 4 is 0.205021
+	 cluster center of cluster 1 and dimention 5 is 0.253318
+	 cluster center of cluster 1 and dimention 6 is 0.386340
+	 cluster center of cluster 1 and dimention 7 is 0.638638
+	 cluster center of cluster 2 and dimention 0 is 0.345060
+	 cluster center of cluster 2 and dimention 1 is 0.581314
+	 cluster center of cluster 2 and dimention 2 is 0.768128
+	 cluster center of cluster 2 and dimention 3 is 0.597787
+	 cluster center of cluster 2 and dimention 4 is 0.776549
+	 cluster center of cluster 2 and dimention 5 is 0.654302
+	 cluster center of cluster 2 and dimention 6 is 0.427552
+	 cluster center of cluster 2 and dimention 7 is 0.710327
+	 cluster center of cluster 3 and dimention 0 is 0.497835
+	 cluster center of cluster 3 and dimention 1 is 0.786924
+	 cluster center of cluster 3 and dimention 2 is 0.332664
+	 cluster center of cluster 3 and dimention 3 is 0.464772
+	 cluster center of cluster 3 and dimention 4 is 0.779909
+	 cluster center of cluster 3 and dimention 5 is 0.514686
+	 cluster center of cluster 3 and dimention 6 is 0.662813
+	 cluster center of cluster 3 and dimention 7 is 0.403731
+	 cluster center of cluster 4 and dimention 0 is 0.578145
+	 cluster center of cluster 4 and dimention 1 is 0.262284
+	 cluster center of cluster 4 and dimention 2 is 0.766441
+	 cluster center of cluster 4 and dimention 3 is 0.660555
+	 cluster center of cluster 4 and dimention 4 is 0.484011
+	 cluster center of cluster 4 and dimention 5 is 0.752614
+	 cluster center of cluster 4 and dimention 6 is 0.274402
+	 cluster center of cluster 4 and dimention 7 is 0.307657
+	 cluster center of cluster 5 and dimention 0 is 0.804970
+	 cluster center of cluster 5 and dimention 1 is 0.501289
+	 cluster center of cluster 5 and dimention 2 is 0.438295
+	 cluster center of cluster 5 and dimention 3 is 0.758324
+	 cluster center of cluster 5 and dimention 4 is 0.407882
+	 cluster center of cluster 5 and dimention 5 is 0.679812
+	 cluster center of cluster 5 and dimention 6 is 0.394552
+	 cluster center of cluster 5 and dimention 7 is 0.658737
+	 cluster center of cluster 6 and dimention 0 is 0.370612
+	 cluster center of cluster 6 and dimention 1 is 0.546766
+	 cluster center of cluster 6 and dimention 2 is 0.344344
+	 cluster center of cluster 6 and dimention 3 is 0.274143
+	 cluster center of cluster 6 and dimention 4 is 0.351411
+	 cluster center of cluster 6 and dimention 5 is 0.630114
+	 cluster center of cluster 6 and dimention 6 is 0.718323
+	 cluster center of cluster 6 and dimention 7 is 0.723177
+	 cluster center of cluster 7 and dimention 0 is 0.536889
+	 cluster center of cluster 7 and dimention 1 is 0.257644
+	 cluster center of cluster 7 and dimention 2 is 0.263156
+	 cluster center of cluster 7 and dimention 3 is 0.413495
+	 cluster center of cluster 7 and dimention 4 is 0.625596
+	 cluster center of cluster 7 and dimention 5 is 0.810792
+	 cluster center of cluster 7 and dimention 6 is 0.645167
+	 cluster center of cluster 7 and dimention 7 is 0.328536
+	 cluster center of cluster 8 and dimention 0 is 0.796097
+	 cluster center of cluster 8 and dimention 1 is 0.595489
+	 cluster center of cluster 8 and dimention 2 is 0.218825
+	 cluster center of cluster 8 and dimention 3 is 0.529302
+	 cluster center of cluster 8 and dimention 4 is 0.392159
+	 cluster center of cluster 8 and dimention 5 is 0.283552
+	 cluster center of cluster 8 and dimention 6 is 0.626394
+	 cluster center of cluster 8 and dimention 7 is 0.462990
+	 cluster center of cluster 9 and dimention 0 is 0.475343
+	 cluster center of cluster 9 and dimention 1 is 0.310560
+	 cluster center of cluster 9 and dimention 2 is 0.318545
+	 cluster center of cluster 9 and dimention 3 is 0.785556
+	 cluster center of cluster 9 and dimention 4 is 0.835830
+	 cluster center of cluster 9 and dimention 5 is 0.488421
+	 cluster center of cluster 9 and dimention 6 is 0.424815
+	 cluster center of cluster 9 and dimention 7 is 0.367407
+	 cluster center of cluster 10 and dimention 0 is 0.213312
+	 cluster center of cluster 10 and dimention 1 is 0.754350
+	 cluster center of cluster 10 and dimention 2 is 0.393255
+	 cluster center of cluster 10 and dimention 3 is 0.419681
+	 cluster center of cluster 10 and dimention 4 is 0.497370
+	 cluster center of cluster 10 and dimention 5 is 0.405164
+	 cluster center of cluster 10 and dimention 6 is 0.199213
+	 cluster center of cluster 10 and dimention 7 is 0.297512
+	 cluster center of cluster 11 and dimention 0 is 0.410403
+	 cluster center of cluster 11 and dimention 1 is 0.262836
+	 cluster center of cluster 11 and dimention 2 is 0.517874
+	 cluster center of cluster 11 and dimention 3 is 0.223013
+	 cluster center of cluster 11 and dimention 4 is 0.191698
+	 cluster center of cluster 11 and dimention 5 is 0.270599
+	 cluster center of cluster 11 and dimention 6 is 0.377381
+	 cluster center of cluster 11 and dimention 7 is 0.257908
+	 cluster center of cluster 12 and dimention 0 is 0.673365
+	 cluster center of cluster 12 and dimention 1 is 0.423241
+	 cluster center of cluster 12 and dimention 2 is 0.586418
+	 cluster center of cluster 12 and dimention 3 is 0.199639
+	 cluster center of cluster 12 and dimention 4 is 0.679731
+	 cluster center of cluster 12 and dimention 5 is 0.350382
+	 cluster center of cluster 12 and dimention 6 is 0.335750
+	 cluster center of cluster 12 and dimention 7 is 0.368692
+	 cluster center of cluster 13 and dimention 0 is 0.474430
+	 cluster center of cluster 13 and dimention 1 is 0.669628
+	 cluster center of cluster 13 and dimention 2 is 0.799746
+	 cluster center of cluster 13 and dimention 3 is 0.440581
+	 cluster center of cluster 13 and dimention 4 is 0.318808
+	 cluster center of cluster 13 and dimention 5 is 0.453528
+	 cluster center of cluster 13 and dimention 6 is 0.567657
+	 cluster center of cluster 13 and dimention 7 is 0.434066
+	 cluster center of cluster 14 and dimention 0 is 0.293791
+	 cluster center of cluster 14 and dimention 1 is 0.247469
+	 cluster center of cluster 14 and dimention 2 is 0.550713
+	 cluster center of cluster 14 and dimention 3 is 0.638882
+	 cluster center of cluster 14 and dimention 4 is 0.434837
+	 cluster center of cluster 14 and dimention 5 is 0.446253
+	 cluster center of cluster 14 and dimention 6 is 0.632144
+	 cluster center of cluster 14 and dimention 7 is 0.749459
+	 cluster center of cluster 15 and dimention 0 is 0.669529
+	 cluster center of cluster 15 and dimention 1 is 0.320174
+	 cluster center of cluster 15 and dimention 2 is 0.738222
+	 cluster center of cluster 15 and dimention 3 is 0.761944
+	 cluster center of cluster 15 and dimention 4 is 0.464154
+	 cluster center of cluster 15 and dimention 5 is 0.250442
+	 cluster center of cluster 15 and dimention 6 is 0.775961
+	 cluster center of cluster 15 and dimention 7 is 0.257584
+	 ----------------------
+	 cluster size of cluster 0 is 6533
+	 cluster size of cluster 1 is 1831
+	 cluster size of cluster 2 is 9253
+	 cluster size of cluster 3 is 11269
+	 cluster size of cluster 4 is 4904
+	 cluster size of cluster 5 is 9590
+	 cluster size of cluster 6 is 10586
+	 cluster size of cluster 7 is 5307
+	 cluster size of cluster 8 is 8035
+	 cluster size of cluster 9 is 5487
+	 cluster size of cluster 10 is 5816
+	 cluster size of cluster 11 is 2604
+	 cluster size of cluster 12 is 9628
+	 cluster size of cluster 13 is 16591
+	 cluster size of cluster 14 is 9438
+	 cluster size of cluster 15 is 3128
+
+****************************************************************************
+For 16 number of clusters and 2 number of processors:
+	 SSE = 31505.611141
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.320286
+	 cluster center of cluster 0 and dimention 1 is 0.467436
+	 cluster center of cluster 0 and dimention 2 is 0.364470
+	 cluster center of cluster 0 and dimention 3 is 0.631571
+	 cluster center of cluster 0 and dimention 4 is 0.583357
+	 cluster center of cluster 0 and dimention 5 is 0.382380
+	 cluster center of cluster 0 and dimention 6 is 0.363855
+	 cluster center of cluster 0 and dimention 7 is 0.365561
+	 cluster center of cluster 1 and dimention 0 is 0.594816
+	 cluster center of cluster 1 and dimention 1 is 0.706410
+	 cluster center of cluster 1 and dimention 2 is 0.633368
+	 cluster center of cluster 1 and dimention 3 is 0.696839
+	 cluster center of cluster 1 and dimention 4 is 0.646023
+	 cluster center of cluster 1 and dimention 5 is 0.660641
+	 cluster center of cluster 1 and dimention 6 is 0.618932
+	 cluster center of cluster 1 and dimention 7 is 0.551894
+	 cluster center of cluster 2 and dimention 0 is 0.402029
+	 cluster center of cluster 2 and dimention 1 is 0.382732
+	 cluster center of cluster 2 and dimention 2 is 0.388859
+	 cluster center of cluster 2 and dimention 3 is 0.523780
+	 cluster center of cluster 2 and dimention 4 is 0.497750
+	 cluster center of cluster 2 and dimention 5 is 0.349219
+	 cluster center of cluster 2 and dimention 6 is 0.404369
+	 cluster center of cluster 2 and dimention 7 is 0.472616
+	 cluster center of cluster 3 and dimention 0 is 0.538294
+	 cluster center of cluster 3 and dimention 1 is 0.402549
+	 cluster center of cluster 3 and dimention 2 is 0.655015
+	 cluster center of cluster 3 and dimention 3 is 0.653380
+	 cluster center of cluster 3 and dimention 4 is 0.309492
+	 cluster center of cluster 3 and dimention 5 is 0.537028
+	 cluster center of cluster 3 and dimention 6 is 0.628354
+	 cluster center of cluster 3 and dimention 7 is 0.358848
+	 cluster center of cluster 4 and dimention 0 is 0.784860
+	 cluster center of cluster 4 and dimention 1 is 0.639690
+	 cluster center of cluster 4 and dimention 2 is 0.646211
+	 cluster center of cluster 4 and dimention 3 is 0.668839
+	 cluster center of cluster 4 and dimention 4 is 0.667757
+	 cluster center of cluster 4 and dimention 5 is 0.250684
+	 cluster center of cluster 4 and dimention 6 is 0.728949
+	 cluster center of cluster 4 and dimention 7 is 0.389609
+	 cluster center of cluster 5 and dimention 0 is 0.795485
+	 cluster center of cluster 5 and dimention 1 is 0.520686
+	 cluster center of cluster 5 and dimention 2 is 0.554653
+	 cluster center of cluster 5 and dimention 3 is 0.512918
+	 cluster center of cluster 5 and dimention 4 is 0.407872
+	 cluster center of cluster 5 and dimention 5 is 0.646491
+	 cluster center of cluster 5 and dimention 6 is 0.225055
+	 cluster center of cluster 5 and dimention 7 is 0.594674
+	 cluster center of cluster 6 and dimention 0 is 0.491866
+	 cluster center of cluster 6 and dimention 1 is 0.372513
+	 cluster center of cluster 6 and dimention 2 is 0.540358
+	 cluster center of cluster 6 and dimention 3 is 0.358228
+	 cluster center of cluster 6 and dimention 4 is 0.710797
+	 cluster center of cluster 6 and dimention 5 is 0.522802
+	 cluster center of cluster 6 and dimention 6 is 0.515132
+	 cluster center of cluster 6 and dimention 7 is 0.637637
+	 cluster center of cluster 7 and dimention 0 is 0.759735
+	 cluster center of cluster 7 and dimention 1 is 0.495404
+	 cluster center of cluster 7 and dimention 2 is 0.594336
+	 cluster center of cluster 7 and dimention 3 is 0.365910
+	 cluster center of cluster 7 and dimention 4 is 0.510882
+	 cluster center of cluster 7 and dimention 5 is 0.782957
+	 cluster center of cluster 7 and dimention 6 is 0.591201
+	 cluster center of cluster 7 and dimention 7 is 0.267637
+	 cluster center of cluster 8 and dimention 0 is 0.614896
+	 cluster center of cluster 8 and dimention 1 is 0.342010
+	 cluster center of cluster 8 and dimention 2 is 0.324761
+	 cluster center of cluster 8 and dimention 3 is 0.373063
+	 cluster center of cluster 8 and dimention 4 is 0.434020
+	 cluster center of cluster 8 and dimention 5 is 0.693533
+	 cluster center of cluster 8 and dimention 6 is 0.600972
+	 cluster center of cluster 8 and dimention 7 is 0.363182
+	 cluster center of cluster 9 and dimention 0 is 0.349408
+	 cluster center of cluster 9 and dimention 1 is 0.489621
+	 cluster center of cluster 9 and dimention 2 is 0.741738
+	 cluster center of cluster 9 and dimention 3 is 0.578283
+	 cluster center of cluster 9 and dimention 4 is 0.659440
+	 cluster center of cluster 9 and dimention 5 is 0.513957
+	 cluster center of cluster 9 and dimention 6 is 0.319634
+	 cluster center of cluster 9 and dimention 7 is 0.600215
+	 cluster center of cluster 10 and dimention 0 is 0.331016
+	 cluster center of cluster 10 and dimention 1 is 0.750763
+	 cluster center of cluster 10 and dimention 2 is 0.501158
+	 cluster center of cluster 10 and dimention 3 is 0.522492
+	 cluster center of cluster 10 and dimention 4 is 0.365942
+	 cluster center of cluster 10 and dimention 5 is 0.528545
+	 cluster center of cluster 10 and dimention 6 is 0.656100
+	 cluster center of cluster 10 and dimention 7 is 0.598452
+	 cluster center of cluster 11 and dimention 0 is 0.369472
+	 cluster center of cluster 11 and dimention 1 is 0.598410
+	 cluster center of cluster 11 and dimention 2 is 0.533278
+	 cluster center of cluster 11 and dimention 3 is 0.311063
+	 cluster center of cluster 11 and dimention 4 is 0.470804
+	 cluster center of cluster 11 and dimention 5 is 0.458738
+	 cluster center of cluster 11 and dimention 6 is 0.488223
+	 cluster center of cluster 11 and dimention 7 is 0.703531
+	 cluster center of cluster 12 and dimention 0 is 0.562323
+	 cluster center of cluster 12 and dimention 1 is 0.639964
+	 cluster center of cluster 12 and dimention 2 is 0.469384
+	 cluster center of cluster 12 and dimention 3 is 0.459412
+	 cluster center of cluster 12 and dimention 4 is 0.494211
+	 cluster center of cluster 12 and dimention 5 is 0.453780
+	 cluster center of cluster 12 and dimention 6 is 0.442011
+	 cluster center of cluster 12 and dimention 7 is 0.699197
+	 cluster center of cluster 13 and dimention 0 is 0.428688
+	 cluster center of cluster 13 and dimention 1 is 0.242536
+	 cluster center of cluster 13 and dimention 2 is 0.461137
+	 cluster center of cluster 13 and dimention 3 is 0.290100
+	 cluster center of cluster 13 and dimention 4 is 0.227435
+	 cluster center of cluster 13 and dimention 5 is 0.641917
+	 cluster center of cluster 13 and dimention 6 is 0.385707
+	 cluster center of cluster 13 and dimention 7 is 0.439378
+	 cluster center of cluster 14 and dimention 0 is 0.333280
+	 cluster center of cluster 14 and dimention 1 is 0.685263
+	 cluster center of cluster 14 and dimention 2 is 0.405038
+	 cluster center of cluster 14 and dimention 3 is 0.376638
+	 cluster center of cluster 14 and dimention 4 is 0.389635
+	 cluster center of cluster 14 and dimention 5 is 0.399584
+	 cluster center of cluster 14 and dimention 6 is 0.558888
+	 cluster center of cluster 14 and dimention 7 is 0.224518
+	 cluster center of cluster 15 and dimention 0 is 0.582886
+	 cluster center of cluster 15 and dimention 1 is 0.369352
+	 cluster center of cluster 15 and dimention 2 is 0.400944
+	 cluster center of cluster 15 and dimention 3 is 0.670833
+	 cluster center of cluster 15 and dimention 4 is 0.705074
+	 cluster center of cluster 15 and dimention 5 is 0.304670
+	 cluster center of cluster 15 and dimention 6 is 0.596671
+	 cluster center of cluster 15 and dimention 7 is 0.482941
+	 ----------------------
+	 cluster size of cluster 0 is 6720
+	 cluster size of cluster 1 is 8138
+	 cluster size of cluster 2 is 14253
+	 cluster size of cluster 3 is 8953
+	 cluster size of cluster 4 is 3171
+	 cluster size of cluster 5 is 6475
+	 cluster size of cluster 6 is 9829
+	 cluster size of cluster 7 is 5159
+	 cluster size of cluster 8 is 5087
+	 cluster size of cluster 9 is 4622
+	 cluster size of cluster 10 is 8429
+	 cluster size of cluster 11 is 6431
+	 cluster size of cluster 12 is 11130
+	 cluster size of cluster 13 is 6705
+	 cluster size of cluster 14 is 6900
+	 cluster size of cluster 15 is 7998
+
+****************************************************************************
+For 16 number of clusters and 4 number of processors:
+	 SSE = 17155.129041
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.617124
+	 cluster center of cluster 0 and dimention 1 is 0.333472
+	 cluster center of cluster 0 and dimention 2 is 0.466472
+	 cluster center of cluster 0 and dimention 3 is 0.594350
+	 cluster center of cluster 0 and dimention 4 is 0.633384
+	 cluster center of cluster 0 and dimention 5 is 0.578450
+	 cluster center of cluster 0 and dimention 6 is 0.290574
+	 cluster center of cluster 0 and dimention 7 is 0.512836
+	 cluster center of cluster 1 and dimention 0 is 0.454898
+	 cluster center of cluster 1 and dimention 1 is 0.510244
+	 cluster center of cluster 1 and dimention 2 is 0.480473
+	 cluster center of cluster 1 and dimention 3 is 0.636393
+	 cluster center of cluster 1 and dimention 4 is 0.588344
+	 cluster center of cluster 1 and dimention 5 is 0.577526
+	 cluster center of cluster 1 and dimention 6 is 0.469636
+	 cluster center of cluster 1 and dimention 7 is 0.522993
+	 cluster center of cluster 2 and dimention 0 is 0.537099
+	 cluster center of cluster 2 and dimention 1 is 0.644650
+	 cluster center of cluster 2 and dimention 2 is 0.351307
+	 cluster center of cluster 2 and dimention 3 is 0.663574
+	 cluster center of cluster 2 and dimention 4 is 0.405252
+	 cluster center of cluster 2 and dimention 5 is 0.390231
+	 cluster center of cluster 2 and dimention 6 is 0.599759
+	 cluster center of cluster 2 and dimention 7 is 0.596717
+	 cluster center of cluster 3 and dimention 0 is 0.466216
+	 cluster center of cluster 3 and dimention 1 is 0.549744
+	 cluster center of cluster 3 and dimention 2 is 0.618436
+	 cluster center of cluster 3 and dimention 3 is 0.471271
+	 cluster center of cluster 3 and dimention 4 is 0.446644
+	 cluster center of cluster 3 and dimention 5 is 0.392905
+	 cluster center of cluster 3 and dimention 6 is 0.579783
+	 cluster center of cluster 3 and dimention 7 is 0.497307
+	 cluster center of cluster 4 and dimention 0 is 0.536984
+	 cluster center of cluster 4 and dimention 1 is 0.292762
+	 cluster center of cluster 4 and dimention 2 is 0.527436
+	 cluster center of cluster 4 and dimention 3 is 0.349145
+	 cluster center of cluster 4 and dimention 4 is 0.351003
+	 cluster center of cluster 4 and dimention 5 is 0.447714
+	 cluster center of cluster 4 and dimention 6 is 0.566765
+	 cluster center of cluster 4 and dimention 7 is 0.509731
+	 cluster center of cluster 5 and dimention 0 is 0.478862
+	 cluster center of cluster 5 and dimention 1 is 0.510868
+	 cluster center of cluster 5 and dimention 2 is 0.464009
+	 cluster center of cluster 5 and dimention 3 is 0.645001
+	 cluster center of cluster 5 and dimention 4 is 0.501443
+	 cluster center of cluster 5 and dimention 5 is 0.627129
+	 cluster center of cluster 5 and dimention 6 is 0.371755
+	 cluster center of cluster 5 and dimention 7 is 0.468124
+	 cluster center of cluster 6 and dimention 0 is 0.554183
+	 cluster center of cluster 6 and dimention 1 is 0.565323
+	 cluster center of cluster 6 and dimention 2 is 0.480948
+	 cluster center of cluster 6 and dimention 3 is 0.575976
+	 cluster center of cluster 6 and dimention 4 is 0.494293
+	 cluster center of cluster 6 and dimention 5 is 0.426237
+	 cluster center of cluster 6 and dimention 6 is 0.591371
+	 cluster center of cluster 6 and dimention 7 is 0.491291
+	 cluster center of cluster 7 and dimention 0 is 0.354678
+	 cluster center of cluster 7 and dimention 1 is 0.579695
+	 cluster center of cluster 7 and dimention 2 is 0.581107
+	 cluster center of cluster 7 and dimention 3 is 0.537044
+	 cluster center of cluster 7 and dimention 4 is 0.586344
+	 cluster center of cluster 7 and dimention 5 is 0.541605
+	 cluster center of cluster 7 and dimention 6 is 0.601566
+	 cluster center of cluster 7 and dimention 7 is 0.518353
+	 cluster center of cluster 8 and dimention 0 is 0.570662
+	 cluster center of cluster 8 and dimention 1 is 0.742715
+	 cluster center of cluster 8 and dimention 2 is 0.500600
+	 cluster center of cluster 8 and dimention 3 is 0.390871
+	 cluster center of cluster 8 and dimention 4 is 0.297513
+	 cluster center of cluster 8 and dimention 5 is 0.586161
+	 cluster center of cluster 8 and dimention 6 is 0.614298
+	 cluster center of cluster 8 and dimention 7 is 0.605537
+	 cluster center of cluster 9 and dimention 0 is 0.510508
+	 cluster center of cluster 9 and dimention 1 is 0.370169
+	 cluster center of cluster 9 and dimention 2 is 0.440567
+	 cluster center of cluster 9 and dimention 3 is 0.273674
+	 cluster center of cluster 9 and dimention 4 is 0.577666
+	 cluster center of cluster 9 and dimention 5 is 0.555068
+	 cluster center of cluster 9 and dimention 6 is 0.492578
+	 cluster center of cluster 9 and dimention 7 is 0.390389
+	 cluster center of cluster 10 and dimention 0 is 0.490442
+	 cluster center of cluster 10 and dimention 1 is 0.352952
+	 cluster center of cluster 10 and dimention 2 is 0.616700
+	 cluster center of cluster 10 and dimention 3 is 0.489657
+	 cluster center of cluster 10 and dimention 4 is 0.565783
+	 cluster center of cluster 10 and dimention 5 is 0.517209
+	 cluster center of cluster 10 and dimention 6 is 0.499343
+	 cluster center of cluster 10 and dimention 7 is 0.675131
+	 cluster center of cluster 11 and dimention 0 is 0.467999
+	 cluster center of cluster 11 and dimention 1 is 0.561122
+	 cluster center of cluster 11 and dimention 2 is 0.481731
+	 cluster center of cluster 11 and dimention 3 is 0.397113
+	 cluster center of cluster 11 and dimention 4 is 0.550434
+	 cluster center of cluster 11 and dimention 5 is 0.563909
+	 cluster center of cluster 11 and dimention 6 is 0.617068
+	 cluster center of cluster 11 and dimention 7 is 0.410292
+	 cluster center of cluster 12 and dimention 0 is 0.412030
+	 cluster center of cluster 12 and dimention 1 is 0.543659
+	 cluster center of cluster 12 and dimention 2 is 0.332519
+	 cluster center of cluster 12 and dimention 3 is 0.541673
+	 cluster center of cluster 12 and dimention 4 is 0.470537
+	 cluster center of cluster 12 and dimention 5 is 0.678905
+	 cluster center of cluster 12 and dimention 6 is 0.353172
+	 cluster center of cluster 12 and dimention 7 is 0.445531
+	 cluster center of cluster 13 and dimention 0 is 0.550626
+	 cluster center of cluster 13 and dimention 1 is 0.497591
+	 cluster center of cluster 13 and dimention 2 is 0.517438
+	 cluster center of cluster 13 and dimention 3 is 0.455621
+	 cluster center of cluster 13 and dimention 4 is 0.486773
+	 cluster center of cluster 13 and dimention 5 is 0.440234
+	 cluster center of cluster 13 and dimention 6 is 0.367679
+	 cluster center of cluster 13 and dimention 7 is 0.350879
+	 cluster center of cluster 14 and dimention 0 is 0.575980
+	 cluster center of cluster 14 and dimention 1 is 0.470592
+	 cluster center of cluster 14 and dimention 2 is 0.552706
+	 cluster center of cluster 14 and dimention 3 is 0.590151
+	 cluster center of cluster 14 and dimention 4 is 0.625828
+	 cluster center of cluster 14 and dimention 5 is 0.335552
+	 cluster center of cluster 14 and dimention 6 is 0.444914
+	 cluster center of cluster 14 and dimention 7 is 0.370368
+	 cluster center of cluster 15 and dimention 0 is 0.518656
+	 cluster center of cluster 15 and dimention 1 is 0.718575
+	 cluster center of cluster 15 and dimention 2 is 0.583291
+	 cluster center of cluster 15 and dimention 3 is 0.415056
+	 cluster center of cluster 15 and dimention 4 is 0.414406
+	 cluster center of cluster 15 and dimention 5 is 0.431970
+	 cluster center of cluster 15 and dimention 6 is 0.356365
+	 cluster center of cluster 15 and dimention 7 is 0.636688
+	 ----------------------
+	 cluster size of cluster 0 is 4557
+	 cluster size of cluster 1 is 8494
+	 cluster size of cluster 2 is 8226
+	 cluster size of cluster 3 is 5546
+	 cluster size of cluster 4 is 12803
+	 cluster size of cluster 5 is 5245
+	 cluster size of cluster 6 is 8232
+	 cluster size of cluster 7 is 8789
+	 cluster size of cluster 8 is 3546
+	 cluster size of cluster 9 is 6198
+	 cluster size of cluster 10 is 9634
+	 cluster size of cluster 11 is 9874
+	 cluster size of cluster 12 is 8063
+	 cluster size of cluster 13 is 7671
+	 cluster size of cluster 14 is 7062
+	 cluster size of cluster 15 is 6060
+
+****************************************************************************
+For 16 number of clusters and 8 number of processors:
+	 SSE = 9629.334619
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.608457
+	 cluster center of cluster 0 and dimention 1 is 0.502596
+	 cluster center of cluster 0 and dimention 2 is 0.390400
+	 cluster center of cluster 0 and dimention 3 is 0.341870
+	 cluster center of cluster 0 and dimention 4 is 0.634955
+	 cluster center of cluster 0 and dimention 5 is 0.559365
+	 cluster center of cluster 0 and dimention 6 is 0.541015
+	 cluster center of cluster 0 and dimention 7 is 0.502590
+	 cluster center of cluster 1 and dimention 0 is 0.495210
+	 cluster center of cluster 1 and dimention 1 is 0.472552
+	 cluster center of cluster 1 and dimention 2 is 0.498061
+	 cluster center of cluster 1 and dimention 3 is 0.504901
+	 cluster center of cluster 1 and dimention 4 is 0.466299
+	 cluster center of cluster 1 and dimention 5 is 0.557042
+	 cluster center of cluster 1 and dimention 6 is 0.555494
+	 cluster center of cluster 1 and dimention 7 is 0.537215
+	 cluster center of cluster 2 and dimention 0 is 0.436305
+	 cluster center of cluster 2 and dimention 1 is 0.612518
+	 cluster center of cluster 2 and dimention 2 is 0.343427
+	 cluster center of cluster 2 and dimention 3 is 0.583020
+	 cluster center of cluster 2 and dimention 4 is 0.542489
+	 cluster center of cluster 2 and dimention 5 is 0.478198
+	 cluster center of cluster 2 and dimention 6 is 0.410648
+	 cluster center of cluster 2 and dimention 7 is 0.499737
+	 cluster center of cluster 3 and dimention 0 is 0.430112
+	 cluster center of cluster 3 and dimention 1 is 0.417502
+	 cluster center of cluster 3 and dimention 2 is 0.478904
+	 cluster center of cluster 3 and dimention 3 is 0.418234
+	 cluster center of cluster 3 and dimention 4 is 0.445608
+	 cluster center of cluster 3 and dimention 5 is 0.464869
+	 cluster center of cluster 3 and dimention 6 is 0.590635
+	 cluster center of cluster 3 and dimention 7 is 0.467444
+	 cluster center of cluster 4 and dimention 0 is 0.475737
+	 cluster center of cluster 4 and dimention 1 is 0.476046
+	 cluster center of cluster 4 and dimention 2 is 0.511865
+	 cluster center of cluster 4 and dimention 3 is 0.443598
+	 cluster center of cluster 4 and dimention 4 is 0.641182
+	 cluster center of cluster 4 and dimention 5 is 0.486786
+	 cluster center of cluster 4 and dimention 6 is 0.406727
+	 cluster center of cluster 4 and dimention 7 is 0.462312
+	 cluster center of cluster 5 and dimention 0 is 0.499536
+	 cluster center of cluster 5 and dimention 1 is 0.474265
+	 cluster center of cluster 5 and dimention 2 is 0.628112
+	 cluster center of cluster 5 and dimention 3 is 0.532791
+	 cluster center of cluster 5 and dimention 4 is 0.495520
+	 cluster center of cluster 5 and dimention 5 is 0.449931
+	 cluster center of cluster 5 and dimention 6 is 0.407295
+	 cluster center of cluster 5 and dimention 7 is 0.556967
+	 cluster center of cluster 6 and dimention 0 is 0.468523
+	 cluster center of cluster 6 and dimention 1 is 0.452966
+	 cluster center of cluster 6 and dimention 2 is 0.498494
+	 cluster center of cluster 6 and dimention 3 is 0.445830
+	 cluster center of cluster 6 and dimention 4 is 0.358143
+	 cluster center of cluster 6 and dimention 5 is 0.517018
+	 cluster center of cluster 6 and dimention 6 is 0.463865
+	 cluster center of cluster 6 and dimention 7 is 0.578579
+	 cluster center of cluster 7 and dimention 0 is 0.507711
+	 cluster center of cluster 7 and dimention 1 is 0.477571
+	 cluster center of cluster 7 and dimention 2 is 0.498993
+	 cluster center of cluster 7 and dimention 3 is 0.559277
+	 cluster center of cluster 7 and dimention 4 is 0.388982
+	 cluster center of cluster 7 and dimention 5 is 0.469873
+	 cluster center of cluster 7 and dimention 6 is 0.531397
+	 cluster center of cluster 7 and dimention 7 is 0.524590
+	 cluster center of cluster 8 and dimention 0 is 0.487477
+	 cluster center of cluster 8 and dimention 1 is 0.347009
+	 cluster center of cluster 8 and dimention 2 is 0.375115
+	 cluster center of cluster 8 and dimention 3 is 0.531767
+	 cluster center of cluster 8 and dimention 4 is 0.531680
+	 cluster center of cluster 8 and dimention 5 is 0.458064
+	 cluster center of cluster 8 and dimention 6 is 0.597844
+	 cluster center of cluster 8 and dimention 7 is 0.494757
+	 cluster center of cluster 9 and dimention 0 is 0.607381
+	 cluster center of cluster 9 and dimention 1 is 0.572480
+	 cluster center of cluster 9 and dimention 2 is 0.520560
+	 cluster center of cluster 9 and dimention 3 is 0.516675
+	 cluster center of cluster 9 and dimention 4 is 0.563795
+	 cluster center of cluster 9 and dimention 5 is 0.406584
+	 cluster center of cluster 9 and dimention 6 is 0.558693
+	 cluster center of cluster 9 and dimention 7 is 0.587496
+	 cluster center of cluster 10 and dimention 0 is 0.405081
+	 cluster center of cluster 10 and dimention 1 is 0.565501
+	 cluster center of cluster 10 and dimention 2 is 0.539859
+	 cluster center of cluster 10 and dimention 3 is 0.444526
+	 cluster center of cluster 10 and dimention 4 is 0.546072
+	 cluster center of cluster 10 and dimention 5 is 0.447385
+	 cluster center of cluster 10 and dimention 6 is 0.536867
+	 cluster center of cluster 10 and dimention 7 is 0.412039
+	 cluster center of cluster 11 and dimention 0 is 0.597651
+	 cluster center of cluster 11 and dimention 1 is 0.548495
+	 cluster center of cluster 11 and dimention 2 is 0.485051
+	 cluster center of cluster 11 and dimention 3 is 0.523015
+	 cluster center of cluster 11 and dimention 4 is 0.402507
+	 cluster center of cluster 11 and dimention 5 is 0.548012
+	 cluster center of cluster 11 and dimention 6 is 0.491953
+	 cluster center of cluster 11 and dimention 7 is 0.439970
+	 cluster center of cluster 12 and dimention 0 is 0.435948
+	 cluster center of cluster 12 and dimention 1 is 0.523682
+	 cluster center of cluster 12 and dimention 2 is 0.516682
+	 cluster center of cluster 12 and dimention 3 is 0.476399
+	 cluster center of cluster 12 and dimention 4 is 0.411024
+	 cluster center of cluster 12 and dimention 5 is 0.577872
+	 cluster center of cluster 12 and dimention 6 is 0.471194
+	 cluster center of cluster 12 and dimention 7 is 0.466829
+	 cluster center of cluster 13 and dimention 0 is 0.493301
+	 cluster center of cluster 13 and dimention 1 is 0.489137
+	 cluster center of cluster 13 and dimention 2 is 0.549333
+	 cluster center of cluster 13 and dimention 3 is 0.571395
+	 cluster center of cluster 13 and dimention 4 is 0.581750
+	 cluster center of cluster 13 and dimention 5 is 0.549065
+	 cluster center of cluster 13 and dimention 6 is 0.443331
+	 cluster center of cluster 13 and dimention 7 is 0.444264
+	 cluster center of cluster 14 and dimention 0 is 0.615744
+	 cluster center of cluster 14 and dimention 1 is 0.583313
+	 cluster center of cluster 14 and dimention 2 is 0.642504
+	 cluster center of cluster 14 and dimention 3 is 0.560014
+	 cluster center of cluster 14 and dimention 4 is 0.543384
+	 cluster center of cluster 14 and dimention 5 is 0.577665
+	 cluster center of cluster 14 and dimention 6 is 0.568861
+	 cluster center of cluster 14 and dimention 7 is 0.484203
+	 cluster center of cluster 15 and dimention 0 is 0.430836
+	 cluster center of cluster 15 and dimention 1 is 0.432956
+	 cluster center of cluster 15 and dimention 2 is 0.417319
+	 cluster center of cluster 15 and dimention 3 is 0.409351
+	 cluster center of cluster 15 and dimention 4 is 0.583758
+	 cluster center of cluster 15 and dimention 5 is 0.489211
+	 cluster center of cluster 15 and dimention 6 is 0.496496
+	 cluster center of cluster 15 and dimention 7 is 0.509599
+	 ----------------------
+	 cluster size of cluster 0 is 4182
+	 cluster size of cluster 1 is 7600
+	 cluster size of cluster 2 is 8587
+	 cluster size of cluster 3 is 6532
+	 cluster size of cluster 4 is 6550
+	 cluster size of cluster 5 is 9951
+	 cluster size of cluster 6 is 7790
+	 cluster size of cluster 7 is 9772
+	 cluster size of cluster 8 is 6101
+	 cluster size of cluster 9 is 8568
+	 cluster size of cluster 10 is 6036
+	 cluster size of cluster 11 is 9036
+	 cluster size of cluster 12 is 6982
+	 cluster size of cluster 13 is 8745
+	 cluster size of cluster 14 is 7316
+	 cluster size of cluster 15 is 6252
+
+****************************************************************************
+For 16 number of clusters and 12 number of processors:
+	 SSE = 6451.706653
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.494998
+	 cluster center of cluster 0 and dimention 1 is 0.452712
+	 cluster center of cluster 0 and dimention 2 is 0.476181
+	 cluster center of cluster 0 and dimention 3 is 0.515788
+	 cluster center of cluster 0 and dimention 4 is 0.572280
+	 cluster center of cluster 0 and dimention 5 is 0.390705
+	 cluster center of cluster 0 and dimention 6 is 0.464308
+	 cluster center of cluster 0 and dimention 7 is 0.518775
+	 cluster center of cluster 1 and dimention 0 is 0.453866
+	 cluster center of cluster 1 and dimention 1 is 0.484147
+	 cluster center of cluster 1 and dimention 2 is 0.531689
+	 cluster center of cluster 1 and dimention 3 is 0.516437
+	 cluster center of cluster 1 and dimention 4 is 0.519612
+	 cluster center of cluster 1 and dimention 5 is 0.562115
+	 cluster center of cluster 1 and dimention 6 is 0.564869
+	 cluster center of cluster 1 and dimention 7 is 0.463051
+	 cluster center of cluster 2 and dimention 0 is 0.444719
+	 cluster center of cluster 2 and dimention 1 is 0.389940
+	 cluster center of cluster 2 and dimention 2 is 0.506315
+	 cluster center of cluster 2 and dimention 3 is 0.491102
+	 cluster center of cluster 2 and dimention 4 is 0.417339
+	 cluster center of cluster 2 and dimention 5 is 0.490266
+	 cluster center of cluster 2 and dimention 6 is 0.527870
+	 cluster center of cluster 2 and dimention 7 is 0.475865
+	 cluster center of cluster 3 and dimention 0 is 0.567332
+	 cluster center of cluster 3 and dimention 1 is 0.530685
+	 cluster center of cluster 3 and dimention 2 is 0.647126
+	 cluster center of cluster 3 and dimention 3 is 0.578216
+	 cluster center of cluster 3 and dimention 4 is 0.554781
+	 cluster center of cluster 3 and dimention 5 is 0.456911
+	 cluster center of cluster 3 and dimention 6 is 0.483988
+	 cluster center of cluster 3 and dimention 7 is 0.495235
+	 cluster center of cluster 4 and dimention 0 is 0.519633
+	 cluster center of cluster 4 and dimention 1 is 0.540706
+	 cluster center of cluster 4 and dimention 2 is 0.539996
+	 cluster center of cluster 4 and dimention 3 is 0.546249
+	 cluster center of cluster 4 and dimention 4 is 0.482418
+	 cluster center of cluster 4 and dimention 5 is 0.463460
+	 cluster center of cluster 4 and dimention 6 is 0.416767
+	 cluster center of cluster 4 and dimention 7 is 0.525638
+	 cluster center of cluster 5 and dimention 0 is 0.422218
+	 cluster center of cluster 5 and dimention 1 is 0.585134
+	 cluster center of cluster 5 and dimention 2 is 0.428740
+	 cluster center of cluster 5 and dimention 3 is 0.453543
+	 cluster center of cluster 5 and dimention 4 is 0.555826
+	 cluster center of cluster 5 and dimention 5 is 0.546742
+	 cluster center of cluster 5 and dimention 6 is 0.503087
+	 cluster center of cluster 5 and dimention 7 is 0.565392
+	 cluster center of cluster 6 and dimention 0 is 0.545110
+	 cluster center of cluster 6 and dimention 1 is 0.509933
+	 cluster center of cluster 6 and dimention 2 is 0.499472
+	 cluster center of cluster 6 and dimention 3 is 0.538738
+	 cluster center of cluster 6 and dimention 4 is 0.372002
+	 cluster center of cluster 6 and dimention 5 is 0.568032
+	 cluster center of cluster 6 and dimention 6 is 0.507195
+	 cluster center of cluster 6 and dimention 7 is 0.539963
+	 cluster center of cluster 7 and dimention 0 is 0.501406
+	 cluster center of cluster 7 and dimention 1 is 0.571821
+	 cluster center of cluster 7 and dimention 2 is 0.486166
+	 cluster center of cluster 7 and dimention 3 is 0.511308
+	 cluster center of cluster 7 and dimention 4 is 0.540982
+	 cluster center of cluster 7 and dimention 5 is 0.513243
+	 cluster center of cluster 7 and dimention 6 is 0.519399
+	 cluster center of cluster 7 and dimention 7 is 0.553948
+	 cluster center of cluster 8 and dimention 0 is 0.558906
+	 cluster center of cluster 8 and dimention 1 is 0.483603
+	 cluster center of cluster 8 and dimention 2 is 0.497856
+	 cluster center of cluster 8 and dimention 3 is 0.380232
+	 cluster center of cluster 8 and dimention 4 is 0.489570
+	 cluster center of cluster 8 and dimention 5 is 0.491556
+	 cluster center of cluster 8 and dimention 6 is 0.487928
+	 cluster center of cluster 8 and dimention 7 is 0.451117
+	 cluster center of cluster 9 and dimention 0 is 0.488696
+	 cluster center of cluster 9 and dimention 1 is 0.467893
+	 cluster center of cluster 9 and dimention 2 is 0.451333
+	 cluster center of cluster 9 and dimention 3 is 0.511319
+	 cluster center of cluster 9 and dimention 4 is 0.565914
+	 cluster center of cluster 9 and dimention 5 is 0.557153
+	 cluster center of cluster 9 and dimention 6 is 0.536517
+	 cluster center of cluster 9 and dimention 7 is 0.437215
+	 cluster center of cluster 10 and dimention 0 is 0.478900
+	 cluster center of cluster 10 and dimention 1 is 0.569241
+	 cluster center of cluster 10 and dimention 2 is 0.556115
+	 cluster center of cluster 10 and dimention 3 is 0.445112
+	 cluster center of cluster 10 and dimention 4 is 0.536575
+	 cluster center of cluster 10 and dimention 5 is 0.510520
+	 cluster center of cluster 10 and dimention 6 is 0.505228
+	 cluster center of cluster 10 and dimention 7 is 0.541530
+	 cluster center of cluster 11 and dimention 0 is 0.513305
+	 cluster center of cluster 11 and dimention 1 is 0.514610
+	 cluster center of cluster 11 and dimention 2 is 0.550921
+	 cluster center of cluster 11 and dimention 3 is 0.406822
+	 cluster center of cluster 11 and dimention 4 is 0.468346
+	 cluster center of cluster 11 and dimention 5 is 0.469641
+	 cluster center of cluster 11 and dimention 6 is 0.462605
+	 cluster center of cluster 11 and dimention 7 is 0.476041
+	 cluster center of cluster 12 and dimention 0 is 0.468660
+	 cluster center of cluster 12 and dimention 1 is 0.452276
+	 cluster center of cluster 12 and dimention 2 is 0.491894
+	 cluster center of cluster 12 and dimention 3 is 0.566965
+	 cluster center of cluster 12 and dimention 4 is 0.536701
+	 cluster center of cluster 12 and dimention 5 is 0.468652
+	 cluster center of cluster 12 and dimention 6 is 0.443062
+	 cluster center of cluster 12 and dimention 7 is 0.559891
+	 cluster center of cluster 13 and dimention 0 is 0.515486
+	 cluster center of cluster 13 and dimention 1 is 0.473901
+	 cluster center of cluster 13 and dimention 2 is 0.404125
+	 cluster center of cluster 13 and dimention 3 is 0.475054
+	 cluster center of cluster 13 and dimention 4 is 0.372348
+	 cluster center of cluster 13 and dimention 5 is 0.489789
+	 cluster center of cluster 13 and dimention 6 is 0.533923
+	 cluster center of cluster 13 and dimention 7 is 0.500351
+	 cluster center of cluster 14 and dimention 0 is 0.498445
+	 cluster center of cluster 14 and dimention 1 is 0.436992
+	 cluster center of cluster 14 and dimention 2 is 0.476360
+	 cluster center of cluster 14 and dimention 3 is 0.609334
+	 cluster center of cluster 14 and dimention 4 is 0.473176
+	 cluster center of cluster 14 and dimention 5 is 0.503654
+	 cluster center of cluster 14 and dimention 6 is 0.535996
+	 cluster center of cluster 14 and dimention 7 is 0.441112
+	 cluster center of cluster 15 and dimention 0 is 0.524291
+	 cluster center of cluster 15 and dimention 1 is 0.494156
+	 cluster center of cluster 15 and dimention 2 is 0.432475
+	 cluster center of cluster 15 and dimention 3 is 0.481849
+	 cluster center of cluster 15 and dimention 4 is 0.490198
+	 cluster center of cluster 15 and dimention 5 is 0.519352
+	 cluster center of cluster 15 and dimention 6 is 0.503843
+	 cluster center of cluster 15 and dimention 7 is 0.418388
+	 ----------------------
+	 cluster size of cluster 0 is 7265
+	 cluster size of cluster 1 is 7338
+	 cluster size of cluster 2 is 6115
+	 cluster size of cluster 3 is 9307
+	 cluster size of cluster 4 is 6828
+	 cluster size of cluster 5 is 8563
+	 cluster size of cluster 6 is 6652
+	 cluster size of cluster 7 is 7268
+	 cluster size of cluster 8 is 8064
+	 cluster size of cluster 9 is 8176
+	 cluster size of cluster 10 is 9244
+	 cluster size of cluster 11 is 7014
+	 cluster size of cluster 12 is 7541
+	 cluster size of cluster 13 is 7887
+	 cluster size of cluster 14 is 6543
+	 cluster size of cluster 15 is 6195
+
+****************************************************************************
+For 16 number of clusters and 16 number of processors:
+	 SSE = 4718.857771
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.535247
+	 cluster center of cluster 0 and dimention 1 is 0.444237
+	 cluster center of cluster 0 and dimention 2 is 0.536598
+	 cluster center of cluster 0 and dimention 3 is 0.486174
+	 cluster center of cluster 0 and dimention 4 is 0.521953
+	 cluster center of cluster 0 and dimention 5 is 0.523519
+	 cluster center of cluster 0 and dimention 6 is 0.578310
+	 cluster center of cluster 0 and dimention 7 is 0.481149
+	 cluster center of cluster 1 and dimention 0 is 0.589350
+	 cluster center of cluster 1 and dimention 1 is 0.490255
+	 cluster center of cluster 1 and dimention 2 is 0.503489
+	 cluster center of cluster 1 and dimention 3 is 0.543525
+	 cluster center of cluster 1 and dimention 4 is 0.538739
+	 cluster center of cluster 1 and dimention 5 is 0.508265
+	 cluster center of cluster 1 and dimention 6 is 0.566953
+	 cluster center of cluster 1 and dimention 7 is 0.582326
+	 cluster center of cluster 2 and dimention 0 is 0.576408
+	 cluster center of cluster 2 and dimention 1 is 0.577968
+	 cluster center of cluster 2 and dimention 2 is 0.531228
+	 cluster center of cluster 2 and dimention 3 is 0.425379
+	 cluster center of cluster 2 and dimention 4 is 0.452110
+	 cluster center of cluster 2 and dimention 5 is 0.509645
+	 cluster center of cluster 2 and dimention 6 is 0.477041
+	 cluster center of cluster 2 and dimention 7 is 0.494595
+	 cluster center of cluster 3 and dimention 0 is 0.591042
+	 cluster center of cluster 3 and dimention 1 is 0.529009
+	 cluster center of cluster 3 and dimention 2 is 0.482872
+	 cluster center of cluster 3 and dimention 3 is 0.503738
+	 cluster center of cluster 3 and dimention 4 is 0.473308
+	 cluster center of cluster 3 and dimention 5 is 0.396614
+	 cluster center of cluster 3 and dimention 6 is 0.481263
+	 cluster center of cluster 3 and dimention 7 is 0.439816
+	 cluster center of cluster 4 and dimention 0 is 0.492168
+	 cluster center of cluster 4 and dimention 1 is 0.442577
+	 cluster center of cluster 4 and dimention 2 is 0.505412
+	 cluster center of cluster 4 and dimention 3 is 0.507143
+	 cluster center of cluster 4 and dimention 4 is 0.500485
+	 cluster center of cluster 4 and dimention 5 is 0.510734
+	 cluster center of cluster 4 and dimention 6 is 0.489745
+	 cluster center of cluster 4 and dimention 7 is 0.422200
+	 cluster center of cluster 5 and dimention 0 is 0.497269
+	 cluster center of cluster 5 and dimention 1 is 0.429402
+	 cluster center of cluster 5 and dimention 2 is 0.458803
+	 cluster center of cluster 5 and dimention 3 is 0.521160
+	 cluster center of cluster 5 and dimention 4 is 0.492603
+	 cluster center of cluster 5 and dimention 5 is 0.511937
+	 cluster center of cluster 5 and dimention 6 is 0.503086
+	 cluster center of cluster 5 and dimention 7 is 0.540787
+	 cluster center of cluster 6 and dimention 0 is 0.493380
+	 cluster center of cluster 6 and dimention 1 is 0.532699
+	 cluster center of cluster 6 and dimention 2 is 0.491786
+	 cluster center of cluster 6 and dimention 3 is 0.450081
+	 cluster center of cluster 6 and dimention 4 is 0.547771
+	 cluster center of cluster 6 and dimention 5 is 0.439735
+	 cluster center of cluster 6 and dimention 6 is 0.461086
+	 cluster center of cluster 6 and dimention 7 is 0.547869
+	 cluster center of cluster 7 and dimention 0 is 0.427781
+	 cluster center of cluster 7 and dimention 1 is 0.464184
+	 cluster center of cluster 7 and dimention 2 is 0.422901
+	 cluster center of cluster 7 and dimention 3 is 0.476709
+	 cluster center of cluster 7 and dimention 4 is 0.538595
+	 cluster center of cluster 7 and dimention 5 is 0.529660
+	 cluster center of cluster 7 and dimention 6 is 0.489686
+	 cluster center of cluster 7 and dimention 7 is 0.554449
+	 cluster center of cluster 8 and dimention 0 is 0.473951
+	 cluster center of cluster 8 and dimention 1 is 0.489225
+	 cluster center of cluster 8 and dimention 2 is 0.495637
+	 cluster center of cluster 8 and dimention 3 is 0.412714
+	 cluster center of cluster 8 and dimention 4 is 0.490971
+	 cluster center of cluster 8 and dimention 5 is 0.626127
+	 cluster center of cluster 8 and dimention 6 is 0.477594
+	 cluster center of cluster 8 and dimention 7 is 0.481578
+	 cluster center of cluster 9 and dimention 0 is 0.440239
+	 cluster center of cluster 9 and dimention 1 is 0.424762
+	 cluster center of cluster 9 and dimention 2 is 0.575072
+	 cluster center of cluster 9 and dimention 3 is 0.531821
+	 cluster center of cluster 9 and dimention 4 is 0.441280
+	 cluster center of cluster 9 and dimention 5 is 0.527574
+	 cluster center of cluster 9 and dimention 6 is 0.446778
+	 cluster center of cluster 9 and dimention 7 is 0.482991
+	 cluster center of cluster 10 and dimention 0 is 0.522409
+	 cluster center of cluster 10 and dimention 1 is 0.583073
+	 cluster center of cluster 10 and dimention 2 is 0.485303
+	 cluster center of cluster 10 and dimention 3 is 0.483961
+	 cluster center of cluster 10 and dimention 4 is 0.445871
+	 cluster center of cluster 10 and dimention 5 is 0.515186
+	 cluster center of cluster 10 and dimention 6 is 0.551828
+	 cluster center of cluster 10 and dimention 7 is 0.581158
+	 cluster center of cluster 11 and dimention 0 is 0.511014
+	 cluster center of cluster 11 and dimention 1 is 0.517422
+	 cluster center of cluster 11 and dimention 2 is 0.421442
+	 cluster center of cluster 11 and dimention 3 is 0.518007
+	 cluster center of cluster 11 and dimention 4 is 0.512555
+	 cluster center of cluster 11 and dimention 5 is 0.399220
+	 cluster center of cluster 11 and dimention 6 is 0.513295
+	 cluster center of cluster 11 and dimention 7 is 0.472080
+	 cluster center of cluster 12 and dimention 0 is 0.406249
+	 cluster center of cluster 12 and dimention 1 is 0.591876
+	 cluster center of cluster 12 and dimention 2 is 0.497034
+	 cluster center of cluster 12 and dimention 3 is 0.559395
+	 cluster center of cluster 12 and dimention 4 is 0.500935
+	 cluster center of cluster 12 and dimention 5 is 0.523981
+	 cluster center of cluster 12 and dimention 6 is 0.487917
+	 cluster center of cluster 12 and dimention 7 is 0.447191
+	 cluster center of cluster 13 and dimention 0 is 0.502562
+	 cluster center of cluster 13 and dimention 1 is 0.546442
+	 cluster center of cluster 13 and dimention 2 is 0.526527
+	 cluster center of cluster 13 and dimention 3 is 0.554428
+	 cluster center of cluster 13 and dimention 4 is 0.484023
+	 cluster center of cluster 13 and dimention 5 is 0.475644
+	 cluster center of cluster 13 and dimention 6 is 0.425384
+	 cluster center of cluster 13 and dimention 7 is 0.456349
+	 cluster center of cluster 14 and dimention 0 is 0.334532
+	 cluster center of cluster 14 and dimention 1 is 0.424988
+	 cluster center of cluster 14 and dimention 2 is 0.585350
+	 cluster center of cluster 14 and dimention 3 is 0.505655
+	 cluster center of cluster 14 and dimention 4 is 0.485372
+	 cluster center of cluster 14 and dimention 5 is 0.500092
+	 cluster center of cluster 14 and dimention 6 is 0.545422
+	 cluster center of cluster 14 and dimention 7 is 0.528131
+	 cluster center of cluster 15 and dimention 0 is 0.561454
+	 cluster center of cluster 15 and dimention 1 is 0.492896
+	 cluster center of cluster 15 and dimention 2 is 0.479666
+	 cluster center of cluster 15 and dimention 3 is 0.486227
+	 cluster center of cluster 15 and dimention 4 is 0.555718
+	 cluster center of cluster 15 and dimention 5 is 0.483192
+	 cluster center of cluster 15 and dimention 6 is 0.526384
+	 cluster center of cluster 15 and dimention 7 is 0.519078
+	 ----------------------
+	 cluster size of cluster 0 is 7993
+	 cluster size of cluster 1 is 9064
+	 cluster size of cluster 2 is 7488
+	 cluster size of cluster 3 is 7193
+	 cluster size of cluster 4 is 9439
+	 cluster size of cluster 5 is 6620
+	 cluster size of cluster 6 is 8656
+	 cluster size of cluster 7 is 6927
+	 cluster size of cluster 8 is 6790
+	 cluster size of cluster 9 is 8249
+	 cluster size of cluster 10 is 5629
+	 cluster size of cluster 11 is 6236
+	 cluster size of cluster 12 is 9167
+	 cluster size of cluster 13 is 7399
+	 cluster size of cluster 14 is 5528
+	 cluster size of cluster 15 is 7622
+
+****************************************************************************
+For 32 number of clusters and 1 number of processors:
+	 SSE = 41789.810950
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.373296
+	 cluster center of cluster 0 and dimention 1 is 0.592856
+	 cluster center of cluster 0 and dimention 2 is 0.328905
+	 cluster center of cluster 0 and dimention 3 is 0.799208
+	 cluster center of cluster 0 and dimention 4 is 0.812855
+	 cluster center of cluster 0 and dimention 5 is 0.692779
+	 cluster center of cluster 0 and dimention 6 is 0.389553
+	 cluster center of cluster 0 and dimention 7 is 0.229484
+	 cluster center of cluster 1 and dimention 0 is 0.752106
+	 cluster center of cluster 1 and dimention 1 is 0.794624
+	 cluster center of cluster 1 and dimention 2 is 0.236540
+	 cluster center of cluster 1 and dimention 3 is 0.225424
+	 cluster center of cluster 1 and dimention 4 is 0.539509
+	 cluster center of cluster 1 and dimention 5 is 0.738591
+	 cluster center of cluster 1 and dimention 6 is 0.263202
+	 cluster center of cluster 1 and dimention 7 is 0.222972
+	 cluster center of cluster 2 and dimention 0 is 0.524285
+	 cluster center of cluster 2 and dimention 1 is 0.214420
+	 cluster center of cluster 2 and dimention 2 is 0.775070
+	 cluster center of cluster 2 and dimention 3 is 0.431896
+	 cluster center of cluster 2 and dimention 4 is 0.658212
+	 cluster center of cluster 2 and dimention 5 is 0.221718
+	 cluster center of cluster 2 and dimention 6 is 0.741558
+	 cluster center of cluster 2 and dimention 7 is 0.772962
+	 cluster center of cluster 3 and dimention 0 is 0.408240
+	 cluster center of cluster 3 and dimention 1 is 0.576890
+	 cluster center of cluster 3 and dimention 2 is 0.460149
+	 cluster center of cluster 3 and dimention 3 is 0.399111
+	 cluster center of cluster 3 and dimention 4 is 0.153220
+	 cluster center of cluster 3 and dimention 5 is 0.309871
+	 cluster center of cluster 3 and dimention 6 is 0.538530
+	 cluster center of cluster 3 and dimention 7 is 0.407659
+	 cluster center of cluster 4 and dimention 0 is 0.815715
+	 cluster center of cluster 4 and dimention 1 is 0.801095
+	 cluster center of cluster 4 and dimention 2 is 0.353476
+	 cluster center of cluster 4 and dimention 3 is 0.760876
+	 cluster center of cluster 4 and dimention 4 is 0.584348
+	 cluster center of cluster 4 and dimention 5 is 0.482869
+	 cluster center of cluster 4 and dimention 6 is 0.190566
+	 cluster center of cluster 4 and dimention 7 is 0.508752
+	 cluster center of cluster 5 and dimention 0 is 0.464345
+	 cluster center of cluster 5 and dimention 1 is 0.241313
+	 cluster center of cluster 5 and dimention 2 is 0.668063
+	 cluster center of cluster 5 and dimention 3 is 0.723145
+	 cluster center of cluster 5 and dimention 4 is 0.183253
+	 cluster center of cluster 5 and dimention 5 is 0.613827
+	 cluster center of cluster 5 and dimention 6 is 0.158817
+	 cluster center of cluster 5 and dimention 7 is 0.693845
+	 cluster center of cluster 6 and dimention 0 is 0.679015
+	 cluster center of cluster 6 and dimention 1 is 0.797528
+	 cluster center of cluster 6 and dimention 2 is 0.175116
+	 cluster center of cluster 6 and dimention 3 is 0.467287
+	 cluster center of cluster 6 and dimention 4 is 0.244454
+	 cluster center of cluster 6 and dimention 5 is 0.801309
+	 cluster center of cluster 6 and dimention 6 is 0.466816
+	 cluster center of cluster 6 and dimention 7 is 0.578256
+	 cluster center of cluster 7 and dimention 0 is 0.597550
+	 cluster center of cluster 7 and dimention 1 is 0.755191
+	 cluster center of cluster 7 and dimention 2 is 0.789517
+	 cluster center of cluster 7 and dimention 3 is 0.521702
+	 cluster center of cluster 7 and dimention 4 is 0.257369
+	 cluster center of cluster 7 and dimention 5 is 0.510458
+	 cluster center of cluster 7 and dimention 6 is 0.819539
+	 cluster center of cluster 7 and dimention 7 is 0.223598
+	 cluster center of cluster 8 and dimention 0 is 0.353434
+	 cluster center of cluster 8 and dimention 1 is 0.301595
+	 cluster center of cluster 8 and dimention 2 is 0.817718
+	 cluster center of cluster 8 and dimention 3 is 0.721737
+	 cluster center of cluster 8 and dimention 4 is 0.782746
+	 cluster center of cluster 8 and dimention 5 is 0.812350
+	 cluster center of cluster 8 and dimention 6 is 0.326779
+	 cluster center of cluster 8 and dimention 7 is 0.427172
+	 cluster center of cluster 9 and dimention 0 is 0.269175
+	 cluster center of cluster 9 and dimention 1 is 0.752438
+	 cluster center of cluster 9 and dimention 2 is 0.231845
+	 cluster center of cluster 9 and dimention 3 is 0.355050
+	 cluster center of cluster 9 and dimention 4 is 0.595493
+	 cluster center of cluster 9 and dimention 5 is 0.373453
+	 cluster center of cluster 9 and dimention 6 is 0.774371
+	 cluster center of cluster 9 and dimention 7 is 0.288746
+	 cluster center of cluster 10 and dimention 0 is 0.310402
+	 cluster center of cluster 10 and dimention 1 is 0.761608
+	 cluster center of cluster 10 and dimention 2 is 0.764273
+	 cluster center of cluster 10 and dimention 3 is 0.310476
+	 cluster center of cluster 10 and dimention 4 is 0.750263
+	 cluster center of cluster 10 and dimention 5 is 0.271278
+	 cluster center of cluster 10 and dimention 6 is 0.762986
+	 cluster center of cluster 10 and dimention 7 is 0.424557
+	 cluster center of cluster 11 and dimention 0 is 0.204777
+	 cluster center of cluster 11 and dimention 1 is 0.642957
+	 cluster center of cluster 11 and dimention 2 is 0.791748
+	 cluster center of cluster 11 and dimention 3 is 0.274459
+	 cluster center of cluster 11 and dimention 4 is 0.250248
+	 cluster center of cluster 11 and dimention 5 is 0.753312
+	 cluster center of cluster 11 and dimention 6 is 0.274578
+	 cluster center of cluster 11 and dimention 7 is 0.474413
+	 cluster center of cluster 12 and dimention 0 is 0.160518
+	 cluster center of cluster 12 and dimention 1 is 0.333449
+	 cluster center of cluster 12 and dimention 2 is 0.358462
+	 cluster center of cluster 12 and dimention 3 is 0.822867
+	 cluster center of cluster 12 and dimention 4 is 0.244389
+	 cluster center of cluster 12 and dimention 5 is 0.577419
+	 cluster center of cluster 12 and dimention 6 is 0.408628
+	 cluster center of cluster 12 and dimention 7 is 0.420073
+	 cluster center of cluster 13 and dimention 0 is 0.514842
+	 cluster center of cluster 13 and dimention 1 is 0.562542
+	 cluster center of cluster 13 and dimention 2 is 0.612245
+	 cluster center of cluster 13 and dimention 3 is 0.231469
+	 cluster center of cluster 13 and dimention 4 is 0.749172
+	 cluster center of cluster 13 and dimention 5 is 0.568519
+	 cluster center of cluster 13 and dimention 6 is 0.356461
+	 cluster center of cluster 13 and dimention 7 is 0.820161
+	 cluster center of cluster 14 and dimention 0 is 0.400533
+	 cluster center of cluster 14 and dimention 1 is 0.258295
+	 cluster center of cluster 14 and dimention 2 is 0.258317
+	 cluster center of cluster 14 and dimention 3 is 0.267289
+	 cluster center of cluster 14 and dimention 4 is 0.397945
+	 cluster center of cluster 14 and dimention 5 is 0.831179
+	 cluster center of cluster 14 and dimention 6 is 0.571307
+	 cluster center of cluster 14 and dimention 7 is 0.371791
+	 cluster center of cluster 15 and dimention 0 is 0.736116
+	 cluster center of cluster 15 and dimention 1 is 0.555705
+	 cluster center of cluster 15 and dimention 2 is 0.541560
+	 cluster center of cluster 15 and dimention 3 is 0.788682
+	 cluster center of cluster 15 and dimention 4 is 0.403960
+	 cluster center of cluster 15 and dimention 5 is 0.769395
+	 cluster center of cluster 15 and dimention 6 is 0.489740
+	 cluster center of cluster 15 and dimention 7 is 0.496912
+	 cluster center of cluster 16 and dimention 0 is 0.194031
+	 cluster center of cluster 16 and dimention 1 is 0.682919
+	 cluster center of cluster 16 and dimention 2 is 0.426997
+	 cluster center of cluster 16 and dimention 3 is 0.308241
+	 cluster center of cluster 16 and dimention 4 is 0.392992
+	 cluster center of cluster 16 and dimention 5 is 0.732076
+	 cluster center of cluster 16 and dimention 6 is 0.628963
+	 cluster center of cluster 16 and dimention 7 is 0.774381
+	 cluster center of cluster 17 and dimention 0 is 0.405390
+	 cluster center of cluster 17 and dimention 1 is 0.312181
+	 cluster center of cluster 17 and dimention 2 is 0.758517
+	 cluster center of cluster 17 and dimention 3 is 0.291283
+	 cluster center of cluster 17 and dimention 4 is 0.764533
+	 cluster center of cluster 17 and dimention 5 is 0.301957
+	 cluster center of cluster 17 and dimention 6 is 0.254236
+	 cluster center of cluster 17 and dimention 7 is 0.334242
+	 cluster center of cluster 18 and dimention 0 is 0.467302
+	 cluster center of cluster 18 and dimention 1 is 0.324507
+	 cluster center of cluster 18 and dimention 2 is 0.519354
+	 cluster center of cluster 18 and dimention 3 is 0.712746
+	 cluster center of cluster 18 and dimention 4 is 0.371355
+	 cluster center of cluster 18 and dimention 5 is 0.199722
+	 cluster center of cluster 18 and dimention 6 is 0.216399
+	 cluster center of cluster 18 and dimention 7 is 0.182822
+	 cluster center of cluster 19 and dimention 0 is 0.651969
+	 cluster center of cluster 19 and dimention 1 is 0.618658
+	 cluster center of cluster 19 and dimention 2 is 0.816891
+	 cluster center of cluster 19 and dimention 3 is 0.822405
+	 cluster center of cluster 19 and dimention 4 is 0.482678
+	 cluster center of cluster 19 and dimention 5 is 0.305702
+	 cluster center of cluster 19 and dimention 6 is 0.519623
+	 cluster center of cluster 19 and dimention 7 is 0.552047
+	 cluster center of cluster 20 and dimention 0 is 0.226976
+	 cluster center of cluster 20 and dimention 1 is 0.836112
+	 cluster center of cluster 20 and dimention 2 is 0.653607
+	 cluster center of cluster 20 and dimention 3 is 0.382507
+	 cluster center of cluster 20 and dimention 4 is 0.767973
+	 cluster center of cluster 20 and dimention 5 is 0.552042
+	 cluster center of cluster 20 and dimention 6 is 0.301764
+	 cluster center of cluster 20 and dimention 7 is 0.290944
+	 cluster center of cluster 21 and dimention 0 is 0.718485
+	 cluster center of cluster 21 and dimention 1 is 0.301895
+	 cluster center of cluster 21 and dimention 2 is 0.415275
+	 cluster center of cluster 21 and dimention 3 is 0.598883
+	 cluster center of cluster 21 and dimention 4 is 0.480415
+	 cluster center of cluster 21 and dimention 5 is 0.526866
+	 cluster center of cluster 21 and dimention 6 is 0.787105
+	 cluster center of cluster 21 and dimention 7 is 0.804716
+	 cluster center of cluster 22 and dimention 0 is 0.783414
+	 cluster center of cluster 22 and dimention 1 is 0.445159
+	 cluster center of cluster 22 and dimention 2 is 0.681188
+	 cluster center of cluster 22 and dimention 3 is 0.276104
+	 cluster center of cluster 22 and dimention 4 is 0.541242
+	 cluster center of cluster 22 and dimention 5 is 0.744289
+	 cluster center of cluster 22 and dimention 6 is 0.343933
+	 cluster center of cluster 22 and dimention 7 is 0.252769
+	 cluster center of cluster 23 and dimention 0 is 0.430006
+	 cluster center of cluster 23 and dimention 1 is 0.256427
+	 cluster center of cluster 23 and dimention 2 is 0.212837
+	 cluster center of cluster 23 and dimention 3 is 0.745357
+	 cluster center of cluster 23 and dimention 4 is 0.626959
+	 cluster center of cluster 23 and dimention 5 is 0.562752
+	 cluster center of cluster 23 and dimention 6 is 0.348368
+	 cluster center of cluster 23 and dimention 7 is 0.680176
+	 cluster center of cluster 24 and dimention 0 is 0.641660
+	 cluster center of cluster 24 and dimention 1 is 0.222532
+	 cluster center of cluster 24 and dimention 2 is 0.197305
+	 cluster center of cluster 24 and dimention 3 is 0.470323
+	 cluster center of cluster 24 and dimention 4 is 0.555991
+	 cluster center of cluster 24 and dimention 5 is 0.321554
+	 cluster center of cluster 24 and dimention 6 is 0.687154
+	 cluster center of cluster 24 and dimention 7 is 0.279645
+	 cluster center of cluster 25 and dimention 0 is 0.544967
+	 cluster center of cluster 25 and dimention 1 is 0.244429
+	 cluster center of cluster 25 and dimention 2 is 0.765003
+	 cluster center of cluster 25 and dimention 3 is 0.173490
+	 cluster center of cluster 25 and dimention 4 is 0.597566
+	 cluster center of cluster 25 and dimention 5 is 0.708841
+	 cluster center of cluster 25 and dimention 6 is 0.800801
+	 cluster center of cluster 25 and dimention 7 is 0.491942
+	 cluster center of cluster 26 and dimention 0 is 0.278441
+	 cluster center of cluster 26 and dimention 1 is 0.631379
+	 cluster center of cluster 26 and dimention 2 is 0.675757
+	 cluster center of cluster 26 and dimention 3 is 0.714894
+	 cluster center of cluster 26 and dimention 4 is 0.504597
+	 cluster center of cluster 26 and dimention 5 is 0.786995
+	 cluster center of cluster 26 and dimention 6 is 0.756272
+	 cluster center of cluster 26 and dimention 7 is 0.777260
+	 cluster center of cluster 27 and dimention 0 is 0.240864
+	 cluster center of cluster 27 and dimention 1 is 0.815953
+	 cluster center of cluster 27 and dimention 2 is 0.701278
+	 cluster center of cluster 27 and dimention 3 is 0.695212
+	 cluster center of cluster 27 and dimention 4 is 0.562301
+	 cluster center of cluster 27 and dimention 5 is 0.187453
+	 cluster center of cluster 27 and dimention 6 is 0.301515
+	 cluster center of cluster 27 and dimention 7 is 0.421355
+	 cluster center of cluster 28 and dimention 0 is 0.293323
+	 cluster center of cluster 28 and dimention 1 is 0.323079
+	 cluster center of cluster 28 and dimention 2 is 0.658813
+	 cluster center of cluster 28 and dimention 3 is 0.674271
+	 cluster center of cluster 28 and dimention 4 is 0.632895
+	 cluster center of cluster 28 and dimention 5 is 0.431673
+	 cluster center of cluster 28 and dimention 6 is 0.813638
+	 cluster center of cluster 28 and dimention 7 is 0.258829
+	 cluster center of cluster 29 and dimention 0 is 0.563750
+	 cluster center of cluster 29 and dimention 1 is 0.737035
+	 cluster center of cluster 29 and dimention 2 is 0.253794
+	 cluster center of cluster 29 and dimention 3 is 0.331683
+	 cluster center of cluster 29 and dimention 4 is 0.588349
+	 cluster center of cluster 29 and dimention 5 is 0.235033
+	 cluster center of cluster 29 and dimention 6 is 0.660545
+	 cluster center of cluster 29 and dimention 7 is 0.722648
+	 cluster center of cluster 30 and dimention 0 is 0.706292
+	 cluster center of cluster 30 and dimention 1 is 0.426871
+	 cluster center of cluster 30 and dimention 2 is 0.434324
+	 cluster center of cluster 30 and dimention 3 is 0.273100
+	 cluster center of cluster 30 and dimention 4 is 0.409921
+	 cluster center of cluster 30 and dimention 5 is 0.278232
+	 cluster center of cluster 30 and dimention 6 is 0.202410
+	 cluster center of cluster 30 and dimention 7 is 0.589053
+	 cluster center of cluster 31 and dimention 0 is 0.297809
+	 cluster center of cluster 31 and dimention 1 is 0.792367
+	 cluster center of cluster 31 and dimention 2 is 0.203873
+	 cluster center of cluster 31 and dimention 3 is 0.692916
+	 cluster center of cluster 31 and dimention 4 is 0.813159
+	 cluster center of cluster 31 and dimention 5 is 0.408468
+	 cluster center of cluster 31 and dimention 6 is 0.245546
+	 cluster center of cluster 31 and dimention 7 is 0.371872
+	 ----------------------
+	 cluster size of cluster 0 is 2215
+	 cluster size of cluster 1 is 1295
+	 cluster size of cluster 2 is 2652
+	 cluster size of cluster 3 is 8210
+	 cluster size of cluster 4 is 2671
+	 cluster size of cluster 5 is 2224
+	 cluster size of cluster 6 is 2559
+	 cluster size of cluster 7 is 2805
+	 cluster size of cluster 8 is 2114
+	 cluster size of cluster 9 is 3307
+	 cluster size of cluster 10 is 2182
+	 cluster size of cluster 11 is 2259
+	 cluster size of cluster 12 is 2831
+	 cluster size of cluster 13 is 6044
+	 cluster size of cluster 14 is 4531
+	 cluster size of cluster 15 is 6289
+	 cluster size of cluster 16 is 3729
+	 cluster size of cluster 17 is 3424
+	 cluster size of cluster 18 is 2916
+	 cluster size of cluster 19 is 5326
+	 cluster size of cluster 20 is 1887
+	 cluster size of cluster 21 is 5902
+	 cluster size of cluster 22 is 4693
+	 cluster size of cluster 23 is 5813
+	 cluster size of cluster 24 is 5168
+	 cluster size of cluster 25 is 2616
+	 cluster size of cluster 26 is 3265
+	 cluster size of cluster 27 is 2186
+	 cluster size of cluster 28 is 4718
+	 cluster size of cluster 29 is 5369
+	 cluster size of cluster 30 is 7300
+	 cluster size of cluster 31 is 1500
+
+****************************************************************************
+For 32 number of clusters and 2 number of processors:
+	 SSE = 30303.108132
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.634371
+	 cluster center of cluster 0 and dimention 1 is 0.218427
+	 cluster center of cluster 0 and dimention 2 is 0.568563
+	 cluster center of cluster 0 and dimention 3 is 0.331120
+	 cluster center of cluster 0 and dimention 4 is 0.384979
+	 cluster center of cluster 0 and dimention 5 is 0.552186
+	 cluster center of cluster 0 and dimention 6 is 0.763278
+	 cluster center of cluster 0 and dimention 7 is 0.625686
+	 cluster center of cluster 1 and dimention 0 is 0.624712
+	 cluster center of cluster 1 and dimention 1 is 0.493525
+	 cluster center of cluster 1 and dimention 2 is 0.471647
+	 cluster center of cluster 1 and dimention 3 is 0.503135
+	 cluster center of cluster 1 and dimention 4 is 0.370362
+	 cluster center of cluster 1 and dimention 5 is 0.357007
+	 cluster center of cluster 1 and dimention 6 is 0.571567
+	 cluster center of cluster 1 and dimention 7 is 0.468876
+	 cluster center of cluster 2 and dimention 0 is 0.400140
+	 cluster center of cluster 2 and dimention 1 is 0.540754
+	 cluster center of cluster 2 and dimention 2 is 0.550533
+	 cluster center of cluster 2 and dimention 3 is 0.563651
+	 cluster center of cluster 2 and dimention 4 is 0.359960
+	 cluster center of cluster 2 and dimention 5 is 0.285838
+	 cluster center of cluster 2 and dimention 6 is 0.476835
+	 cluster center of cluster 2 and dimention 7 is 0.634187
+	 cluster center of cluster 3 and dimention 0 is 0.464862
+	 cluster center of cluster 3 and dimention 1 is 0.257033
+	 cluster center of cluster 3 and dimention 2 is 0.426707
+	 cluster center of cluster 3 and dimention 3 is 0.264447
+	 cluster center of cluster 3 and dimention 4 is 0.703054
+	 cluster center of cluster 3 and dimention 5 is 0.306597
+	 cluster center of cluster 3 and dimention 6 is 0.613089
+	 cluster center of cluster 3 and dimention 7 is 0.548683
+	 cluster center of cluster 4 and dimention 0 is 0.485992
+	 cluster center of cluster 4 and dimention 1 is 0.441477
+	 cluster center of cluster 4 and dimention 2 is 0.774586
+	 cluster center of cluster 4 and dimention 3 is 0.434793
+	 cluster center of cluster 4 and dimention 4 is 0.610783
+	 cluster center of cluster 4 and dimention 5 is 0.729777
+	 cluster center of cluster 4 and dimention 6 is 0.554831
+	 cluster center of cluster 4 and dimention 7 is 0.502554
+	 cluster center of cluster 5 and dimention 0 is 0.618966
+	 cluster center of cluster 5 and dimention 1 is 0.448890
+	 cluster center of cluster 5 and dimention 2 is 0.618398
+	 cluster center of cluster 5 and dimention 3 is 0.589445
+	 cluster center of cluster 5 and dimention 4 is 0.596007
+	 cluster center of cluster 5 and dimention 5 is 0.291331
+	 cluster center of cluster 5 and dimention 6 is 0.504359
+	 cluster center of cluster 5 and dimention 7 is 0.760859
+	 cluster center of cluster 6 and dimention 0 is 0.461637
+	 cluster center of cluster 6 and dimention 1 is 0.637160
+	 cluster center of cluster 6 and dimention 2 is 0.405282
+	 cluster center of cluster 6 and dimention 3 is 0.677935
+	 cluster center of cluster 6 and dimention 4 is 0.578893
+	 cluster center of cluster 6 and dimention 5 is 0.396859
+	 cluster center of cluster 6 and dimention 6 is 0.449999
+	 cluster center of cluster 6 and dimention 7 is 0.630631
+	 cluster center of cluster 7 and dimention 0 is 0.638845
+	 cluster center of cluster 7 and dimention 1 is 0.581211
+	 cluster center of cluster 7 and dimention 2 is 0.749249
+	 cluster center of cluster 7 and dimention 3 is 0.544820
+	 cluster center of cluster 7 and dimention 4 is 0.472333
+	 cluster center of cluster 7 and dimention 5 is 0.565606
+	 cluster center of cluster 7 and dimention 6 is 0.692861
+	 cluster center of cluster 7 and dimention 7 is 0.444145
+	 cluster center of cluster 8 and dimention 0 is 0.569153
+	 cluster center of cluster 8 and dimention 1 is 0.557429
+	 cluster center of cluster 8 and dimention 2 is 0.778088
+	 cluster center of cluster 8 and dimention 3 is 0.783648
+	 cluster center of cluster 8 and dimention 4 is 0.425367
+	 cluster center of cluster 8 and dimention 5 is 0.547215
+	 cluster center of cluster 8 and dimention 6 is 0.454240
+	 cluster center of cluster 8 and dimention 7 is 0.202670
+	 cluster center of cluster 9 and dimention 0 is 0.590632
+	 cluster center of cluster 9 and dimention 1 is 0.547559
+	 cluster center of cluster 9 and dimention 2 is 0.650815
+	 cluster center of cluster 9 and dimention 3 is 0.408450
+	 cluster center of cluster 9 and dimention 4 is 0.354697
+	 cluster center of cluster 9 and dimention 5 is 0.382980
+	 cluster center of cluster 9 and dimention 6 is 0.402820
+	 cluster center of cluster 9 and dimention 7 is 0.326624
+	 cluster center of cluster 10 and dimention 0 is 0.598978
+	 cluster center of cluster 10 and dimention 1 is 0.714315
+	 cluster center of cluster 10 and dimention 2 is 0.437052
+	 cluster center of cluster 10 and dimention 3 is 0.437838
+	 cluster center of cluster 10 and dimention 4 is 0.214937
+	 cluster center of cluster 10 and dimention 5 is 0.495779
+	 cluster center of cluster 10 and dimention 6 is 0.484272
+	 cluster center of cluster 10 and dimention 7 is 0.677959
+	 cluster center of cluster 11 and dimention 0 is 0.551255
+	 cluster center of cluster 11 and dimention 1 is 0.377750
+	 cluster center of cluster 11 and dimention 2 is 0.454810
+	 cluster center of cluster 11 and dimention 3 is 0.409728
+	 cluster center of cluster 11 and dimention 4 is 0.430287
+	 cluster center of cluster 11 and dimention 5 is 0.289190
+	 cluster center of cluster 11 and dimention 6 is 0.790463
+	 cluster center of cluster 11 and dimention 7 is 0.408836
+	 cluster center of cluster 12 and dimention 0 is 0.474634
+	 cluster center of cluster 12 and dimention 1 is 0.699007
+	 cluster center of cluster 12 and dimention 2 is 0.707408
+	 cluster center of cluster 12 and dimention 3 is 0.710897
+	 cluster center of cluster 12 and dimention 4 is 0.457261
+	 cluster center of cluster 12 and dimention 5 is 0.309740
+	 cluster center of cluster 12 and dimention 6 is 0.457472
+	 cluster center of cluster 12 and dimention 7 is 0.485934
+	 cluster center of cluster 13 and dimention 0 is 0.356837
+	 cluster center of cluster 13 and dimention 1 is 0.655634
+	 cluster center of cluster 13 and dimention 2 is 0.403728
+	 cluster center of cluster 13 and dimention 3 is 0.528638
+	 cluster center of cluster 13 and dimention 4 is 0.636015
+	 cluster center of cluster 13 and dimention 5 is 0.540447
+	 cluster center of cluster 13 and dimention 6 is 0.715336
+	 cluster center of cluster 13 and dimention 7 is 0.510930
+	 cluster center of cluster 14 and dimention 0 is 0.454949
+	 cluster center of cluster 14 and dimention 1 is 0.429343
+	 cluster center of cluster 14 and dimention 2 is 0.657776
+	 cluster center of cluster 14 and dimention 3 is 0.440566
+	 cluster center of cluster 14 and dimention 4 is 0.635333
+	 cluster center of cluster 14 and dimention 5 is 0.309794
+	 cluster center of cluster 14 and dimention 6 is 0.323360
+	 cluster center of cluster 14 and dimention 7 is 0.227266
+	 cluster center of cluster 15 and dimention 0 is 0.425534
+	 cluster center of cluster 15 and dimention 1 is 0.704524
+	 cluster center of cluster 15 and dimention 2 is 0.465276
+	 cluster center of cluster 15 and dimention 3 is 0.780582
+	 cluster center of cluster 15 and dimention 4 is 0.324490
+	 cluster center of cluster 15 and dimention 5 is 0.511534
+	 cluster center of cluster 15 and dimention 6 is 0.739840
+	 cluster center of cluster 15 and dimention 7 is 0.686783
+	 cluster center of cluster 16 and dimention 0 is 0.357916
+	 cluster center of cluster 16 and dimention 1 is 0.471608
+	 cluster center of cluster 16 and dimention 2 is 0.519320
+	 cluster center of cluster 16 and dimention 3 is 0.657551
+	 cluster center of cluster 16 and dimention 4 is 0.441087
+	 cluster center of cluster 16 and dimention 5 is 0.598705
+	 cluster center of cluster 16 and dimention 6 is 0.689945
+	 cluster center of cluster 16 and dimention 7 is 0.718680
+	 cluster center of cluster 17 and dimention 0 is 0.416789
+	 cluster center of cluster 17 and dimention 1 is 0.674827
+	 cluster center of cluster 17 and dimention 2 is 0.574846
+	 cluster center of cluster 17 and dimention 3 is 0.669259
+	 cluster center of cluster 17 and dimention 4 is 0.303621
+	 cluster center of cluster 17 and dimention 5 is 0.696874
+	 cluster center of cluster 17 and dimention 6 is 0.452583
+	 cluster center of cluster 17 and dimention 7 is 0.485233
+	 cluster center of cluster 18 and dimention 0 is 0.362184
+	 cluster center of cluster 18 and dimention 1 is 0.303161
+	 cluster center of cluster 18 and dimention 2 is 0.480232
+	 cluster center of cluster 18 and dimention 3 is 0.353183
+	 cluster center of cluster 18 and dimention 4 is 0.287730
+	 cluster center of cluster 18 and dimention 5 is 0.652596
+	 cluster center of cluster 18 and dimention 6 is 0.474315
+	 cluster center of cluster 18 and dimention 7 is 0.387248
+	 cluster center of cluster 19 and dimention 0 is 0.546716
+	 cluster center of cluster 19 and dimention 1 is 0.702940
+	 cluster center of cluster 19 and dimention 2 is 0.301244
+	 cluster center of cluster 19 and dimention 3 is 0.493550
+	 cluster center of cluster 19 and dimention 4 is 0.392956
+	 cluster center of cluster 19 and dimention 5 is 0.591646
+	 cluster center of cluster 19 and dimention 6 is 0.331485
+	 cluster center of cluster 19 and dimention 7 is 0.549222
+	 cluster center of cluster 20 and dimention 0 is 0.220355
+	 cluster center of cluster 20 and dimention 1 is 0.683088
+	 cluster center of cluster 20 and dimention 2 is 0.616881
+	 cluster center of cluster 20 and dimention 3 is 0.499541
+	 cluster center of cluster 20 and dimention 4 is 0.444168
+	 cluster center of cluster 20 and dimention 5 is 0.433190
+	 cluster center of cluster 20 and dimention 6 is 0.284069
+	 cluster center of cluster 20 and dimention 7 is 0.527166
+	 cluster center of cluster 21 and dimention 0 is 0.411351
+	 cluster center of cluster 21 and dimention 1 is 0.611417
+	 cluster center of cluster 21 and dimention 2 is 0.471754
+	 cluster center of cluster 21 and dimention 3 is 0.643241
+	 cluster center of cluster 21 and dimention 4 is 0.635130
+	 cluster center of cluster 21 and dimention 5 is 0.448462
+	 cluster center of cluster 21 and dimention 6 is 0.289185
+	 cluster center of cluster 21 and dimention 7 is 0.270747
+	 cluster center of cluster 22 and dimention 0 is 0.496383
+	 cluster center of cluster 22 and dimention 1 is 0.786149
+	 cluster center of cluster 22 and dimention 2 is 0.345656
+	 cluster center of cluster 22 and dimention 3 is 0.327205
+	 cluster center of cluster 22 and dimention 4 is 0.705701
+	 cluster center of cluster 22 and dimention 5 is 0.523936
+	 cluster center of cluster 22 and dimention 6 is 0.546264
+	 cluster center of cluster 22 and dimention 7 is 0.352419
+	 cluster center of cluster 23 and dimention 0 is 0.667516
+	 cluster center of cluster 23 and dimention 1 is 0.722096
+	 cluster center of cluster 23 and dimention 2 is 0.537189
+	 cluster center of cluster 23 and dimention 3 is 0.464990
+	 cluster center of cluster 23 and dimention 4 is 0.769129
+	 cluster center of cluster 23 and dimention 5 is 0.561132
+	 cluster center of cluster 23 and dimention 6 is 0.471048
+	 cluster center of cluster 23 and dimention 7 is 0.774159
+	 cluster center of cluster 24 and dimention 0 is 0.801354
+	 cluster center of cluster 24 and dimention 1 is 0.307411
+	 cluster center of cluster 24 and dimention 2 is 0.456535
+	 cluster center of cluster 24 and dimention 3 is 0.362215
+	 cluster center of cluster 24 and dimention 4 is 0.454064
+	 cluster center of cluster 24 and dimention 5 is 0.625547
+	 cluster center of cluster 24 and dimention 6 is 0.517981
+	 cluster center of cluster 24 and dimention 7 is 0.590878
+	 cluster center of cluster 25 and dimention 0 is 0.619057
+	 cluster center of cluster 25 and dimention 1 is 0.448288
+	 cluster center of cluster 25 and dimention 2 is 0.284323
+	 cluster center of cluster 25 and dimention 3 is 0.310123
+	 cluster center of cluster 25 and dimention 4 is 0.785558
+	 cluster center of cluster 25 and dimention 5 is 0.607745
+	 cluster center of cluster 25 and dimention 6 is 0.400662
+	 cluster center of cluster 25 and dimention 7 is 0.485409
+	 cluster center of cluster 26 and dimention 0 is 0.455833
+	 cluster center of cluster 26 and dimention 1 is 0.309714
+	 cluster center of cluster 26 and dimention 2 is 0.653776
+	 cluster center of cluster 26 and dimention 3 is 0.249859
+	 cluster center of cluster 26 and dimention 4 is 0.372701
+	 cluster center of cluster 26 and dimention 5 is 0.342406
+	 cluster center of cluster 26 and dimention 6 is 0.443751
+	 cluster center of cluster 26 and dimention 7 is 0.519439
+	 cluster center of cluster 27 and dimention 0 is 0.580460
+	 cluster center of cluster 27 and dimention 1 is 0.324766
+	 cluster center of cluster 27 and dimention 2 is 0.216007
+	 cluster center of cluster 27 and dimention 3 is 0.426171
+	 cluster center of cluster 27 and dimention 4 is 0.672055
+	 cluster center of cluster 27 and dimention 5 is 0.587733
+	 cluster center of cluster 27 and dimention 6 is 0.667940
+	 cluster center of cluster 27 and dimention 7 is 0.707070
+	 cluster center of cluster 28 and dimention 0 is 0.360554
+	 cluster center of cluster 28 and dimention 1 is 0.621744
+	 cluster center of cluster 28 and dimention 2 is 0.827363
+	 cluster center of cluster 28 and dimention 3 is 0.509340
+	 cluster center of cluster 28 and dimention 4 is 0.608146
+	 cluster center of cluster 28 and dimention 5 is 0.757163
+	 cluster center of cluster 28 and dimention 6 is 0.272556
+	 cluster center of cluster 28 and dimention 7 is 0.342326
+	 cluster center of cluster 29 and dimention 0 is 0.749537
+	 cluster center of cluster 29 and dimention 1 is 0.434724
+	 cluster center of cluster 29 and dimention 2 is 0.255268
+	 cluster center of cluster 29 and dimention 3 is 0.690952
+	 cluster center of cluster 29 and dimention 4 is 0.482741
+	 cluster center of cluster 29 and dimention 5 is 0.303200
+	 cluster center of cluster 29 and dimention 6 is 0.479855
+	 cluster center of cluster 29 and dimention 7 is 0.500245
+	 cluster center of cluster 30 and dimention 0 is 0.401786
+	 cluster center of cluster 30 and dimention 1 is 0.276991
+	 cluster center of cluster 30 and dimention 2 is 0.326924
+	 cluster center of cluster 30 and dimention 3 is 0.485063
+	 cluster center of cluster 30 and dimention 4 is 0.438529
+	 cluster center of cluster 30 and dimention 5 is 0.698428
+	 cluster center of cluster 30 and dimention 6 is 0.600316
+	 cluster center of cluster 30 and dimention 7 is 0.457310
+	 cluster center of cluster 31 and dimention 0 is 0.583476
+	 cluster center of cluster 31 and dimention 1 is 0.231832
+	 cluster center of cluster 31 and dimention 2 is 0.368414
+	 cluster center of cluster 31 and dimention 3 is 0.626147
+	 cluster center of cluster 31 and dimention 4 is 0.582781
+	 cluster center of cluster 31 and dimention 5 is 0.725760
+	 cluster center of cluster 31 and dimention 6 is 0.349752
+	 cluster center of cluster 31 and dimention 7 is 0.564108
+	 ----------------------
+	 cluster size of cluster 0 is 2200
+	 cluster size of cluster 1 is 5248
+	 cluster size of cluster 2 is 3148
+	 cluster size of cluster 3 is 3653
+	 cluster size of cluster 4 is 4364
+	 cluster size of cluster 5 is 4538
+	 cluster size of cluster 6 is 5316
+	 cluster size of cluster 7 is 3494
+	 cluster size of cluster 8 is 2533
+	 cluster size of cluster 9 is 4957
+	 cluster size of cluster 10 is 1967
+	 cluster size of cluster 11 is 2423
+	 cluster size of cluster 12 is 1981
+	 cluster size of cluster 13 is 3441
+	 cluster size of cluster 14 is 3236
+	 cluster size of cluster 15 is 1638
+	 cluster size of cluster 16 is 6074
+	 cluster size of cluster 17 is 3140
+	 cluster size of cluster 18 is 4918
+	 cluster size of cluster 19 is 4511
+	 cluster size of cluster 20 is 3596
+	 cluster size of cluster 21 is 6543
+	 cluster size of cluster 22 is 5822
+	 cluster size of cluster 23 is 1843
+	 cluster size of cluster 24 is 2995
+	 cluster size of cluster 25 is 3791
+	 cluster size of cluster 26 is 5391
+	 cluster size of cluster 27 is 1923
+	 cluster size of cluster 28 is 2110
+	 cluster size of cluster 29 is 3220
+	 cluster size of cluster 30 is 6648
+	 cluster size of cluster 31 is 3338
+
+****************************************************************************
+For 32 number of clusters and 4 number of processors:
+	 SSE = 16929.470110
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.272315
+	 cluster center of cluster 0 and dimention 1 is 0.488988
+	 cluster center of cluster 0 and dimention 2 is 0.490933
+	 cluster center of cluster 0 and dimention 3 is 0.428127
+	 cluster center of cluster 0 and dimention 4 is 0.289954
+	 cluster center of cluster 0 and dimention 5 is 0.631424
+	 cluster center of cluster 0 and dimention 6 is 0.438883
+	 cluster center of cluster 0 and dimention 7 is 0.533191
+	 cluster center of cluster 1 and dimention 0 is 0.411362
+	 cluster center of cluster 1 and dimention 1 is 0.603759
+	 cluster center of cluster 1 and dimention 2 is 0.451951
+	 cluster center of cluster 1 and dimention 3 is 0.659714
+	 cluster center of cluster 1 and dimention 4 is 0.519164
+	 cluster center of cluster 1 and dimention 5 is 0.444909
+	 cluster center of cluster 1 and dimention 6 is 0.424527
+	 cluster center of cluster 1 and dimention 7 is 0.607875
+	 cluster center of cluster 2 and dimention 0 is 0.592723
+	 cluster center of cluster 2 and dimention 1 is 0.652051
+	 cluster center of cluster 2 and dimention 2 is 0.386692
+	 cluster center of cluster 2 and dimention 3 is 0.569460
+	 cluster center of cluster 2 and dimention 4 is 0.529707
+	 cluster center of cluster 2 and dimention 5 is 0.469959
+	 cluster center of cluster 2 and dimention 6 is 0.448334
+	 cluster center of cluster 2 and dimention 7 is 0.418061
+	 cluster center of cluster 3 and dimention 0 is 0.461428
+	 cluster center of cluster 3 and dimention 1 is 0.374810
+	 cluster center of cluster 3 and dimention 2 is 0.505447
+	 cluster center of cluster 3 and dimention 3 is 0.632053
+	 cluster center of cluster 3 and dimention 4 is 0.564530
+	 cluster center of cluster 3 and dimention 5 is 0.416928
+	 cluster center of cluster 3 and dimention 6 is 0.521515
+	 cluster center of cluster 3 and dimention 7 is 0.506110
+	 cluster center of cluster 4 and dimention 0 is 0.535977
+	 cluster center of cluster 4 and dimention 1 is 0.658594
+	 cluster center of cluster 4 and dimention 2 is 0.418775
+	 cluster center of cluster 4 and dimention 3 is 0.593303
+	 cluster center of cluster 4 and dimention 4 is 0.426622
+	 cluster center of cluster 4 and dimention 5 is 0.588388
+	 cluster center of cluster 4 and dimention 6 is 0.459443
+	 cluster center of cluster 4 and dimention 7 is 0.549658
+	 cluster center of cluster 5 and dimention 0 is 0.529828
+	 cluster center of cluster 5 and dimention 1 is 0.383561
+	 cluster center of cluster 5 and dimention 2 is 0.387940
+	 cluster center of cluster 5 and dimention 3 is 0.425103
+	 cluster center of cluster 5 and dimention 4 is 0.747673
+	 cluster center of cluster 5 and dimention 5 is 0.504054
+	 cluster center of cluster 5 and dimention 6 is 0.497015
+	 cluster center of cluster 5 and dimention 7 is 0.509250
+	 cluster center of cluster 6 and dimention 0 is 0.347941
+	 cluster center of cluster 6 and dimention 1 is 0.590074
+	 cluster center of cluster 6 and dimention 2 is 0.608671
+	 cluster center of cluster 6 and dimention 3 is 0.301106
+	 cluster center of cluster 6 and dimention 4 is 0.696773
+	 cluster center of cluster 6 and dimention 5 is 0.509935
+	 cluster center of cluster 6 and dimention 6 is 0.696426
+	 cluster center of cluster 6 and dimention 7 is 0.544331
+	 cluster center of cluster 7 and dimention 0 is 0.416472
+	 cluster center of cluster 7 and dimention 1 is 0.422307
+	 cluster center of cluster 7 and dimention 2 is 0.659257
+	 cluster center of cluster 7 and dimention 3 is 0.408826
+	 cluster center of cluster 7 and dimention 4 is 0.577795
+	 cluster center of cluster 7 and dimention 5 is 0.551702
+	 cluster center of cluster 7 and dimention 6 is 0.475890
+	 cluster center of cluster 7 and dimention 7 is 0.412141
+	 cluster center of cluster 8 and dimention 0 is 0.582396
+	 cluster center of cluster 8 and dimention 1 is 0.631978
+	 cluster center of cluster 8 and dimention 2 is 0.602502
+	 cluster center of cluster 8 and dimention 3 is 0.530996
+	 cluster center of cluster 8 and dimention 4 is 0.450464
+	 cluster center of cluster 8 and dimention 5 is 0.473982
+	 cluster center of cluster 8 and dimention 6 is 0.565195
+	 cluster center of cluster 8 and dimention 7 is 0.514597
+	 cluster center of cluster 9 and dimention 0 is 0.595472
+	 cluster center of cluster 9 and dimention 1 is 0.418436
+	 cluster center of cluster 9 and dimention 2 is 0.422192
+	 cluster center of cluster 9 and dimention 3 is 0.443026
+	 cluster center of cluster 9 and dimention 4 is 0.379360
+	 cluster center of cluster 9 and dimention 5 is 0.475514
+	 cluster center of cluster 9 and dimention 6 is 0.444063
+	 cluster center of cluster 9 and dimention 7 is 0.496827
+	 cluster center of cluster 10 and dimention 0 is 0.506582
+	 cluster center of cluster 10 and dimention 1 is 0.499390
+	 cluster center of cluster 10 and dimention 2 is 0.753227
+	 cluster center of cluster 10 and dimention 3 is 0.463519
+	 cluster center of cluster 10 and dimention 4 is 0.385912
+	 cluster center of cluster 10 and dimention 5 is 0.420196
+	 cluster center of cluster 10 and dimention 6 is 0.508003
+	 cluster center of cluster 10 and dimention 7 is 0.664484
+	 cluster center of cluster 11 and dimention 0 is 0.319344
+	 cluster center of cluster 11 and dimention 1 is 0.525048
+	 cluster center of cluster 11 and dimention 2 is 0.503722
+	 cluster center of cluster 11 and dimention 3 is 0.604358
+	 cluster center of cluster 11 and dimention 4 is 0.586450
+	 cluster center of cluster 11 and dimention 5 is 0.603786
+	 cluster center of cluster 11 and dimention 6 is 0.500102
+	 cluster center of cluster 11 and dimention 7 is 0.326155
+	 cluster center of cluster 12 and dimention 0 is 0.651794
+	 cluster center of cluster 12 and dimention 1 is 0.507139
+	 cluster center of cluster 12 and dimention 2 is 0.702831
+	 cluster center of cluster 12 and dimention 3 is 0.248863
+	 cluster center of cluster 12 and dimention 4 is 0.497971
+	 cluster center of cluster 12 and dimention 5 is 0.353762
+	 cluster center of cluster 12 and dimention 6 is 0.361255
+	 cluster center of cluster 12 and dimention 7 is 0.647929
+	 cluster center of cluster 13 and dimention 0 is 0.471365
+	 cluster center of cluster 13 and dimention 1 is 0.409162
+	 cluster center of cluster 13 and dimention 2 is 0.557191
+	 cluster center of cluster 13 and dimention 3 is 0.569505
+	 cluster center of cluster 13 and dimention 4 is 0.453083
+	 cluster center of cluster 13 and dimention 5 is 0.538087
+	 cluster center of cluster 13 and dimention 6 is 0.373630
+	 cluster center of cluster 13 and dimention 7 is 0.565448
+	 cluster center of cluster 14 and dimention 0 is 0.460753
+	 cluster center of cluster 14 and dimention 1 is 0.544051
+	 cluster center of cluster 14 and dimention 2 is 0.327521
+	 cluster center of cluster 14 and dimention 3 is 0.756430
+	 cluster center of cluster 14 and dimention 4 is 0.576362
+	 cluster center of cluster 14 and dimention 5 is 0.751953
+	 cluster center of cluster 14 and dimention 6 is 0.521905
+	 cluster center of cluster 14 and dimention 7 is 0.370464
+	 cluster center of cluster 15 and dimention 0 is 0.630028
+	 cluster center of cluster 15 and dimention 1 is 0.405038
+	 cluster center of cluster 15 and dimention 2 is 0.572452
+	 cluster center of cluster 15 and dimention 3 is 0.411607
+	 cluster center of cluster 15 and dimention 4 is 0.634245
+	 cluster center of cluster 15 and dimention 5 is 0.517269
+	 cluster center of cluster 15 and dimention 6 is 0.586623
+	 cluster center of cluster 15 and dimention 7 is 0.633259
+	 cluster center of cluster 16 and dimention 0 is 0.499067
+	 cluster center of cluster 16 and dimention 1 is 0.539561
+	 cluster center of cluster 16 and dimention 2 is 0.589098
+	 cluster center of cluster 16 and dimention 3 is 0.615788
+	 cluster center of cluster 16 and dimention 4 is 0.577973
+	 cluster center of cluster 16 and dimention 5 is 0.503210
+	 cluster center of cluster 16 and dimention 6 is 0.548042
+	 cluster center of cluster 16 and dimention 7 is 0.589861
+	 cluster center of cluster 17 and dimention 0 is 0.478266
+	 cluster center of cluster 17 and dimention 1 is 0.512397
+	 cluster center of cluster 17 and dimention 2 is 0.533414
+	 cluster center of cluster 17 and dimention 3 is 0.439336
+	 cluster center of cluster 17 and dimention 4 is 0.464956
+	 cluster center of cluster 17 and dimention 5 is 0.439774
+	 cluster center of cluster 17 and dimention 6 is 0.456107
+	 cluster center of cluster 17 and dimention 7 is 0.486685
+	 cluster center of cluster 18 and dimention 0 is 0.576585
+	 cluster center of cluster 18 and dimention 1 is 0.466356
+	 cluster center of cluster 18 and dimention 2 is 0.563438
+	 cluster center of cluster 18 and dimention 3 is 0.455899
+	 cluster center of cluster 18 and dimention 4 is 0.527009
+	 cluster center of cluster 18 and dimention 5 is 0.524244
+	 cluster center of cluster 18 and dimention 6 is 0.545979
+	 cluster center of cluster 18 and dimention 7 is 0.429640
+	 cluster center of cluster 19 and dimention 0 is 0.557321
+	 cluster center of cluster 19 and dimention 1 is 0.447229
+	 cluster center of cluster 19 and dimention 2 is 0.588783
+	 cluster center of cluster 19 and dimention 3 is 0.497376
+	 cluster center of cluster 19 and dimention 4 is 0.376330
+	 cluster center of cluster 19 and dimention 5 is 0.499355
+	 cluster center of cluster 19 and dimention 6 is 0.657675
+	 cluster center of cluster 19 and dimention 7 is 0.308783
+	 cluster center of cluster 20 and dimention 0 is 0.578802
+	 cluster center of cluster 20 and dimention 1 is 0.409358
+	 cluster center of cluster 20 and dimention 2 is 0.489911
+	 cluster center of cluster 20 and dimention 3 is 0.558013
+	 cluster center of cluster 20 and dimention 4 is 0.335003
+	 cluster center of cluster 20 and dimention 5 is 0.439119
+	 cluster center of cluster 20 and dimention 6 is 0.474734
+	 cluster center of cluster 20 and dimention 7 is 0.641579
+	 cluster center of cluster 21 and dimention 0 is 0.632661
+	 cluster center of cluster 21 and dimention 1 is 0.471761
+	 cluster center of cluster 21 and dimention 2 is 0.249653
+	 cluster center of cluster 21 and dimention 3 is 0.413908
+	 cluster center of cluster 21 and dimention 4 is 0.530373
+	 cluster center of cluster 21 and dimention 5 is 0.563394
+	 cluster center of cluster 21 and dimention 6 is 0.549134
+	 cluster center of cluster 21 and dimention 7 is 0.403198
+	 cluster center of cluster 22 and dimention 0 is 0.535564
+	 cluster center of cluster 22 and dimention 1 is 0.325456
+	 cluster center of cluster 22 and dimention 2 is 0.379193
+	 cluster center of cluster 22 and dimention 3 is 0.694448
+	 cluster center of cluster 22 and dimention 4 is 0.336015
+	 cluster center of cluster 22 and dimention 5 is 0.776905
+	 cluster center of cluster 22 and dimention 6 is 0.438314
+	 cluster center of cluster 22 and dimention 7 is 0.602503
+	 cluster center of cluster 23 and dimention 0 is 0.346534
+	 cluster center of cluster 23 and dimention 1 is 0.589031
+	 cluster center of cluster 23 and dimention 2 is 0.698459
+	 cluster center of cluster 23 and dimention 3 is 0.701258
+	 cluster center of cluster 23 and dimention 4 is 0.484879
+	 cluster center of cluster 23 and dimention 5 is 0.503342
+	 cluster center of cluster 23 and dimention 6 is 0.599599
+	 cluster center of cluster 23 and dimention 7 is 0.540058
+	 cluster center of cluster 24 and dimention 0 is 0.457638
+	 cluster center of cluster 24 and dimention 1 is 0.472581
+	 cluster center of cluster 24 and dimention 2 is 0.421756
+	 cluster center of cluster 24 and dimention 3 is 0.596125
+	 cluster center of cluster 24 and dimention 4 is 0.463343
+	 cluster center of cluster 24 and dimention 5 is 0.273187
+	 cluster center of cluster 24 and dimention 6 is 0.473358
+	 cluster center of cluster 24 and dimention 7 is 0.416820
+	 cluster center of cluster 25 and dimention 0 is 0.619436
+	 cluster center of cluster 25 and dimention 1 is 0.672062
+	 cluster center of cluster 25 and dimention 2 is 0.526288
+	 cluster center of cluster 25 and dimention 3 is 0.393160
+	 cluster center of cluster 25 and dimention 4 is 0.642101
+	 cluster center of cluster 25 and dimention 5 is 0.458088
+	 cluster center of cluster 25 and dimention 6 is 0.688913
+	 cluster center of cluster 25 and dimention 7 is 0.395015
+	 cluster center of cluster 26 and dimention 0 is 0.415069
+	 cluster center of cluster 26 and dimention 1 is 0.347201
+	 cluster center of cluster 26 and dimention 2 is 0.436904
+	 cluster center of cluster 26 and dimention 3 is 0.224412
+	 cluster center of cluster 26 and dimention 4 is 0.508441
+	 cluster center of cluster 26 and dimention 5 is 0.662510
+	 cluster center of cluster 26 and dimention 6 is 0.476120
+	 cluster center of cluster 26 and dimention 7 is 0.501870
+	 cluster center of cluster 27 and dimention 0 is 0.434782
+	 cluster center of cluster 27 and dimention 1 is 0.610277
+	 cluster center of cluster 27 and dimention 2 is 0.404742
+	 cluster center of cluster 27 and dimention 3 is 0.457796
+	 cluster center of cluster 27 and dimention 4 is 0.362272
+	 cluster center of cluster 27 and dimention 5 is 0.393196
+	 cluster center of cluster 27 and dimention 6 is 0.385441
+	 cluster center of cluster 27 and dimention 7 is 0.720179
+	 cluster center of cluster 28 and dimention 0 is 0.728579
+	 cluster center of cluster 28 and dimention 1 is 0.418273
+	 cluster center of cluster 28 and dimention 2 is 0.585307
+	 cluster center of cluster 28 and dimention 3 is 0.594271
+	 cluster center of cluster 28 and dimention 4 is 0.434824
+	 cluster center of cluster 28 and dimention 5 is 0.600066
+	 cluster center of cluster 28 and dimention 6 is 0.389397
+	 cluster center of cluster 28 and dimention 7 is 0.328154
+	 cluster center of cluster 29 and dimention 0 is 0.363175
+	 cluster center of cluster 29 and dimention 1 is 0.505642
+	 cluster center of cluster 29 and dimention 2 is 0.430531
+	 cluster center of cluster 29 and dimention 3 is 0.561557
+	 cluster center of cluster 29 and dimention 4 is 0.337460
+	 cluster center of cluster 29 and dimention 5 is 0.602794
+	 cluster center of cluster 29 and dimention 6 is 0.505215
+	 cluster center of cluster 29 and dimention 7 is 0.388514
+	 cluster center of cluster 30 and dimention 0 is 0.477995
+	 cluster center of cluster 30 and dimention 1 is 0.436567
+	 cluster center of cluster 30 and dimention 2 is 0.417792
+	 cluster center of cluster 30 and dimention 3 is 0.538212
+	 cluster center of cluster 30 and dimention 4 is 0.377214
+	 cluster center of cluster 30 and dimention 5 is 0.598808
+	 cluster center of cluster 30 and dimention 6 is 0.598978
+	 cluster center of cluster 30 and dimention 7 is 0.627382
+	 cluster center of cluster 31 and dimention 0 is 0.475420
+	 cluster center of cluster 31 and dimention 1 is 0.519800
+	 cluster center of cluster 31 and dimention 2 is 0.356800
+	 cluster center of cluster 31 and dimention 3 is 0.475793
+	 cluster center of cluster 31 and dimention 4 is 0.637154
+	 cluster center of cluster 31 and dimention 5 is 0.383632
+	 cluster center of cluster 31 and dimention 6 is 0.289981
+	 cluster center of cluster 31 and dimention 7 is 0.529405
+	 ----------------------
+	 cluster size of cluster 0 is 3897
+	 cluster size of cluster 1 is 2289
+	 cluster size of cluster 2 is 3968
+	 cluster size of cluster 3 is 3730
+	 cluster size of cluster 4 is 3428
+	 cluster size of cluster 5 is 3781
+	 cluster size of cluster 6 is 3909
+	 cluster size of cluster 7 is 4857
+	 cluster size of cluster 8 is 4995
+	 cluster size of cluster 9 is 3463
+	 cluster size of cluster 10 is 3007
+	 cluster size of cluster 11 is 3410
+	 cluster size of cluster 12 is 3359
+	 cluster size of cluster 13 is 3634
+	 cluster size of cluster 14 is 1857
+	 cluster size of cluster 15 is 2363
+	 cluster size of cluster 16 is 3315
+	 cluster size of cluster 17 is 3919
+	 cluster size of cluster 18 is 3466
+	 cluster size of cluster 19 is 4129
+	 cluster size of cluster 20 is 3519
+	 cluster size of cluster 21 is 4950
+	 cluster size of cluster 22 is 2850
+	 cluster size of cluster 23 is 4746
+	 cluster size of cluster 24 is 6104
+	 cluster size of cluster 25 is 5643
+	 cluster size of cluster 26 is 3671
+	 cluster size of cluster 27 is 2984
+	 cluster size of cluster 28 is 2592
+	 cluster size of cluster 29 is 1958
+	 cluster size of cluster 30 is 3453
+	 cluster size of cluster 31 is 6754
+
+****************************************************************************
+For 32 number of clusters and 8 number of processors:
+	 SSE = 9316.538844
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.358696
+	 cluster center of cluster 0 and dimention 1 is 0.612025
+	 cluster center of cluster 0 and dimention 2 is 0.508834
+	 cluster center of cluster 0 and dimention 3 is 0.631292
+	 cluster center of cluster 0 and dimention 4 is 0.405923
+	 cluster center of cluster 0 and dimention 5 is 0.466493
+	 cluster center of cluster 0 and dimention 6 is 0.499475
+	 cluster center of cluster 0 and dimention 7 is 0.531964
+	 cluster center of cluster 1 and dimention 0 is 0.626588
+	 cluster center of cluster 1 and dimention 1 is 0.364265
+	 cluster center of cluster 1 and dimention 2 is 0.503319
+	 cluster center of cluster 1 and dimention 3 is 0.595063
+	 cluster center of cluster 1 and dimention 4 is 0.421943
+	 cluster center of cluster 1 and dimention 5 is 0.525408
+	 cluster center of cluster 1 and dimention 6 is 0.473893
+	 cluster center of cluster 1 and dimention 7 is 0.496478
+	 cluster center of cluster 2 and dimention 0 is 0.456082
+	 cluster center of cluster 2 and dimention 1 is 0.478209
+	 cluster center of cluster 2 and dimention 2 is 0.541959
+	 cluster center of cluster 2 and dimention 3 is 0.623682
+	 cluster center of cluster 2 and dimention 4 is 0.462691
+	 cluster center of cluster 2 and dimention 5 is 0.405537
+	 cluster center of cluster 2 and dimention 6 is 0.746897
+	 cluster center of cluster 2 and dimention 7 is 0.464382
+	 cluster center of cluster 3 and dimention 0 is 0.528334
+	 cluster center of cluster 3 and dimention 1 is 0.569049
+	 cluster center of cluster 3 and dimention 2 is 0.529821
+	 cluster center of cluster 3 and dimention 3 is 0.523553
+	 cluster center of cluster 3 and dimention 4 is 0.540466
+	 cluster center of cluster 3 and dimention 5 is 0.496265
+	 cluster center of cluster 3 and dimention 6 is 0.493563
+	 cluster center of cluster 3 and dimention 7 is 0.416537
+	 cluster center of cluster 4 and dimention 0 is 0.473666
+	 cluster center of cluster 4 and dimention 1 is 0.577951
+	 cluster center of cluster 4 and dimention 2 is 0.444852
+	 cluster center of cluster 4 and dimention 3 is 0.407033
+	 cluster center of cluster 4 and dimention 4 is 0.461275
+	 cluster center of cluster 4 and dimention 5 is 0.682071
+	 cluster center of cluster 4 and dimention 6 is 0.428185
+	 cluster center of cluster 4 and dimention 7 is 0.414208
+	 cluster center of cluster 5 and dimention 0 is 0.432349
+	 cluster center of cluster 5 and dimention 1 is 0.502080
+	 cluster center of cluster 5 and dimention 2 is 0.457533
+	 cluster center of cluster 5 and dimention 3 is 0.629638
+	 cluster center of cluster 5 and dimention 4 is 0.394219
+	 cluster center of cluster 5 and dimention 5 is 0.519484
+	 cluster center of cluster 5 and dimention 6 is 0.471470
+	 cluster center of cluster 5 and dimention 7 is 0.481337
+	 cluster center of cluster 6 and dimention 0 is 0.539898
+	 cluster center of cluster 6 and dimention 1 is 0.522319
+	 cluster center of cluster 6 and dimention 2 is 0.553097
+	 cluster center of cluster 6 and dimention 3 is 0.488411
+	 cluster center of cluster 6 and dimention 4 is 0.535305
+	 cluster center of cluster 6 and dimention 5 is 0.446137
+	 cluster center of cluster 6 and dimention 6 is 0.531228
+	 cluster center of cluster 6 and dimention 7 is 0.449531
+	 cluster center of cluster 7 and dimention 0 is 0.459695
+	 cluster center of cluster 7 and dimention 1 is 0.395977
+	 cluster center of cluster 7 and dimention 2 is 0.539904
+	 cluster center of cluster 7 and dimention 3 is 0.606382
+	 cluster center of cluster 7 and dimention 4 is 0.634469
+	 cluster center of cluster 7 and dimention 5 is 0.468951
+	 cluster center of cluster 7 and dimention 6 is 0.478914
+	 cluster center of cluster 7 and dimention 7 is 0.425185
+	 cluster center of cluster 8 and dimention 0 is 0.521595
+	 cluster center of cluster 8 and dimention 1 is 0.520814
+	 cluster center of cluster 8 and dimention 2 is 0.599894
+	 cluster center of cluster 8 and dimention 3 is 0.431931
+	 cluster center of cluster 8 and dimention 4 is 0.487594
+	 cluster center of cluster 8 and dimention 5 is 0.551933
+	 cluster center of cluster 8 and dimention 6 is 0.401117
+	 cluster center of cluster 8 and dimention 7 is 0.575973
+	 cluster center of cluster 9 and dimention 0 is 0.449879
+	 cluster center of cluster 9 and dimention 1 is 0.426260
+	 cluster center of cluster 9 and dimention 2 is 0.462696
+	 cluster center of cluster 9 and dimention 3 is 0.421751
+	 cluster center of cluster 9 and dimention 4 is 0.581273
+	 cluster center of cluster 9 and dimention 5 is 0.542919
+	 cluster center of cluster 9 and dimention 6 is 0.517800
+	 cluster center of cluster 9 and dimention 7 is 0.554337
+	 cluster center of cluster 10 and dimention 0 is 0.552051
+	 cluster center of cluster 10 and dimention 1 is 0.389799
+	 cluster center of cluster 10 and dimention 2 is 0.547993
+	 cluster center of cluster 10 and dimention 3 is 0.475334
+	 cluster center of cluster 10 and dimention 4 is 0.483764
+	 cluster center of cluster 10 and dimention 5 is 0.492266
+	 cluster center of cluster 10 and dimention 6 is 0.552380
+	 cluster center of cluster 10 and dimention 7 is 0.463097
+	 cluster center of cluster 11 and dimention 0 is 0.443636
+	 cluster center of cluster 11 and dimention 1 is 0.671152
+	 cluster center of cluster 11 and dimention 2 is 0.537982
+	 cluster center of cluster 11 and dimention 3 is 0.442272
+	 cluster center of cluster 11 and dimention 4 is 0.521203
+	 cluster center of cluster 11 and dimention 5 is 0.550094
+	 cluster center of cluster 11 and dimention 6 is 0.472605
+	 cluster center of cluster 11 and dimention 7 is 0.609819
+	 cluster center of cluster 12 and dimention 0 is 0.388276
+	 cluster center of cluster 12 and dimention 1 is 0.421217
+	 cluster center of cluster 12 and dimention 2 is 0.576184
+	 cluster center of cluster 12 and dimention 3 is 0.424723
+	 cluster center of cluster 12 and dimention 4 is 0.418500
+	 cluster center of cluster 12 and dimention 5 is 0.469718
+	 cluster center of cluster 12 and dimention 6 is 0.540777
+	 cluster center of cluster 12 and dimention 7 is 0.593714
+	 cluster center of cluster 13 and dimention 0 is 0.484368
+	 cluster center of cluster 13 and dimention 1 is 0.541213
+	 cluster center of cluster 13 and dimention 2 is 0.481385
+	 cluster center of cluster 13 and dimention 3 is 0.465049
+	 cluster center of cluster 13 and dimention 4 is 0.564274
+	 cluster center of cluster 13 and dimention 5 is 0.470834
+	 cluster center of cluster 13 and dimention 6 is 0.435234
+	 cluster center of cluster 13 and dimention 7 is 0.443255
+	 cluster center of cluster 14 and dimention 0 is 0.555180
+	 cluster center of cluster 14 and dimention 1 is 0.415817
+	 cluster center of cluster 14 and dimention 2 is 0.481829
+	 cluster center of cluster 14 and dimention 3 is 0.406542
+	 cluster center of cluster 14 and dimention 4 is 0.524523
+	 cluster center of cluster 14 and dimention 5 is 0.405977
+	 cluster center of cluster 14 and dimention 6 is 0.500915
+	 cluster center of cluster 14 and dimention 7 is 0.528623
+	 cluster center of cluster 15 and dimention 0 is 0.462389
+	 cluster center of cluster 15 and dimention 1 is 0.516893
+	 cluster center of cluster 15 and dimention 2 is 0.432077
+	 cluster center of cluster 15 and dimention 3 is 0.467117
+	 cluster center of cluster 15 and dimention 4 is 0.488108
+	 cluster center of cluster 15 and dimention 5 is 0.572094
+	 cluster center of cluster 15 and dimention 6 is 0.572175
+	 cluster center of cluster 15 and dimention 7 is 0.525860
+	 cluster center of cluster 16 and dimention 0 is 0.388697
+	 cluster center of cluster 16 and dimention 1 is 0.333209
+	 cluster center of cluster 16 and dimention 2 is 0.507500
+	 cluster center of cluster 16 and dimention 3 is 0.565419
+	 cluster center of cluster 16 and dimention 4 is 0.580805
+	 cluster center of cluster 16 and dimention 5 is 0.423253
+	 cluster center of cluster 16 and dimention 6 is 0.400975
+	 cluster center of cluster 16 and dimention 7 is 0.342193
+	 cluster center of cluster 17 and dimention 0 is 0.643483
+	 cluster center of cluster 17 and dimention 1 is 0.401736
+	 cluster center of cluster 17 and dimention 2 is 0.429813
+	 cluster center of cluster 17 and dimention 3 is 0.459925
+	 cluster center of cluster 17 and dimention 4 is 0.507010
+	 cluster center of cluster 17 and dimention 5 is 0.546138
+	 cluster center of cluster 17 and dimention 6 is 0.550172
+	 cluster center of cluster 17 and dimention 7 is 0.536156
+	 cluster center of cluster 18 and dimention 0 is 0.660720
+	 cluster center of cluster 18 and dimention 1 is 0.535361
+	 cluster center of cluster 18 and dimention 2 is 0.419671
+	 cluster center of cluster 18 and dimention 3 is 0.363981
+	 cluster center of cluster 18 and dimention 4 is 0.414686
+	 cluster center of cluster 18 and dimention 5 is 0.460115
+	 cluster center of cluster 18 and dimention 6 is 0.530867
+	 cluster center of cluster 18 and dimention 7 is 0.558252
+	 cluster center of cluster 19 and dimention 0 is 0.538490
+	 cluster center of cluster 19 and dimention 1 is 0.600868
+	 cluster center of cluster 19 and dimention 2 is 0.478916
+	 cluster center of cluster 19 and dimention 3 is 0.464046
+	 cluster center of cluster 19 and dimention 4 is 0.542080
+	 cluster center of cluster 19 and dimention 5 is 0.490197
+	 cluster center of cluster 19 and dimention 6 is 0.426938
+	 cluster center of cluster 19 and dimention 7 is 0.454214
+	 cluster center of cluster 20 and dimention 0 is 0.456617
+	 cluster center of cluster 20 and dimention 1 is 0.469510
+	 cluster center of cluster 20 and dimention 2 is 0.393801
+	 cluster center of cluster 20 and dimention 3 is 0.363841
+	 cluster center of cluster 20 and dimention 4 is 0.508271
+	 cluster center of cluster 20 and dimention 5 is 0.606026
+	 cluster center of cluster 20 and dimention 6 is 0.619967
+	 cluster center of cluster 20 and dimention 7 is 0.475490
+	 cluster center of cluster 21 and dimention 0 is 0.582913
+	 cluster center of cluster 21 and dimention 1 is 0.482080
+	 cluster center of cluster 21 and dimention 2 is 0.531359
+	 cluster center of cluster 21 and dimention 3 is 0.531103
+	 cluster center of cluster 21 and dimention 4 is 0.524464
+	 cluster center of cluster 21 and dimention 5 is 0.507045
+	 cluster center of cluster 21 and dimention 6 is 0.510425
+	 cluster center of cluster 21 and dimention 7 is 0.554962
+	 cluster center of cluster 22 and dimention 0 is 0.526293
+	 cluster center of cluster 22 and dimention 1 is 0.544225
+	 cluster center of cluster 22 and dimention 2 is 0.469840
+	 cluster center of cluster 22 and dimention 3 is 0.640194
+	 cluster center of cluster 22 and dimention 4 is 0.594262
+	 cluster center of cluster 22 and dimention 5 is 0.409276
+	 cluster center of cluster 22 and dimention 6 is 0.389022
+	 cluster center of cluster 22 and dimention 7 is 0.438040
+	 cluster center of cluster 23 and dimention 0 is 0.345069
+	 cluster center of cluster 23 and dimention 1 is 0.547260
+	 cluster center of cluster 23 and dimention 2 is 0.590187
+	 cluster center of cluster 23 and dimention 3 is 0.575500
+	 cluster center of cluster 23 and dimention 4 is 0.455989
+	 cluster center of cluster 23 and dimention 5 is 0.673406
+	 cluster center of cluster 23 and dimention 6 is 0.534861
+	 cluster center of cluster 23 and dimention 7 is 0.539884
+	 cluster center of cluster 24 and dimention 0 is 0.468077
+	 cluster center of cluster 24 and dimention 1 is 0.458932
+	 cluster center of cluster 24 and dimention 2 is 0.512270
+	 cluster center of cluster 24 and dimention 3 is 0.457204
+	 cluster center of cluster 24 and dimention 4 is 0.416946
+	 cluster center of cluster 24 and dimention 5 is 0.477794
+	 cluster center of cluster 24 and dimention 6 is 0.566244
+	 cluster center of cluster 24 and dimention 7 is 0.644700
+	 cluster center of cluster 25 and dimention 0 is 0.666926
+	 cluster center of cluster 25 and dimention 1 is 0.458765
+	 cluster center of cluster 25 and dimention 2 is 0.373582
+	 cluster center of cluster 25 and dimention 3 is 0.625832
+	 cluster center of cluster 25 and dimention 4 is 0.654849
+	 cluster center of cluster 25 and dimention 5 is 0.545036
+	 cluster center of cluster 25 and dimention 6 is 0.399955
+	 cluster center of cluster 25 and dimention 7 is 0.439110
+	 cluster center of cluster 26 and dimention 0 is 0.389287
+	 cluster center of cluster 26 and dimention 1 is 0.529643
+	 cluster center of cluster 26 and dimention 2 is 0.547580
+	 cluster center of cluster 26 and dimention 3 is 0.392481
+	 cluster center of cluster 26 and dimention 4 is 0.491693
+	 cluster center of cluster 26 and dimention 5 is 0.455637
+	 cluster center of cluster 26 and dimention 6 is 0.504610
+	 cluster center of cluster 26 and dimention 7 is 0.527936
+	 cluster center of cluster 27 and dimention 0 is 0.620534
+	 cluster center of cluster 27 and dimention 1 is 0.433937
+	 cluster center of cluster 27 and dimention 2 is 0.524277
+	 cluster center of cluster 27 and dimention 3 is 0.477808
+	 cluster center of cluster 27 and dimention 4 is 0.384856
+	 cluster center of cluster 27 and dimention 5 is 0.452374
+	 cluster center of cluster 27 and dimention 6 is 0.555450
+	 cluster center of cluster 27 and dimention 7 is 0.423441
+	 cluster center of cluster 28 and dimention 0 is 0.569013
+	 cluster center of cluster 28 and dimention 1 is 0.656403
+	 cluster center of cluster 28 and dimention 2 is 0.374524
+	 cluster center of cluster 28 and dimention 3 is 0.529652
+	 cluster center of cluster 28 and dimention 4 is 0.474021
+	 cluster center of cluster 28 and dimention 5 is 0.492411
+	 cluster center of cluster 28 and dimention 6 is 0.493940
+	 cluster center of cluster 28 and dimention 7 is 0.502235
+	 cluster center of cluster 29 and dimention 0 is 0.491979
+	 cluster center of cluster 29 and dimention 1 is 0.491227
+	 cluster center of cluster 29 and dimention 2 is 0.468596
+	 cluster center of cluster 29 and dimention 3 is 0.486442
+	 cluster center of cluster 29 and dimention 4 is 0.534859
+	 cluster center of cluster 29 and dimention 5 is 0.337273
+	 cluster center of cluster 29 and dimention 6 is 0.374631
+	 cluster center of cluster 29 and dimention 7 is 0.489741
+	 cluster center of cluster 30 and dimention 0 is 0.495991
+	 cluster center of cluster 30 and dimention 1 is 0.494111
+	 cluster center of cluster 30 and dimention 2 is 0.525123
+	 cluster center of cluster 30 and dimention 3 is 0.473511
+	 cluster center of cluster 30 and dimention 4 is 0.486106
+	 cluster center of cluster 30 and dimention 5 is 0.567935
+	 cluster center of cluster 30 and dimention 6 is 0.640674
+	 cluster center of cluster 30 and dimention 7 is 0.516915
+	 cluster center of cluster 31 and dimention 0 is 0.473168
+	 cluster center of cluster 31 and dimention 1 is 0.539918
+	 cluster center of cluster 31 and dimention 2 is 0.597364
+	 cluster center of cluster 31 and dimention 3 is 0.526047
+	 cluster center of cluster 31 and dimention 4 is 0.518514
+	 cluster center of cluster 31 and dimention 5 is 0.503019
+	 cluster center of cluster 31 and dimention 6 is 0.489153
+	 cluster center of cluster 31 and dimention 7 is 0.500262
+	 ----------------------
+	 cluster size of cluster 0 is 4720
+	 cluster size of cluster 1 is 4296
+	 cluster size of cluster 2 is 2388
+	 cluster size of cluster 3 is 3745
+	 cluster size of cluster 4 is 2638
+	 cluster size of cluster 5 is 4427
+	 cluster size of cluster 6 is 4401
+	 cluster size of cluster 7 is 2762
+	 cluster size of cluster 8 is 4080
+	 cluster size of cluster 9 is 3266
+	 cluster size of cluster 10 is 3448
+	 cluster size of cluster 11 is 5689
+	 cluster size of cluster 12 is 3683
+	 cluster size of cluster 13 is 4414
+	 cluster size of cluster 14 is 3508
+	 cluster size of cluster 15 is 4093
+	 cluster size of cluster 16 is 4245
+	 cluster size of cluster 17 is 3972
+	 cluster size of cluster 18 is 3225
+	 cluster size of cluster 19 is 3582
+	 cluster size of cluster 20 is 4335
+	 cluster size of cluster 21 is 2999
+	 cluster size of cluster 22 is 4381
+	 cluster size of cluster 23 is 3249
+	 cluster size of cluster 24 is 3369
+	 cluster size of cluster 25 is 3194
+	 cluster size of cluster 26 is 3511
+	 cluster size of cluster 27 is 3839
+	 cluster size of cluster 28 is 3045
+	 cluster size of cluster 29 is 3676
+	 cluster size of cluster 30 is 3789
+	 cluster size of cluster 31 is 4031
+
+****************************************************************************
+For 32 number of clusters and 16 number of processors:
+	 SSE = 4840.183616
+	 ----------------------
+	 cluster center of cluster 0 and dimention 0 is 0.539268
+	 cluster center of cluster 0 and dimention 1 is 0.497687
+	 cluster center of cluster 0 and dimention 2 is 0.559587
+	 cluster center of cluster 0 and dimention 3 is 0.457914
+	 cluster center of cluster 0 and dimention 4 is 0.411463
+	 cluster center of cluster 0 and dimention 5 is 0.428833
+	 cluster center of cluster 0 and dimention 6 is 0.368655
+	 cluster center of cluster 0 and dimention 7 is 0.531462
+	 cluster center of cluster 1 and dimention 0 is 0.491961
+	 cluster center of cluster 1 and dimention 1 is 0.587863
+	 cluster center of cluster 1 and dimention 2 is 0.528769
+	 cluster center of cluster 1 and dimention 3 is 0.625429
+	 cluster center of cluster 1 and dimention 4 is 0.447962
+	 cluster center of cluster 1 and dimention 5 is 0.432036
+	 cluster center of cluster 1 and dimention 6 is 0.437287
+	 cluster center of cluster 1 and dimention 7 is 0.476306
+	 cluster center of cluster 2 and dimention 0 is 0.506468
+	 cluster center of cluster 2 and dimention 1 is 0.559118
+	 cluster center of cluster 2 and dimention 2 is 0.614441
+	 cluster center of cluster 2 and dimention 3 is 0.517046
+	 cluster center of cluster 2 and dimention 4 is 0.444542
+	 cluster center of cluster 2 and dimention 5 is 0.447891
+	 cluster center of cluster 2 and dimention 6 is 0.455994
+	 cluster center of cluster 2 and dimention 7 is 0.472448
+	 cluster center of cluster 3 and dimention 0 is 0.487104
+	 cluster center of cluster 3 and dimention 1 is 0.516726
+	 cluster center of cluster 3 and dimention 2 is 0.494144
+	 cluster center of cluster 3 and dimention 3 is 0.575575
+	 cluster center of cluster 3 and dimention 4 is 0.429964
+	 cluster center of cluster 3 and dimention 5 is 0.561516
+	 cluster center of cluster 3 and dimention 6 is 0.598834
+	 cluster center of cluster 3 and dimention 7 is 0.476858
+	 cluster center of cluster 4 and dimention 0 is 0.481933
+	 cluster center of cluster 4 and dimention 1 is 0.456027
+	 cluster center of cluster 4 and dimention 2 is 0.491129
+	 cluster center of cluster 4 and dimention 3 is 0.466051
+	 cluster center of cluster 4 and dimention 4 is 0.510110
+	 cluster center of cluster 4 and dimention 5 is 0.534597
+	 cluster center of cluster 4 and dimention 6 is 0.503420
+	 cluster center of cluster 4 and dimention 7 is 0.580999
+	 cluster center of cluster 5 and dimention 0 is 0.507771
+	 cluster center of cluster 5 and dimention 1 is 0.540265
+	 cluster center of cluster 5 and dimention 2 is 0.469298
+	 cluster center of cluster 5 and dimention 3 is 0.498468
+	 cluster center of cluster 5 and dimention 4 is 0.527520
+	 cluster center of cluster 5 and dimention 5 is 0.568925
+	 cluster center of cluster 5 and dimention 6 is 0.557090
+	 cluster center of cluster 5 and dimention 7 is 0.508531
+	 cluster center of cluster 6 and dimention 0 is 0.494128
+	 cluster center of cluster 6 and dimention 1 is 0.577951
+	 cluster center of cluster 6 and dimention 2 is 0.407556
+	 cluster center of cluster 6 and dimention 3 is 0.539817
+	 cluster center of cluster 6 and dimention 4 is 0.484485
+	 cluster center of cluster 6 and dimention 5 is 0.449325
+	 cluster center of cluster 6 and dimention 6 is 0.411918
+	 cluster center of cluster 6 and dimention 7 is 0.519616
+	 cluster center of cluster 7 and dimention 0 is 0.656781
+	 cluster center of cluster 7 and dimention 1 is 0.480094
+	 cluster center of cluster 7 and dimention 2 is 0.509204
+	 cluster center of cluster 7 and dimention 3 is 0.515146
+	 cluster center of cluster 7 and dimention 4 is 0.488885
+	 cluster center of cluster 7 and dimention 5 is 0.384585
+	 cluster center of cluster 7 and dimention 6 is 0.575640
+	 cluster center of cluster 7 and dimention 7 is 0.561642
+	 cluster center of cluster 8 and dimention 0 is 0.485439
+	 cluster center of cluster 8 and dimention 1 is 0.463402
+	 cluster center of cluster 8 and dimention 2 is 0.441538
+	 cluster center of cluster 8 and dimention 3 is 0.478932
+	 cluster center of cluster 8 and dimention 4 is 0.551497
+	 cluster center of cluster 8 and dimention 5 is 0.548769
+	 cluster center of cluster 8 and dimention 6 is 0.466733
+	 cluster center of cluster 8 and dimention 7 is 0.443879
+	 cluster center of cluster 9 and dimention 0 is 0.455188
+	 cluster center of cluster 9 and dimention 1 is 0.486698
+	 cluster center of cluster 9 and dimention 2 is 0.516035
+	 cluster center of cluster 9 and dimention 3 is 0.552717
+	 cluster center of cluster 9 and dimention 4 is 0.570749
+	 cluster center of cluster 9 and dimention 5 is 0.608449
+	 cluster center of cluster 9 and dimention 6 is 0.501781
+	 cluster center of cluster 9 and dimention 7 is 0.554497
+	 cluster center of cluster 10 and dimention 0 is 0.511215
+	 cluster center of cluster 10 and dimention 1 is 0.383096
+	 cluster center of cluster 10 and dimention 2 is 0.510523
+	 cluster center of cluster 10 and dimention 3 is 0.541424
+	 cluster center of cluster 10 and dimention 4 is 0.498823
+	 cluster center of cluster 10 and dimention 5 is 0.495968
+	 cluster center of cluster 10 and dimention 6 is 0.445747
+	 cluster center of cluster 10 and dimention 7 is 0.448330
+	 cluster center of cluster 11 and dimention 0 is 0.529509
+	 cluster center of cluster 11 and dimention 1 is 0.505287
+	 cluster center of cluster 11 and dimention 2 is 0.422694
+	 cluster center of cluster 11 and dimention 3 is 0.429548
+	 cluster center of cluster 11 and dimention 4 is 0.565954
+	 cluster center of cluster 11 and dimention 5 is 0.483046
+	 cluster center of cluster 11 and dimention 6 is 0.476823
+	 cluster center of cluster 11 and dimention 7 is 0.517487
+	 cluster center of cluster 12 and dimention 0 is 0.429291
+	 cluster center of cluster 12 and dimention 1 is 0.429209
+	 cluster center of cluster 12 and dimention 2 is 0.437352
+	 cluster center of cluster 12 and dimention 3 is 0.377686
+	 cluster center of cluster 12 and dimention 4 is 0.441149
+	 cluster center of cluster 12 and dimention 5 is 0.511031
+	 cluster center of cluster 12 and dimention 6 is 0.598491
+	 cluster center of cluster 12 and dimention 7 is 0.545531
+	 cluster center of cluster 13 and dimention 0 is 0.564668
+	 cluster center of cluster 13 and dimention 1 is 0.489725
+	 cluster center of cluster 13 and dimention 2 is 0.479224
+	 cluster center of cluster 13 and dimention 3 is 0.506922
+	 cluster center of cluster 13 and dimention 4 is 0.531542
+	 cluster center of cluster 13 and dimention 5 is 0.526086
+	 cluster center of cluster 13 and dimention 6 is 0.421650
+	 cluster center of cluster 13 and dimention 7 is 0.468375
+	 cluster center of cluster 14 and dimention 0 is 0.436897
+	 cluster center of cluster 14 and dimention 1 is 0.565423
+	 cluster center of cluster 14 and dimention 2 is 0.462370
+	 cluster center of cluster 14 and dimention 3 is 0.523192
+	 cluster center of cluster 14 and dimention 4 is 0.506142
+	 cluster center of cluster 14 and dimention 5 is 0.482570
+	 cluster center of cluster 14 and dimention 6 is 0.536472
+	 cluster center of cluster 14 and dimention 7 is 0.471813
+	 cluster center of cluster 15 and dimention 0 is 0.550681
+	 cluster center of cluster 15 and dimention 1 is 0.454134
+	 cluster center of cluster 15 and dimention 2 is 0.474738
+	 cluster center of cluster 15 and dimention 3 is 0.493483
+	 cluster center of cluster 15 and dimention 4 is 0.496019
+	 cluster center of cluster 15 and dimention 5 is 0.410403
+	 cluster center of cluster 15 and dimention 6 is 0.524140
+	 cluster center of cluster 15 and dimention 7 is 0.562775
+	 cluster center of cluster 16 and dimention 0 is 0.514232
+	 cluster center of cluster 16 and dimention 1 is 0.550404
+	 cluster center of cluster 16 and dimention 2 is 0.536045
+	 cluster center of cluster 16 and dimention 3 is 0.599664
+	 cluster center of cluster 16 and dimention 4 is 0.562674
+	 cluster center of cluster 16 and dimention 5 is 0.418517
+	 cluster center of cluster 16 and dimention 6 is 0.457850
+	 cluster center of cluster 16 and dimention 7 is 0.607200
+	 cluster center of cluster 17 and dimention 0 is 0.398928
+	 cluster center of cluster 17 and dimention 1 is 0.462665
+	 cluster center of cluster 17 and dimention 2 is 0.537749
+	 cluster center of cluster 17 and dimention 3 is 0.416179
+	 cluster center of cluster 17 and dimention 4 is 0.489129
+	 cluster center of cluster 17 and dimention 5 is 0.496554
+	 cluster center of cluster 17 and dimention 6 is 0.553716
+	 cluster center of cluster 17 and dimention 7 is 0.471002
+	 cluster center of cluster 18 and dimention 0 is 0.524215
+	 cluster center of cluster 18 and dimention 1 is 0.521389
+	 cluster center of cluster 18 and dimention 2 is 0.450245
+	 cluster center of cluster 18 and dimention 3 is 0.468232
+	 cluster center of cluster 18 and dimention 4 is 0.514422
+	 cluster center of cluster 18 and dimention 5 is 0.448225
+	 cluster center of cluster 18 and dimention 6 is 0.587260
+	 cluster center of cluster 18 and dimention 7 is 0.535023
+	 cluster center of cluster 19 and dimention 0 is 0.503667
+	 cluster center of cluster 19 and dimention 1 is 0.524366
+	 cluster center of cluster 19 and dimention 2 is 0.540809
+	 cluster center of cluster 19 and dimention 3 is 0.472504
+	 cluster center of cluster 19 and dimention 4 is 0.499768
+	 cluster center of cluster 19 and dimention 5 is 0.496142
+	 cluster center of cluster 19 and dimention 6 is 0.557283
+	 cluster center of cluster 19 and dimention 7 is 0.488148
+	 cluster center of cluster 20 and dimention 0 is 0.426779
+	 cluster center of cluster 20 and dimention 1 is 0.540845
+	 cluster center of cluster 20 and dimention 2 is 0.525447
+	 cluster center of cluster 20 and dimention 3 is 0.562457
+	 cluster center of cluster 20 and dimention 4 is 0.493370
+	 cluster center of cluster 20 and dimention 5 is 0.510051
+	 cluster center of cluster 20 and dimention 6 is 0.530115
+	 cluster center of cluster 20 and dimention 7 is 0.400000
+	 cluster center of cluster 21 and dimention 0 is 0.434798
+	 cluster center of cluster 21 and dimention 1 is 0.531487
+	 cluster center of cluster 21 and dimention 2 is 0.558107
+	 cluster center of cluster 21 and dimention 3 is 0.458179
+	 cluster center of cluster 21 and dimention 4 is 0.538937
+	 cluster center of cluster 21 and dimention 5 is 0.522705
+	 cluster center of cluster 21 and dimention 6 is 0.486109
+	 cluster center of cluster 21 and dimention 7 is 0.493645
+	 cluster center of cluster 22 and dimention 0 is 0.482552
+	 cluster center of cluster 22 and dimention 1 is 0.467788
+	 cluster center of cluster 22 and dimention 2 is 0.566263
+	 cluster center of cluster 22 and dimention 3 is 0.525180
+	 cluster center of cluster 22 and dimention 4 is 0.394299
+	 cluster center of cluster 22 and dimention 5 is 0.479549
+	 cluster center of cluster 22 and dimention 6 is 0.461542
+	 cluster center of cluster 22 and dimention 7 is 0.570162
+	 cluster center of cluster 23 and dimention 0 is 0.517073
+	 cluster center of cluster 23 and dimention 1 is 0.423370
+	 cluster center of cluster 23 and dimention 2 is 0.549771
+	 cluster center of cluster 23 and dimention 3 is 0.503216
+	 cluster center of cluster 23 and dimention 4 is 0.550639
+	 cluster center of cluster 23 and dimention 5 is 0.548179
+	 cluster center of cluster 23 and dimention 6 is 0.439210
+	 cluster center of cluster 23 and dimention 7 is 0.495959
+	 cluster center of cluster 24 and dimention 0 is 0.507916
+	 cluster center of cluster 24 and dimention 1 is 0.578942
+	 cluster center of cluster 24 and dimention 2 is 0.504865
+	 cluster center of cluster 24 and dimention 3 is 0.514501
+	 cluster center of cluster 24 and dimention 4 is 0.508193
+	 cluster center of cluster 24 and dimention 5 is 0.331363
+	 cluster center of cluster 24 and dimention 6 is 0.413875
+	 cluster center of cluster 24 and dimention 7 is 0.434212
+	 cluster center of cluster 25 and dimention 0 is 0.590030
+	 cluster center of cluster 25 and dimention 1 is 0.531776
+	 cluster center of cluster 25 and dimention 2 is 0.515813
+	 cluster center of cluster 25 and dimention 3 is 0.550287
+	 cluster center of cluster 25 and dimention 4 is 0.508820
+	 cluster center of cluster 25 and dimention 5 is 0.608666
+	 cluster center of cluster 25 and dimention 6 is 0.532599
+	 cluster center of cluster 25 and dimention 7 is 0.436354
+	 cluster center of cluster 26 and dimention 0 is 0.523980
+	 cluster center of cluster 26 and dimention 1 is 0.471162
+	 cluster center of cluster 26 and dimention 2 is 0.521106
+	 cluster center of cluster 26 and dimention 3 is 0.418927
+	 cluster center of cluster 26 and dimention 4 is 0.370281
+	 cluster center of cluster 26 and dimention 5 is 0.628210
+	 cluster center of cluster 26 and dimention 6 is 0.449086
+	 cluster center of cluster 26 and dimention 7 is 0.412455
+	 cluster center of cluster 27 and dimention 0 is 0.512728
+	 cluster center of cluster 27 and dimention 1 is 0.527552
+	 cluster center of cluster 27 and dimention 2 is 0.419122
+	 cluster center of cluster 27 and dimention 3 is 0.586105
+	 cluster center of cluster 27 and dimention 4 is 0.481163
+	 cluster center of cluster 27 and dimention 5 is 0.526529
+	 cluster center of cluster 27 and dimention 6 is 0.546680
+	 cluster center of cluster 27 and dimention 7 is 0.476304
+	 cluster center of cluster 28 and dimention 0 is 0.442965
+	 cluster center of cluster 28 and dimention 1 is 0.523626
+	 cluster center of cluster 28 and dimention 2 is 0.516006
+	 cluster center of cluster 28 and dimention 3 is 0.498106
+	 cluster center of cluster 28 and dimention 4 is 0.594188
+	 cluster center of cluster 28 and dimention 5 is 0.528456
+	 cluster center of cluster 28 and dimention 6 is 0.583592
+	 cluster center of cluster 28 and dimention 7 is 0.492848
+	 cluster center of cluster 29 and dimention 0 is 0.463064
+	 cluster center of cluster 29 and dimention 1 is 0.484847
+	 cluster center of cluster 29 and dimention 2 is 0.495404
+	 cluster center of cluster 29 and dimention 3 is 0.443341
+	 cluster center of cluster 29 and dimention 4 is 0.551149
+	 cluster center of cluster 29 and dimention 5 is 0.507609
+	 cluster center of cluster 29 and dimention 6 is 0.571766
+	 cluster center of cluster 29 and dimention 7 is 0.464510
+	 cluster center of cluster 30 and dimention 0 is 0.516884
+	 cluster center of cluster 30 and dimention 1 is 0.418998
+	 cluster center of cluster 30 and dimention 2 is 0.529057
+	 cluster center of cluster 30 and dimention 3 is 0.473643
+	 cluster center of cluster 30 and dimention 4 is 0.500756
+	 cluster center of cluster 30 and dimention 5 is 0.595072
+	 cluster center of cluster 30 and dimention 6 is 0.476944
+	 cluster center of cluster 30 and dimention 7 is 0.549927
+	 cluster center of cluster 31 and dimention 0 is 0.507630
+	 cluster center of cluster 31 and dimention 1 is 0.461577
+	 cluster center of cluster 31 and dimention 2 is 0.445877
+	 cluster center of cluster 31 and dimention 3 is 0.469583
+	 cluster center of cluster 31 and dimention 4 is 0.533427
+	 cluster center of cluster 31 and dimention 5 is 0.434230
+	 cluster center of cluster 31 and dimention 6 is 0.472408
+	 cluster center of cluster 31 and dimention 7 is 0.519869
+	 ----------------------
+	 cluster size of cluster 0 is 4241
+	 cluster size of cluster 1 is 3246
+	 cluster size of cluster 2 is 3724
+	 cluster size of cluster 3 is 3414
+	 cluster size of cluster 4 is 3314
+	 cluster size of cluster 5 is 4691
+	 cluster size of cluster 6 is 3578
+	 cluster size of cluster 7 is 3726
+	 cluster size of cluster 8 is 4109
+	 cluster size of cluster 9 is 3418
+	 cluster size of cluster 10 is 4463
+	 cluster size of cluster 11 is 4024
+	 cluster size of cluster 12 is 3209
+	 cluster size of cluster 13 is 3639
+	 cluster size of cluster 14 is 3369
+	 cluster size of cluster 15 is 3959
+	 cluster size of cluster 16 is 3244
+	 cluster size of cluster 17 is 4707
+	 cluster size of cluster 18 is 3584
+	 cluster size of cluster 19 is 3143
+	 cluster size of cluster 20 is 3344
+	 cluster size of cluster 21 is 4159
+	 cluster size of cluster 22 is 3880
+	 cluster size of cluster 23 is 3702
+	 cluster size of cluster 24 is 3113
+	 cluster size of cluster 25 is 3767
+	 cluster size of cluster 26 is 4190
+	 cluster size of cluster 27 is 4200
+	 cluster size of cluster 28 is 4308
+	 cluster size of cluster 29 is 3463
+	 cluster size of cluster 30 is 3356
+	 cluster size of cluster 31 is 3716
+
+****************************************************************************
