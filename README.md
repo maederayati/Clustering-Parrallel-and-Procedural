@@ -2,7 +2,7 @@
 
 ### 1. Problem Description 
 
-Clustering is the task of assigning a set of objects into groups (called clusters) so that the objects in the same cluster are more similar (in some sense or another) to each other than to those in other clusters. k-means clustering is a method of clustering which aims to partition n data points into k clusters (n >> k) in which each observation belongs to the cluster with the nearest mean.  The nearness is calculated by Euclidian distance function.
+Clustering is the task of assigning a set of objects into groups (called clusters) so that the objects in the same cluster are more similar (in some sense or another) to each other than to those in other clusters. k-means clustering is a method of clustering which aims to partition n data points into k clusters (n >> k) in which each observation belongs to the cluster with the nearest mean.  The nearness is calculated by Euclidian distance function. We implemented diffrent variations of k-means clustering algorithm. More specifically, we implemented the procedural k-means in C, the parallel kmeans with both MPI and open MP.
 
 ###2. Basic  k-means algorithm - Procedural
 
