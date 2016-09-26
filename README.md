@@ -10,6 +10,7 @@ The folowing is the pseudocode for the basic K-measn Algorithm:
 ```
 Input: number of clusters K, temination limit L , data points $x_1,...,x_n
 Output: A map from points to clusters 1,...,K
+
 Place centroid c_1,…,c_k at the first k data points
 Repeat until the maximum of disatance between cluster centers is less than L
 	For each point x_i
@@ -23,8 +24,8 @@ Repeat until the maximum of disatance between cluster centers is less than L
 
 ##3. Basic  k-means algorithm - Parallel
 ```
-Input: number of clusters K, temination limit L , data points $x<sub>1</sub>,...,x<sub>n</sub><br>
-Output: A map from points to clusters 1,...,K<br>
+Input: number of clusters K, temination limit L , data points x1,...,x_n
+Output: A map from points to clusters 1,...,K
 
 Start MPI environment 
 	Set  number of processors as mySize
@@ -47,3 +48,24 @@ Start MPI environment
 Close MPI environment
 
 ```
+
+##Improvements
+
+The first improvement that we made to the basic algorithm was to choose the initial centroids. Instead of choosing the centroids random we pick k data point from the data set which are as far as possible. The algorithm for finding distant data points is as follows.
+
+```
+Input: number of clusters K, data points x1,...,x_n
+Output: K cluster centers, c_1,...,c_k
+
+Let c_1 be x_1
+Let c_2 be the data point which is farthest from c_1
+let t=3
+while t<=k
+	For any data point x_i, 
+		Find the minimum of distance to current clusters
+	Let j be the index of the data point whose mimimum distance is maximum. 
+	let c_t be x_j
+	t++
+```
+
+
