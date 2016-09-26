@@ -19,28 +19,4 @@ Repeat until the maximum of disatance between cluster centers is less than L <br
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step<br>
 
 
-
-
-
-
-##3. Test Set<br>
-
-### Test1: 
-
-We initialized the (8-dimentional) data array as random numbers between 0-1.<br>
-We also initialized the two centroid points as:<br>
-(0,0), (5,5)<br><br>  
-
-
-
-##Result<br>
-
-###Test 1 Result:<br>
-
-The following figure shows the process of updating the centroids:<br><br>
-
-![Test 1 Result 1](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result1.jpg) <br><br>
-
-The result below shows that each data point belongs to which cluster in the end: <br><br>
-
-![Test 1 Result 2](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result2.jpg) <br><br>
+<!--![Test 1 Result 2](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result2.jpg) <br><br>-->
