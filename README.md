@@ -35,15 +35,15 @@ Start MPI environment
 	Initialize the first centroids to be the first k data points	
 	Set Diff to a large number
 		while L<Diff
-		  Start open mp environment
-        		Set  the ID of threads as ID
-        		Set threadPortion as portion/NUM_THREADS
-       			Each thread, computes cluster number for threadPortion size of data 
-    		 Close open mp environment
-	each processor computes the summation of data points for each diminetion and cluster and broadcast it to everyone
-	each processor computes the number of data points in each cluster and broadcast it to everyone
-	processor rank 0 computes the new centroids based on the summations and counts recieved 
-	processor rank 0 updates Diff and broadcast it to everyone		
+			Start open mp environment
+        			Set  the ID of threads as ID
+        			Set threadPortion as portion/NUM_THREADS
+       				Each thread, computes cluster number for threadPortion size of data 
+			Close open mp environment
+			each processor computes the summation of data points for each diminetion and cluster and broadcast 
+			each processor computes the number of data points in each cluster and broadcast 
+			processor rank 0 computes the new centroids based on the summations and counts recieved 
+			processor rank 0 updates Diff and broadcast 		
 Close MPI environment
 
 ```
