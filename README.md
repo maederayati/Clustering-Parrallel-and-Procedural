@@ -23,7 +23,7 @@ Repeat until the maximum of disatance between cluster centers is less than L <br
 
 
 ##3. Basic  k-means algorithm - Parallel
-
+``
 **Input**: number of clusters K, temination limit L , data points $x<sub>1</sub>,...,x<sub>n</sub><br>
 **Output**: A map from points to clusters 1,...,K<br>
 
@@ -47,3 +47,4 @@ Start MPI environment
 	processor rank 0 updates Diff and broadcast it to everyone		
 Close MPI environment
 
+``
