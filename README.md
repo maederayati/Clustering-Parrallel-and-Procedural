@@ -49,7 +49,7 @@ Close MPI environment
 
 ```
 
-##Improvements
+##4.Improvements
 
 The first improvement that we made to the basic algorithm was to choose the initial centroids. Instead of choosing the centroids random we pick k data point from the data set which are as far as possible. The algorithm for finding distant data points is as follows.
 
