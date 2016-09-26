@@ -4,7 +4,7 @@
 
 Clustering is the task of assigning a set of objects into groups (called clusters) so that the objects in the same cluster are more similar (in some sense or another) to each other than to those in other clusters. k-means clustering is a method of clustering which aims to partition n data points into k clusters (n >> k) in which each observation belongs to the cluster with the nearest mean.  The nearness is calculated by Euclidian distance function.
 
-##2. Basic  k-means algorithm (Serial)
+##2. Basic  k-means algorithm - Procedural
 
 The folowing is the pseudocode for the basic K-measn Algorithm:
 
