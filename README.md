@@ -20,3 +20,33 @@ Repeat until the maximum of disatance between cluster centers is less than L <br
 
 
 <!--![Test 1 Result 2](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result2.jpg) <br><br>-->
+
+
+##3. Basic  k-means algorithm - Parallel
+
+**Input**: number of clusters K, temination limit L , data points $x<sub>1</sub>,...,x<sub>n</sub><br>
+**Output**: A map from points to clusters 1,...,K<br>
+
+Start MPI environment 
+		Set  number of processors as mySize
+		Set  the ID of processors as myRank
+		Set number of threads as NUM_THREADS	
+		Set Portion as arraysize/mySize
+		Initialize the test data
+		Initialize the first centroids to be the first k data points	
+    Set Diff to a large number
+		while Diff>  L
+
+		  Start open mp environment
+        Set  the ID of threads as ID
+        Set threadPortion as portion/NUM_THREADS
+        each thread computes cluster number for threadPortion size of data 
+     Close open mp environment
+
+      each processor computes the summation of data points for each diminetion and cluster and broadcast it to everyone
+      each processor computes the number of data points in each cluster and broadcast it to everyone
+      processor rank 0 computes the new centroids based on the summations and counts recieved 
+      processor rank 0 updates Diff and broadcast it to everyone
+			
+Close MPI environment
+
