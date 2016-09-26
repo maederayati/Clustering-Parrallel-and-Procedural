@@ -7,18 +7,17 @@ Clustering is the task of assigning a set of objects into groups (called cluster
 ##2. Basic  k-means algorithm - Procedural
 
 The folowing is the pseudocode for the basic K-measn Algorithm:
-
-**Input**: number of clusters K, temination limit L , data points $x<sub>1</sub>,...,x<sub>n</sub><br>
-**Output**: A map from points to clusters 1,...,K<br>
+```
+Input: number of clusters K, temination limit L , data points $x<sub>1</sub>,...,x<sub>n</sub><br>
+Output: A map from points to clusters 1,...,K<br>
 Place centroid c<sub>1</sub>,…,c<sub>k</sub> at the first k data points<br>
 Repeat until the maximum of disatance between cluster centers is less than L <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	For each point x<sub>i</sub><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Find nearest centroid c<sub>j</sub><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Assign point x<sub>i</sub> to cluster j<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;For each cluster j= 1,…,k<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step<br>
+	For each point x<sub>i</sub><br>
+		Find nearest centroid c<sub>j</sub><br>
+		Assign point x<sub>i</sub> to cluster j<br>
+		New centroid c<sub>j</sub>=mean of all points x<sub>i</sub> assigned to cluster j in the previous step<br>
 
-
+```
 <!--![Test 1 Result 2](https://github.com/maederayati/Parallel-Kmeans/blob/master/Test1_result2.jpg) <br><br>-->
 
 
