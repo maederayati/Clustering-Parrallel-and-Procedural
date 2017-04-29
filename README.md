@@ -49,7 +49,7 @@ Close MPI environment
 
 ```
 
-### 4.Improvements
+### 4.Improvements of Kmeans
 
 The first improvement that we made to the basic algorithm was to choose the initial centroids. Instead of choosing the centroids random we pick k data point from the data set which are as far as possible. The algorithm for finding distant data points is as follows.
 
@@ -68,4 +68,18 @@ while t<=k
 	t++
 ```
 
+### 5.Bisecting Kmeans
+
+
+Bisecting k-Means is a combination of KMeans and hierarchical clustering. It starts with all objects in a single cluster and based on some criteria in each step a cluster is selected to be partitioned into two clusters. The algorithm could is implemented both in procedural and parrallell format as follows:
+
+```
+Input: number of clusters K, data points x1,...,x_n
+Output: K cluster centers, c_1,...,c_k 
+1. Pick a cluster to split.
+2. Find 2 sub-clusters using the basic k-Means algorithm (Bisecting step)
+3. Repeat step 2, the bisecting step, for ITER times and take the split that produces the clustering with the highest overall similarity.
+4. Repeat steps 1, 2 and 3 until the desired number of clusters is reached.
+
+```
 
