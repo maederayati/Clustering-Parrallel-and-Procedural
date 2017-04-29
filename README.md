@@ -68,7 +68,7 @@ while t<=k
 	t++
 ```
 
-### 5.Bisecting Kmeans
+### 5. Bisecting Kmeans - Procedural
 
 
 Bisecting k-Means is a combination of KMeans and hierarchical clustering. It starts with all objects in a single cluster and based on some criteria in each step a cluster is selected to be partitioned into two clusters. The algorithm could is implemented both in procedural and parrallell format as follows:
@@ -82,4 +82,10 @@ Output: K cluster centers, c_1,...,c_k
 4. Repeat steps 1, 2 and 3 until the desired number of clusters is reached.
 
 ```
+
+### 6. KDtree
+A k-d tree (short for k-dimensional tree) is a space-partitioning data structure for organizing points in a k-dimensional space. k-d trees are a useful data structure for several applications, such as searches involving a multidimensional search key. After implemting the kd-tree we implemted a search function to efficiently find the k nearest neighborss of a data point with the help of the k-tree. 
+
+
+
 
